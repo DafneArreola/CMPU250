@@ -72,3 +72,6 @@ We anticipate that our examination of multiple datasets will reveal that **AI-dr
 
 ## **6. Conclusion**
 The increasing use of **AI-driven real estate pricing models** necessitates a thorough examination of biases embedded in these algorithms. This study will provide **empirical evidence** of how these biases manifest in the **New York Metropolitan Area** and offer **data-driven recommendations** to promote greater accountability and transparency in AI-generated price estimates.  
+
+## **7. Group Agreement and Work Contract**
+Through much discussion, we have collectively decided that each group member will make time to meet regularly to discuss individual progress. We will delegate a fair amount of work to each group member and set deadlines for each task so that we can maintain punctuality and efficiency. If a team member cannot keep up with their portion of delegated work due to valid reasons, other group members will assist in any way that they can. Lastly, although work only needs to be finished before deadlines, we will encourage an environment of getting tasks done sooner rather than later.
