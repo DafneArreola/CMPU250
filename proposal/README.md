@@ -6,11 +6,13 @@
 Benjamin Kodi, Dafne Arreola, Jada Duggins, Alan Cedeno  
 
 ## **1. Introduction**
-Real estate pricing is one of the many data analysis and prediction tasks that machine learning algorithms are employed for. However, these algorithms frequently provide biased predictions because of biased training data, algorithmic design, and historical socioeconomic inequities. If the training data contains biases such as gentrification, income segregation, or redlining, the model will perpetuate them, impacting real estate patterns and strengthening systemic disparities.  
+Real estate pricing is one of the many data analysis and prediction tasks that machine learning algorithms are employed for. However, these algorithms frequently provide biased predictions because of biased training data, algorithmic design, and historical socioeconomic inequities. If the training data contains biases such as gentrification, income segregation, or redlining, the model will perpetuate them, impacting real estate patterns and strengthening systemic disparities.
 
-Zillow's Zestimate is a well-known example of AI-driven real estate pricing since it estimates house prices based on past sales data, geographical trends, and property qualities. While such models provide valuable insights, they may exacerbate housing inequalities by overvaluing or undervaluing properties in specific neighborhoods, particularly those with historically marginalized populations. This study investigates how AI-based housing price models inflate or deflate values in different New York Metrop...
+Zillow's Zestimate is a well-known example of AI-driven real estate pricing since it estimates house prices based on past sales data, geographical trends, and property qualities. These estimates are used widely by buyers, sellers, and even real estate professionals to guide decision-making in setting list prices, making offers, and assessing investment opportunities. The Zestimate can shape buyer and seller expectations, which means that its biases can have real and lasting impacts on housing demand and valuation. In some cases, Zestimates have also been incorporated by lenders or local governments into broader valuation systems, amplifying their influence.
 
-This study examines Zillow real estate data, U.S. Census demographics, and Airbnb rental market trends to identify bias tendencies in AI-generated pricing projections. By pointing out differences between AI-generated property valuations and real market patterns, we hope to contribute to the larger conversation on algorithmic bias in housing markets.  
+While such models provide valuable insights, they may exacerbate housing inequalities by overvaluing or undervaluing properties in specific neighborhoods, particularly those with historically marginalized populations. This study investigates how AI-based housing price models inflate or deflate values in different New York City demographic areas.
+
+This study examines Zillow real estate data, NYC demographic datasets from the NYU Furman Center, and Airbnb rental market trends to identify bias tendencies in AI-generated pricing projections. In particular, we are interested in how short-term rental platforms like Airbnb may influence AI-driven price estimations. As these platforms increase demand and raise prices in targeted neighborhoods, they may be feeding signals into algorithms like Zestimate, potentially contributing to biased or inflated estimates. By pointing out differences between AI-generated property valuations and real market patterns, we hope to contribute to the larger conversation on algorithmic bias in housing markets.
 
 ## **2. Research Questions**
 This study explores the following key research questions:
@@ -29,21 +31,18 @@ We collected information from many sources, each providing a distinct perspectiv
 - **Key Variables:**
   - Median Home Price (ZHVI)
   - Zillow Observed Rent Index (ZORI)
-  - Market Temperature Index (measuring demand vs. supply)
-  - Pending Sales & Inventory Levels
 - **Timeframe:** Monthly data from 2015–2025.
 - **Purpose:** Analyze how AI-driven price estimates compare across NYC boroughs and neighborhoods.
 
-### **3.2 U.S. Census Data (American Community Survey - ACS)**
-- **Source:** [U.S. Census Bureau](https://www.census.gov/data.html)
-- **Description:** Provides demographic, economic, and housing-related statistics for the New York Metropolitan Area.
+### **3.2 NYU Furman Center Demographic Data**
+- **Source:** [NYU Furman Center CoreData](http://furmancenter.org/coredata)
+- **Description:** Offers detailed demographic and housing information by New York City neighborhood.
 - **Key Variables:**
   - Median Household Income
   - Racial and Ethnic Composition (%)
-  - Owner-Occupied vs. Renter-Occupied Housing (%)
-  - Educational Attainment Levels
-- **Timeframe:** Latest available data from 2023–2024.
-- **Purpose:** Examine the relationship between neighborhood demographics and AI-predicted housing prices.
+  - Poverty Rate
+- **Timeframe:** Most recent datasets available.
+- **Purpose:** Analyze demographic trends and socioeconomic indicators by neighborhood to identify correlations with AI-generated price estimates.
 
 ### **3.3 Inside Airbnb Data**
 - **Source:** [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
@@ -51,8 +50,6 @@ We collected information from many sources, each providing a distinct perspectiv
 - **Key Variables:**
   - Average Listing Price
   - Neighborhood and Zip Code
-  - Host Type (Individual vs. Multi-Listing Host)
-  - Occupancy Rate (%)
 - **Timeframe:** 2023–2024 Airbnb listings.
 - **Purpose:** Evaluate the role of Airbnb-driven gentrification in shaping AI-driven housing prices.
 
