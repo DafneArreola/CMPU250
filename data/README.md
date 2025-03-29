@@ -1,6 +1,6 @@
 # 🧾 Codebook
 
-This dataset contains information about [Insert description here].
+This dataset contains information about variables we are using.
 
 | Variable Name | Description | Data Type | Possible Values / Range | Notes |
 |---------------|-------------|-----------|--------------------------|-------|
