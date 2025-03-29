@@ -1,0 +1,2061 @@
+id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
+6848,Brooklyn,Williamsburg,40.70935,-73.95342,Entire home/apt,81.0
+7801,Brooklyn,Williamsburg,40.71880722045898,-73.9561767578125,Entire home/apt,310.0
+16974,Manhattan,East Harlem,40.8019,-73.93762,Entire home/apt,300.0
+19812,Brooklyn,Williamsburg,40.71802,-73.95724,Entire home/apt,105.0
+28907,Manhattan,Upper East Side,40.77827,-73.94669,Entire home/apt,150.0
+33009,Brooklyn,Williamsburg,40.71512,-73.95899,Entire home/apt,195.0
+121687,Brooklyn,Williamsburg,40.71983,-73.95992,Entire home/apt,200.0
+140133,Brooklyn,Williamsburg,40.71347,-73.96035,Entire home/apt,295.0
+148259,Brooklyn,Williamsburg,40.71345,-73.94289,Entire home/apt,350.0
+44973,Brooklyn,Williamsburg,40.70894,-73.95234,Entire home/apt,98.0
+57874,Manhattan,East Harlem,40.80747,-73.94076,Entire home/apt,119.0
+65660,Brooklyn,Williamsburg,40.70797,-73.94792,Entire home/apt,95.0
+83243,Brooklyn,Bushwick,40.68769,-73.91788,Entire home/apt,56.0
+225354,Brooklyn,Williamsburg,40.71085,-73.96672,Entire home/apt,180.0
+182069,Manhattan,East Harlem,40.78959,-73.94705,Entire home/apt,100.0
+226021,Brooklyn,Williamsburg,40.71137,-73.9465,Entire home/apt,140.0
+230877,Manhattan,East Harlem,40.79147,-73.94629,Entire home/apt,135.0
+249704,Brooklyn,Williamsburg,40.71065,-73.94102,Entire home/apt,105.0
+268335,Brooklyn,Williamsburg,40.72136,-73.95674,Entire home/apt,175.0
+274743,Manhattan,Upper East Side,40.77549,-73.95128,Entire home/apt,95.0
+276021,Brooklyn,Williamsburg,40.70937,-73.9657,Entire home/apt,350.0
+302758,Manhattan,East Harlem,40.79675,-73.93634,Entire home/apt,150.0
+322037,Brooklyn,Williamsburg,40.71923,-73.9582,Entire home/apt,175.0
+325429,Manhattan,Upper East Side,40.77534,-73.95106,Entire home/apt,179.0
+541725,Brooklyn,Williamsburg,40.72057081537138,-73.96010448151357,Entire home/apt,307.0
+568661,Brooklyn,Bushwick,40.70783,-73.92071,Entire home/apt,90.0
+466277,Brooklyn,Williamsburg,40.71116,-73.94721,Entire home/apt,150.0
+514548,Brooklyn,Bushwick,40.69775,-73.92615,Entire home/apt,150.0
+581488,Brooklyn,Williamsburg,40.71583,-73.96277,Entire home/apt,282.0
+607781,Manhattan,East Harlem,40.79046,-73.94576,Entire home/apt,120.0
+776257,Brooklyn,Williamsburg,40.71918,-73.9596,Entire home/apt,325.0
+666613,Brooklyn,Williamsburg,40.71084,-73.96205,Entire home/apt,211.0
+699472,Brooklyn,Williamsburg,40.709278,-73.954689,Entire home/apt,220.0
+749276,Brooklyn,Bushwick,40.69266,-73.90362,Entire home/apt,90.0
+978386,Queens,Astoria,40.75725,-73.91811,Entire home/apt,75.0
+984721,Brooklyn,Bay Ridge,40.63685,-74.03614,Entire home/apt,81.0
+1010785,Queens,Astoria,40.76472,-73.9264,Entire home/apt,161.0
+1018529,Brooklyn,Williamsburg,40.719,-73.94831,Entire home/apt,350.0
+850338,Brooklyn,Williamsburg,40.71586,-73.9453,Entire home/apt,168.0
+850517,Brooklyn,Bushwick,40.68769,-73.91286,Entire home/apt,199.0
+850943,Brooklyn,Williamsburg,40.71204,-73.96459,Entire home/apt,180.0
+857810,Brooklyn,Williamsburg,40.71301,-73.94752,Entire home/apt,249.0
+1137093,Brooklyn,Williamsburg,40.716431,-73.9490627,Entire home/apt,380.0
+1145088,Queens,Astoria,40.77372,-73.93024,Entire home/apt,189.0
+1150382,Manhattan,East Harlem,40.79946,-73.9378,Entire home/apt,100.0
+1157522,Brooklyn,Williamsburg,40.71802,-73.95886,Entire home/apt,220.0
+1045897,Brooklyn,Williamsburg,40.71819,-73.95541,Entire home/apt,120.0
+1056445,Manhattan,Upper East Side,40.7673,-73.97026,Entire home/apt,500.0
+1060019,Manhattan,Upper East Side,40.77451,-73.9574,Entire home/apt,628.0
+1063020,Manhattan,East Harlem,40.79346,-73.94374,Entire home/apt,120.0
+1098863,Brooklyn,Bushwick,40.69093,-73.90366,Entire home/apt,60.0
+1117706,Brooklyn,Williamsburg,40.71481,-73.96006,Entire home/apt,150.0
+1390964,Bronx,Mott Haven,40.80847,-73.91762,Entire home/apt,250.0
+1506985,Manhattan,East Harlem,40.80242,-73.94407,Entire home/apt,225.0
+1555491,Manhattan,Upper East Side,40.77614,-73.94964,Entire home/apt,257.0
+1304459,Brooklyn,Williamsburg,40.70931,-73.95011,Entire home/apt,200.0
+1307228,Brooklyn,Bushwick,40.7071882320667,-73.92235977266616,Entire home/apt,115.0
+1734724,Brooklyn,Williamsburg,40.7193,-73.95567,Entire home/apt,180.0
+1591811,Brooklyn,Williamsburg,40.70866,-73.94376,Entire home/apt,150.0
+1634856,Brooklyn,Williamsburg,40.71789,-73.9589,Entire home/apt,220.0
+1640995,Manhattan,Upper East Side,40.76842,-73.95532,Entire home/apt,123.0
+1921859,Queens,Astoria,40.76963,-73.922684,Entire home/apt,163.0
+1925224,Brooklyn,Williamsburg,40.71629,-73.95362,Entire home/apt,250.0
+1956677,Bronx,Mott Haven,40.80848,-73.92792,Entire home/apt,185.0
+2044889,Brooklyn,Williamsburg,40.71414,-73.95931,Entire home/apt,156.0
+1981590,Brooklyn,Bushwick,40.69832,-73.91336,Entire home/apt,150.0
+1984378,Brooklyn,Bushwick,40.70411,-73.9289,Entire home/apt,168.0
+2254817,Manhattan,Upper East Side,40.77077,-73.9599,Entire home/apt,89.0
+2092827,Brooklyn,Williamsburg,40.71181,-73.94827,Entire home/apt,159.0
+2120223,Manhattan,East Harlem,40.78844,-73.95088,Entire home/apt,109.0
+2400614,Brooklyn,Williamsburg,40.71949,-73.9404,Entire home/apt,170.0
+2404708,Brooklyn,Williamsburg,40.72172,-73.96155,Entire home/apt,250.0
+2607583,Manhattan,Upper East Side,40.77096,-73.95539,Entire home/apt,80.0
+2607741,Manhattan,Upper East Side,40.77073,-73.95714,Entire home/apt,80.0
+2619549,Manhattan,Upper East Side,40.77322,-73.95624,Entire home/apt,95.0
+2619802,Manhattan,Upper East Side,40.77131,-73.9571,Entire home/apt,96.0
+2620068,Manhattan,Upper East Side,40.7707,-73.95735,Entire home/apt,100.0
+2636532,Manhattan,Upper East Side,40.77093,-73.95625,Entire home/apt,130.0
+2754179,Manhattan,Upper East Side,40.77176,-73.95555,Entire home/apt,80.0
+2484057,Brooklyn,Williamsburg,40.70675,-73.95593,Entire home/apt,126.0
+2485774,Brooklyn,Williamsburg,40.71298,-73.94356,Entire home/apt,168.0
+2569808,Brooklyn,Williamsburg,40.71051,-73.95897,Entire home/apt,110.0
+2799018,Manhattan,Upper East Side,40.76455,-73.95656,Entire home/apt,120.0
+2817967,Manhattan,Upper East Side,40.77302,-73.95579,Entire home/apt,85.0
+2847932,Manhattan,Upper East Side,40.78432,-73.94839,Entire home/apt,304.0
+2856770,Manhattan,East Harlem,40.78491,-73.94708,Entire home/apt,335.0
+2863408,Manhattan,Upper East Side,40.77089,-73.95626,Entire home/apt,100.0
+2872353,Manhattan,Upper East Side,40.77262,-73.95598,Entire home/apt,88.0
+3258196,Brooklyn,Williamsburg,40.71813,-73.95871,Entire home/apt,399.0
+2979097,Manhattan,Upper East Side,40.7709,-73.95741,Entire home/apt,100.0
+2987465,Manhattan,Upper East Side,40.77141,-73.95548,Entire home/apt,100.0
+2995209,Manhattan,Upper East Side,40.77141,-73.95739,Entire home/apt,100.0
+3012871,Brooklyn,Williamsburg,40.71672,-73.95765,Entire home/apt,241.0
+3068145,Manhattan,Upper East Side,40.77073,-73.95683,Entire home/apt,90.0
+3068852,Manhattan,Upper East Side,40.77081,-73.95672,Entire home/apt,117.0
+3401271,Manhattan,East Harlem,40.79252,-73.94566,Entire home/apt,100.0
+3415102,Brooklyn,Williamsburg,40.71207,-73.96503,Entire home/apt,650.0
+3626426,Manhattan,Upper East Side,40.7713,-73.95753,Entire home/apt,94.0
+3645284,Manhattan,Upper East Side,40.76085,-73.96041,Entire home/apt,194.0
+3663984,Manhattan,Upper East Side,40.77288,-73.95711,Entire home/apt,100.0
+3760029,Queens,Astoria,40.75481,-73.916,Entire home/apt,150.0
+3923128,Manhattan,Upper East Side,40.77116,-73.95685,Entire home/apt,94.0
+3962389,Brooklyn,Flatlands,40.61942,-73.92315,Entire home/apt,125.0
+3987599,Brooklyn,Bushwick,40.68696,-73.91698,Entire home/apt,93.0
+4121363,Manhattan,East Harlem,40.80711,-73.93784,Entire home/apt,100.0
+4359718,Brooklyn,Bushwick,40.6968,-73.90816,Entire home/apt,121.0
+4387152,Brooklyn,Williamsburg,40.71359,-73.9554,Entire home/apt,100.0
+4453484,Brooklyn,Williamsburg,40.72108,-73.95967,Entire home/apt,230.0
+4594389,Manhattan,Upper East Side,40.78218,-73.94827,Entire home/apt,97.0
+4643199,Manhattan,Upper East Side,40.77256,-73.95537,Entire home/apt,91.0
+4644669,Manhattan,Upper East Side,40.76348,-73.96422,Entire home/apt,350.0
+4668252,Manhattan,Upper East Side,40.77518,-73.95339,Entire home/apt,92.0
+4786675,Brooklyn,Williamsburg,40.72026,-73.96349,Entire home/apt,159.0
+4822181,Manhattan,Upper East Side,40.77429,-73.95157,Entire home/apt,111.0
+4688418,Manhattan,Upper East Side,40.77315,-73.95258,Entire home/apt,125.0
+4714854,Manhattan,Upper East Side,40.7831,-73.94801,Entire home/apt,91.0
+5085803,Manhattan,Upper East Side,40.78248,-73.94643,Entire home/apt,83.0
+5095468,Manhattan,East Harlem,40.79179,-73.94828,Entire home/apt,165.0
+5144689,Manhattan,East Harlem,40.80581,-73.94234,Entire home/apt,149.0
+4907861,Brooklyn,Bushwick,40.69877,-73.91639,Entire home/apt,225.0
+4920338,Manhattan,Upper East Side,40.76402,-73.95916,Entire home/apt,310.0
+5010368,Manhattan,Upper East Side,40.77395,-73.95153,Entire home/apt,125.0
+5319431,Manhattan,Upper East Side,40.78673,-73.95512,Entire home/apt,150.0
+5199439,Manhattan,Upper East Side,40.77504,-73.95357,Entire home/apt,99.0
+5231817,Manhattan,Upper East Side,40.76085,-73.96041,Entire home/apt,136.0
+5606308,Brooklyn,Williamsburg,40.71217,-73.9684,Entire home/apt,361.0
+5627090,Brooklyn,Williamsburg,40.71391,-73.9418,Entire home/apt,230.0
+5706280,Manhattan,Upper East Side,40.77171,-73.95535,Entire home/apt,84.0
+5728502,Brooklyn,Williamsburg,40.70824,-73.95448,Entire home/apt,99.0
+5353312,Manhattan,Upper East Side,40.77375,-73.95215,Entire home/apt,92.0
+5413565,Brooklyn,Williamsburg,40.70794,-73.93486,Entire home/apt,239.0
+5439372,Manhattan,East Harlem,40.801,-73.94598,Entire home/apt,80.0
+5520934,Brooklyn,Williamsburg,40.71499,-73.9599,Entire home/apt,225.0
+5756464,Manhattan,Upper East Side,40.77297,-73.95689,Entire home/apt,118.0
+6069703,Brooklyn,Williamsburg,40.71288,-73.96341,Entire home/apt,115.0
+6101104,Manhattan,Upper East Side,40.77309278128386,-73.95114664698917,Entire home/apt,300.0
+6105742,Manhattan,Upper East Side,40.77956,-73.94754,Entire home/apt,300.0
+5882725,Brooklyn,Williamsburg,40.70709,-73.94949,Entire home/apt,185.0
+5979363,Brooklyn,Williamsburg,40.71336593433272,-73.96327244440262,Entire home/apt,229.0
+6000898,Manhattan,Upper East Side,40.78287,-73.95169,Entire home/apt,753.0
+6005868,Brooklyn,Williamsburg,40.71118,-73.95192,Entire home/apt,245.0
+6447136,Brooklyn,Bushwick,40.69897,-73.92241,Entire home/apt,105.0
+6501082,Brooklyn,Williamsburg,40.71366,-73.96616,Entire home/apt,464.0
+6507084,Manhattan,East Harlem,40.79905,-73.9316,Entire home/apt,117.0
+6748711,Brooklyn,Williamsburg,40.71109,-73.95527,Entire home/apt,135.0
+6767047,Brooklyn,Bushwick,40.68972,-73.91512,Entire home/apt,180.0
+6780285,Brooklyn,Williamsburg,40.71413880889267,-73.9366103078195,Entire home/apt,395.0
+6640144,Manhattan,Upper East Side,40.77195,-73.96292,Entire home/apt,500.0
+6883096,Queens,Astoria,40.76385,-73.92604,Entire home/apt,299.0
+7024138,Manhattan,Upper East Side,40.78414,-73.94834,Entire home/apt,155.0
+7071657,Manhattan,Upper East Side,40.7742101,-73.95082169999999,Entire home/apt,213.0
+7498074,Manhattan,Upper East Side,40.77107,-73.95742,Entire home/apt,100.0
+7774182,Queens,Astoria,40.75653,-73.92515,Entire home/apt,170.0
+7871818,Brooklyn,Bushwick,40.69647,-73.91857,Entire home/apt,199.0
+7887966,Queens,Astoria,40.75834,-73.91284,Entire home/apt,100.0
+8045552,Queens,Astoria,40.7688,-73.9093,Entire home/apt,65.0
+8151183,Brooklyn,Bushwick,40.69693,-73.91153,Entire home/apt,140.0
+8182759,Brooklyn,Williamsburg,40.71313,-73.96194,Entire home/apt,325.0
+8240016,Brooklyn,Bushwick,40.6988,-73.93532,Entire home/apt,117.0
+8533225,Brooklyn,Bushwick,40.68933,-73.91848,Entire home/apt,345.0
+8623370,Queens,Queens Village,40.71869,-73.75395,Entire home/apt,101.0
+8629731,Brooklyn,Bay Ridge,40.6328,-74.03096,Entire home/apt,553.0
+9116752,Brooklyn,Bushwick,40.70834,-73.92014,Entire home/apt,73.0
+9117852,Manhattan,Upper East Side,40.77922,-73.95396,Entire home/apt,150.0
+9185696,Queens,Queens Village,40.71858,-73.75411,Entire home/apt,75.0
+8985316,Manhattan,Upper East Side,40.76169,-73.96269,Entire home/apt,1500.0
+9253827,Brooklyn,Williamsburg,40.71728,-73.94157,Entire home/apt,150.0
+9324841,Brooklyn,Williamsburg,40.71499,-73.9463,Entire home/apt,300.0
+9486111,Manhattan,Upper East Side,40.78403,-73.94835,Entire home/apt,138.0
+9489073,Manhattan,East Harlem,40.79305,-73.93432,Entire home/apt,99.0
+9623722,Manhattan,East Harlem,40.80233,-73.94515,Entire home/apt,348.0
+9560398,Manhattan,East Harlem,40.78866,-73.94783,Entire home/apt,155.0
+9863045,Manhattan,East Harlem,40.798645,-73.934341,Entire home/apt,194.0
+9925507,Brooklyn,Williamsburg,40.71224,-73.94481,Entire home/apt,183.0
+10205130,Manhattan,East Harlem,40.80243,-73.9373,Entire home/apt,150.0
+10142056,Manhattan,Upper East Side,40.7736,-73.95339,Entire home/apt,89.0
+10341262,Manhattan,Upper East Side,40.78332,-73.94613,Entire home/apt,97.0
+10452541,Brooklyn,Bushwick,40.6995,-73.9308,Entire home/apt,109.0
+10470258,Manhattan,East Harlem,40.8081,-73.93853,Entire home/apt,90.0
+10545815,Brooklyn,Williamsburg,40.70689,-73.93855,Entire home/apt,147.0
+10569037,Manhattan,Upper East Side,40.7811,-73.95319,Entire home/apt,90.0
+11352664,Manhattan,East Harlem,40.81388,-73.93611,Entire home/apt,95.0
+11437634,Queens,Astoria,40.75502,-73.91622,Entire home/apt,76.0
+11693193,Brooklyn,Williamsburg,40.70976,-73.94767,Entire home/apt,344.0
+12037401,Manhattan,Upper East Side,40.78119,-73.95302,Entire home/apt,90.0
+12360207,Brooklyn,Williamsburg,40.71609,-73.96133,Entire home/apt,105.0
+12606349,Manhattan,East Harlem,40.78965,-73.94329,Entire home/apt,99.0
+12832371,Manhattan,Upper East Side,40.77051,-73.95714,Entire home/apt,163.0
+12833187,Manhattan,Upper East Side,40.76334,-73.96301,Entire home/apt,181.0
+12867918,Manhattan,Upper East Side,40.76947,-73.95647,Entire home/apt,107.0
+12950991,Manhattan,Upper East Side,40.77481,-73.95089,Entire home/apt,499.0
+12985547,Manhattan,Upper East Side,40.77294,-73.95729,Entire home/apt,91.0
+13024560,Queens,Astoria,40.77176,-73.926,Entire home/apt,110.0
+13117094,Manhattan,East Harlem,40.79614,-73.94867,Entire home/apt,185.0
+13136376,Manhattan,East Harlem,40.795,-73.9332,Entire home/apt,95.0
+13070577,Brooklyn,Williamsburg,40.71812,-73.94226,Entire home/apt,325.0
+13101855,Brooklyn,Flatlands,40.6139,-73.9231,Entire home/apt,104.0
+13510347,Manhattan,Upper East Side,40.76158,-73.96167,Entire home/apt,234.0
+13388649,Queens,Astoria,40.76435,-73.90887,Entire home/apt,136.0
+13642568,Brooklyn,Williamsburg,40.7184,-73.95365,Entire home/apt,155.0
+13745644,Manhattan,Upper East Side,40.76319,-73.95919,Entire home/apt,550.0
+13825154,Brooklyn,Bay Ridge,40.62717,-74.0285,Entire home/apt,154.0
+13854483,Brooklyn,Bushwick,40.70007,-73.92193,Entire home/apt,135.0
+13727552,Brooklyn,Williamsburg,40.72003650279002,-73.96096031484102,Entire home/apt,250.0
+13912712,Manhattan,Upper East Side,40.77025,-73.95721,Entire home/apt,97.0
+13936824,Brooklyn,Williamsburg,40.71941,-73.94322,Entire home/apt,200.0
+14139553,Manhattan,Upper East Side,40.76947,-73.95647,Entire home/apt,100.0
+14281526,Queens,Queens Village,40.70983,-73.73904,Entire home/apt,150.0
+14296598,Brooklyn,Williamsburg,40.71964,-73.95529,Entire home/apt,249.0
+14012274,Manhattan,Upper East Side,40.76048,-73.96175,Entire home/apt,180.0
+14485372,Manhattan,East Harlem,40.78608,-73.94929,Entire home/apt,165.0
+14506036,Manhattan,East Harlem,40.80837,-73.93878,Entire home/apt,185.0
+14692459,Manhattan,Upper East Side,40.78183,-73.9461,Entire home/apt,95.0
+14844313,Brooklyn,Bushwick,40.700706,-73.912239,Entire home/apt,160.0
+14868857,Brooklyn,Williamsburg,40.71913,-73.94452,Entire home/apt,85.0
+15324045,Brooklyn,Bushwick,40.68796,-73.9086,Entire home/apt,1143.0
+15124396,Manhattan,Upper East Side,40.78575,-73.95521,Entire home/apt,125.0
+15374506,Brooklyn,Bushwick,40.7012005,-73.9357079,Entire home/apt,135.0
+15476794,Queens,Queens Village,40.70636,-73.74114,Entire home/apt,125.0
+15495132,Manhattan,East Harlem,40.78925,-73.94277,Entire home/apt,97.0
+15827829,Manhattan,Upper East Side,40.78118,-73.95306,Entire home/apt,100.0
+15830677,Manhattan,Upper East Side,40.77877,-73.95469,Entire home/apt,133.0
+15678385,Brooklyn,Flatlands,40.61638,-73.92514,Entire home/apt,163.0
+15715486,Brooklyn,Williamsburg,40.71497,-73.96214,Entire home/apt,200.0
+15723889,Manhattan,Upper East Side,40.76892,-73.9617,Entire home/apt,150.0
+15928001,Manhattan,Upper East Side,40.77837753295898,-73.95565795898438,Entire home/apt,84.0
+16174233,Manhattan,Upper East Side,40.76947,-73.95647,Entire home/apt,100.0
+16226219,Brooklyn,Williamsburg,40.71535921414625,-73.94537086129327,Entire home/apt,185.0
+16331234,Brooklyn,Williamsburg,40.70797,-73.95008,Entire home/apt,160.0
+16380794,Brooklyn,Bay Ridge,40.63698,-74.026,Entire home/apt,192.0
+16396241,Brooklyn,Williamsburg,40.71075,-73.9534,Entire home/apt,229.0
+16506016,Manhattan,East Harlem,40.80255433837211,-73.94299800608636,Entire home/apt,221.0
+16534156,Manhattan,Upper East Side,40.77077677405901,-73.95429182245748,Entire home/apt,150.0
+16683957,Brooklyn,Williamsburg,40.70742,-73.94795,Entire home/apt,180.0
+16769229,Brooklyn,Bushwick,40.69479,-73.90953,Entire home/apt,131.0
+16776959,Brooklyn,Bay Ridge,40.63254,-74.03161,Entire home/apt,65.0
+16802965,Brooklyn,Williamsburg,40.71306,-73.96048,Entire home/apt,139.0
+16893907,Queens,Astoria,40.76774,-73.91674,Entire home/apt,145.0
+16973662,Brooklyn,Williamsburg,40.7145,-73.96028,Entire home/apt,178.0
+17122054,Manhattan,East Harlem,40.80981,-73.93954,Entire home/apt,119.0
+17122439,Manhattan,East Harlem,40.80971,-73.93829,Entire home/apt,98.0
+17218063,Manhattan,Upper East Side,40.76849,-73.95022,Entire home/apt,90.0
+18039693,Manhattan,Upper East Side,40.78118,-73.95306,Entire home/apt,115.0
+17624418,Brooklyn,Bay Ridge,40.62482,-74.02959,Entire home/apt,120.0
+17653754,Manhattan,Upper East Side,40.76859868072693,-73.95567592461009,Entire home/apt,118.0
+17864665,Manhattan,Upper East Side,40.76997,-73.95109,Entire home/apt,140.0
+18188958,Brooklyn,Williamsburg,40.70875,-73.96633,Entire home/apt,257.0
+18076965,Brooklyn,Williamsburg,40.71113,-73.95062,Entire home/apt,110.0
+18103710,Manhattan,Upper East Side,40.763,-73.96279,Entire home/apt,158.0
+18455830,Brooklyn,Bushwick,40.69114297012183,-73.91140817682721,Entire home/apt,161.0
+18506359,Brooklyn,Williamsburg,40.70874,-73.96322,Entire home/apt,206.0
+18358606,Manhattan,East Harlem,40.79052,-73.9485,Entire home/apt,169.0
+18359018,Manhattan,Upper East Side,40.78118,-73.95306,Entire home/apt,100.0
+18689454,Brooklyn,Bushwick,40.69323,-73.92387,Entire home/apt,89.0
+19081472,Brooklyn,Williamsburg,40.72052,-73.95609,Entire home/apt,300.0
+18823971,Manhattan,Upper East Side,40.77293,-73.95581,Entire home/apt,100.0
+18874640,Manhattan,Upper East Side,40.77128,-73.95581,Entire home/apt,90.0
+19118963,Manhattan,Upper East Side,40.76993,-73.95734,Entire home/apt,98.0
+19382819,Manhattan,Upper East Side,40.76947,-73.95647,Entire home/apt,107.0
+19407992,Brooklyn,Williamsburg,40.71587,-73.96,Entire home/apt,295.0
+19251668,Brooklyn,Williamsburg,40.71823,-73.9606,Entire home/apt,109.0
+19554564,Brooklyn,Bushwick,40.68257,-73.90758,Entire home/apt,175.0
+19787245,Manhattan,Upper East Side,40.77016,-73.95716,Entire home/apt,112.0
+19862234,Manhattan,East Harlem,40.79237,-73.94402,Entire home/apt,99.0
+19867655,Brooklyn,Williamsburg,40.71973,-73.95861,Entire home/apt,225.0
+20177584,Brooklyn,Williamsburg,40.71906,-73.94246,Entire home/apt,114.0
+20234674,Manhattan,Upper East Side,40.77902,-73.95176,Entire home/apt,131.0
+20245130,Brooklyn,Williamsburg,40.71248,-73.96095,Entire home/apt,350.0
+20407916,Brooklyn,Williamsburg,40.70862,-73.96722,Entire home/apt,184.0
+20615932,Brooklyn,Bushwick,40.6966,-73.91493,Entire home/apt,93.0
+20688524,Manhattan,East Harlem,40.79522,-73.94949,Entire home/apt,100.0
+20698477,Manhattan,Upper East Side,40.76048,-73.96175,Entire home/apt,144.0
+20720290,Manhattan,Upper East Side,40.77818,-73.95477,Entire home/apt,107.0
+20772650,Manhattan,Upper East Side,40.76048,-73.96175,Entire home/apt,115.0
+21110709,Queens,Astoria,40.774004038203,-73.92474589948257,Entire home/apt,450.0
+21148292,Manhattan,Upper East Side,40.77118,-73.95842,Entire home/apt,163.0
+21161561,Manhattan,Upper East Side,40.77218,-73.95991,Entire home/apt,185.0
+21230082,Manhattan,Upper East Side,40.76178,-73.96573,Entire home/apt,388.0
+21262243,Brooklyn,Bushwick,40.68720994642341,-73.90749414801789,Entire home/apt,350.0
+21410794,Manhattan,East Harlem,40.81333,-73.93489,Entire home/apt,110.0
+21411274,Manhattan,Upper East Side,40.77781,-73.95156,Entire home/apt,105.0
+21458689,Queens,Queens Village,40.70973,-73.73956,Entire home/apt,130.0
+21583199,Manhattan,East Harlem,40.79438,-73.94787,Entire home/apt,165.0
+21750219,Manhattan,East Harlem,40.79053115844727,-73.94721221923828,Entire home/apt,229.0
+21311240,Brooklyn,Williamsburg,40.71022,-73.95777,Entire home/apt,200.0
+21595000,Brooklyn,Williamsburg,40.71786,-73.96439,Entire home/apt,185.0
+21620762,Manhattan,East Harlem,40.78792,-73.95156,Entire home/apt,110.0
+22078463,Brooklyn,Williamsburg,40.71393,-73.95045,Entire home/apt,170.0
+22088301,Brooklyn,Williamsburg,40.71147,-73.94387,Entire home/apt,119.0
+22142636,Manhattan,East Harlem,40.79405,-73.93602,Entire home/apt,170.0
+22119195,Brooklyn,Bushwick,40.68584,-73.91554,Entire home/apt,91.0
+22276602,Brooklyn,Williamsburg,40.70429,-73.93627,Entire home/apt,165.0
+22346131,Queens,Astoria,40.75679,-73.92844,Entire home/apt,159.0
+22376093,Brooklyn,Williamsburg,40.71455,-73.93952,Entire home/apt,110.0
+22385672,Brooklyn,Williamsburg,40.71236,-73.95237,Entire home/apt,265.0
+22387499,Brooklyn,Bushwick,40.68595,-73.90904,Entire home/apt,109.0
+22229755,Brooklyn,Bushwick,40.69486,-73.92306,Entire home/apt,96.0
+22465327,Brooklyn,Bushwick,40.68837,-73.91453,Entire home/apt,249.0
+22582841,Brooklyn,Bushwick,40.69915,-73.93706,Entire home/apt,291.0
+22911635,Manhattan,Upper East Side,40.76164,-73.96639,Entire home/apt,278.0
+23271535,Brooklyn,Williamsburg,40.71216,-73.95155,Entire home/apt,98.0
+23002904,Manhattan,Upper East Side,40.77584,-73.95205,Entire home/apt,625.0
+23004107,Brooklyn,Bushwick,40.70067,-73.92367,Entire home/apt,95.0
+23027784,Manhattan,Upper East Side,40.764172,-73.96743,Entire home/apt,130.0
+23054855,Brooklyn,Williamsburg,40.71653,-73.93939,Entire home/apt,185.0
+23277230,Manhattan,Upper East Side,40.76572,-73.96769,Entire home/apt,330.0
+23432542,Manhattan,Upper East Side,40.76417,-73.96743,Entire home/apt,167.0
+23437788,Manhattan,Upper East Side,40.7641591,-73.9674392,Entire home/apt,124.0
+23536265,Manhattan,Upper East Side,40.7816,-73.94505,Entire home/apt,87.0
+23841481,Brooklyn,Williamsburg,40.71124,-73.96292,Entire home/apt,642.0
+23901779,Manhattan,Upper East Side,40.78148,-73.95198,Entire home/apt,104.0
+23579705,Manhattan,Upper East Side,40.77815,-73.9519,Entire home/apt,395.0
+23597076,Bronx,Williamsbridge,40.87157,-73.86017,Entire home/apt,110.0
+23727923,Queens,Astoria,40.75419,-73.92314,Entire home/apt,95.0
+23747957,Manhattan,East Harlem,40.80111,-73.94488,Entire home/apt,128.0
+24022894,Brooklyn,Williamsburg,40.71780565059869,-73.9425378679714,Entire home/apt,101.0
+24453838,Brooklyn,Williamsburg,40.71623,-73.94067,Entire home/apt,213.0
+24758664,Brooklyn,Bushwick,40.70106,-73.92457,Entire home/apt,175.0
+24805249,Brooklyn,Williamsburg,40.71555,-73.95347,Entire home/apt,225.0
+24845719,Brooklyn,Williamsburg,40.71335,-73.95742,Entire home/apt,250.0
+25163519,Manhattan,East Harlem,40.79384,-73.93365,Entire home/apt,170.0
+25294851,Brooklyn,Bushwick,40.68736,-73.91445,Entire home/apt,92.0
+25346963,Manhattan,Upper East Side,40.77741,-73.96258,Entire home/apt,325.0
+25350875,Brooklyn,Bushwick,40.68714,-73.91556,Entire home/apt,128.0
+24992683,Brooklyn,Williamsburg,40.7119,-73.94156,Entire home/apt,169.0
+25134311,Manhattan,East Harlem,40.78484,-73.94756,Entire home/apt,235.0
+25138149,Manhattan,East Harlem,40.79492,-73.94023,Entire home/apt,290.0
+25537456,Manhattan,Upper East Side,40.76418,-73.96742,Entire home/apt,107.0
+25543393,Brooklyn,Williamsburg,40.70794,-73.93511,Entire home/apt,239.0
+25571627,Brooklyn,Flatlands,40.62979,-73.91918,Entire home/apt,140.0
+25970374,Manhattan,Upper East Side,40.769516,-73.956444,Entire home/apt,103.0
+26002246,Manhattan,Upper East Side,40.75934,-73.96075,Entire home/apt,75.0
+25765042,Brooklyn,Bushwick,40.69797762383031,-73.91188714212258,Entire home/apt,90.0
+25784618,Bronx,Mott Haven,40.81004,-73.91177,Entire home/apt,154.0
+25823670,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,207.0
+25909161,Manhattan,Upper East Side,40.76922,-73.95263,Entire home/apt,125.0
+26845561,Brooklyn,Bushwick,40.68831,-73.91589,Entire home/apt,180.0
+26475612,Brooklyn,Williamsburg,40.71821,-73.94442,Entire home/apt,135.0
+26496511,Brooklyn,Williamsburg,40.72143,-73.96344,Entire home/apt,140.0
+27054756,Brooklyn,Williamsburg,40.72045,-73.96012,Entire home/apt,120.0
+27416658,Manhattan,East Harlem,40.80912,-73.9388,Entire home/apt,170.0
+27458304,Manhattan,Upper East Side,40.76418,-73.96742,Entire home/apt,126.0
+27470676,Manhattan,Upper East Side,40.76418,-73.96742,Entire home/apt,106.0
+27498398,Manhattan,East Harlem,40.80764,-73.94039,Entire home/apt,406.0
+27527902,Brooklyn,Bushwick,40.69498,-73.92258,Entire home/apt,120.0
+27287372,Brooklyn,Williamsburg,40.71534,-73.94539,Entire home/apt,409.0
+27712922,Brooklyn,Bay Ridge,40.63745,-74.02606,Entire home/apt,180.0
+28012942,Manhattan,Upper East Side,40.77899,-73.95243,Entire home/apt,248.0
+28014842,Manhattan,East Harlem,40.79465,-73.9437,Entire home/apt,91.0
+27785672,Brooklyn,Bushwick,40.70351,-73.91852,Entire home/apt,265.0
+27928809,Brooklyn,Williamsburg,40.71119,-73.94634,Entire home/apt,270.0
+28561904,Brooklyn,Bushwick,40.70296439360243,-73.92670124072912,Entire home/apt,150.0
+28778214,Manhattan,East Harlem,40.80008,-73.93762,Entire home/apt,135.0
+28796546,Brooklyn,Bushwick,40.68807,-73.91902,Entire home/apt,150.0
+28838614,Queens,Queens Village,40.72122,-73.75003,Entire home/apt,105.0
+28408938,Brooklyn,Williamsburg,40.71749,-73.95529,Entire home/apt,225.0
+28500619,Brooklyn,Williamsburg,40.71767,-73.95329,Entire home/apt,300.0
+29015079,Brooklyn,Williamsburg,40.71557,-73.95039,Entire home/apt,130.0
+29097472,Brooklyn,Williamsburg,40.71682,-73.96493,Entire home/apt,365.0
+29654321,Brooklyn,Williamsburg,40.71765,-73.94176,Entire home/apt,152.0
+29847492,Manhattan,Upper East Side,40.78335,-73.94685,Entire home/apt,87.0
+29877448,Manhattan,Upper East Side,40.76078414916992,-73.96043395996094,Entire home/apt,194.0
+29964348,Manhattan,Upper East Side,40.76461,-73.96662,Entire home/apt,3600.0
+29990168,Brooklyn,Bushwick,40.68653,-73.91388,Entire home/apt,135.0
+29730504,Brooklyn,Bushwick,40.69417,-73.90715,Entire home/apt,106.0
+30031616,Manhattan,Upper East Side,40.7723353,-73.950981,Entire home/apt,213.0
+30104723,Brooklyn,Williamsburg,40.70811,-73.9503,Entire home/apt,139.0
+30236202,Brooklyn,Bushwick,40.69232,-73.92412,Entire home/apt,59.0
+30387218,Manhattan,Upper East Side,40.7633888,-73.9596248,Entire home/apt,276.0
+30182137,Manhattan,Upper East Side,40.77291870117188,-73.95587921142578,Entire home/apt,83.0
+30206047,Manhattan,Upper East Side,40.78435,-73.95391,Entire home/apt,1000.0
+30393414,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,284.0
+30447204,Brooklyn,Bushwick,40.69368,-73.92567,Entire home/apt,469.0
+30499109,Brooklyn,Bushwick,40.69607,-73.91189,Entire home/apt,195.0
+30511301,Brooklyn,Williamsburg,40.70775604248047,-73.95317840576172,Entire home/apt,110.0
+30531246,Brooklyn,Williamsburg,40.70747,-73.94856,Entire home/apt,143.0
+30585315,Brooklyn,Williamsburg,40.70476,-73.94245,Entire home/apt,85.0
+30421561,Manhattan,Upper East Side,40.7723353,-73.950981,Entire home/apt,225.0
+30695144,Brooklyn,Williamsburg,40.71631,-73.96428,Entire home/apt,450.0
+30699302,Brooklyn,Williamsburg,40.71289,-73.96322,Entire home/apt,79.0
+30702384,Manhattan,East Harlem,40.80835,-73.94046,Entire home/apt,170.0
+30764476,Manhattan,Upper East Side,40.78106,-73.94676,Entire home/apt,104.0
+30764990,Brooklyn,Williamsburg,40.7082,-73.9493,Entire home/apt,133.0
+30769129,Brooklyn,Williamsburg,40.70723,-73.93902,Entire home/apt,255.0
+30915351,Manhattan,Upper East Side,40.77356,-73.94701,Entire home/apt,130.0
+31053180,Brooklyn,Williamsburg,40.70765,-73.94257,Entire home/apt,549.0
+30811789,Manhattan,East Harlem,40.81514,-73.935,Entire home/apt,125.0
+30824853,Brooklyn,Williamsburg,40.71389,-73.96201,Entire home/apt,400.0
+31206698,Brooklyn,Bay Ridge,40.63728,-74.03287,Entire home/apt,130.0
+31231904,Brooklyn,Bushwick,40.68566,-73.91521,Entire home/apt,100.0
+31290477,Brooklyn,Williamsburg,40.71282,-73.93558,Entire home/apt,223.0
+31435773,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,207.0
+31459394,Manhattan,Upper East Side,40.78058,-73.95198,Entire home/apt,130.0
+31549470,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,207.0
+31623508,Brooklyn,Bushwick,40.69263,-73.91654,Entire home/apt,100.0
+31668308,Brooklyn,Williamsburg,40.71282,-73.94833,Entire home/apt,85.0
+31668461,Brooklyn,Williamsburg,40.71636581420898,-73.95480346679688,Entire home/apt,150.0
+31760941,Bronx,Mott Haven,40.81132,-73.92177,Entire home/apt,125.0
+31933373,Brooklyn,Bushwick,40.69019,-73.91593,Entire home/apt,175.0
+32336400,Manhattan,East Harlem,40.78854,-73.94745,Entire home/apt,209.0
+32392636,Manhattan,East Harlem,40.80501,-73.93948,Entire home/apt,175.0
+32406935,Brooklyn,Bushwick,40.68638,-73.91371,Entire home/apt,180.0
+32450788,Brooklyn,Bushwick,40.70087,-73.92069,Entire home/apt,100.0
+31994735,Brooklyn,Williamsburg,40.71366,-73.95043,Entire home/apt,215.0
+32933643,Manhattan,Upper East Side,40.78258,-73.94507,Entire home/apt,89.0
+32937780,Manhattan,East Harlem,40.80645,-73.94145,Entire home/apt,120.0
+32990477,Brooklyn,Williamsburg,40.71557,-73.96641,Entire home/apt,199.0
+33012494,Brooklyn,Williamsburg,40.71805,-73.95851,Entire home/apt,175.0
+33040208,Brooklyn,Williamsburg,40.70985,-73.95799,Entire home/apt,110.0
+33653706,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,250.0
+33218283,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,163.0
+33467371,Manhattan,Upper East Side,40.76727,-73.95778,Entire home/apt,2048.0
+33735398,Brooklyn,Bushwick,40.68862,-73.90912,Entire home/apt,170.0
+33776576,Queens,Astoria,40.75993,-73.91071,Entire home/apt,240.0
+33785477,Brooklyn,Bushwick,40.69833,-73.92922,Entire home/apt,215.0
+33853465,Brooklyn,Bushwick,40.70496,-73.92017,Entire home/apt,250.0
+33877798,Manhattan,Upper East Side,40.77851,-73.95248,Entire home/apt,115.0
+33930528,Brooklyn,Williamsburg,40.70386,-73.94274,Entire home/apt,116.0
+33961505,Brooklyn,Bushwick,40.70163,-73.92547,Entire home/apt,160.0
+34127215,Brooklyn,Williamsburg,40.70943,-73.96024,Entire home/apt,901.0
+34150118,Manhattan,East Harlem,40.79337,-73.93392,Entire home/apt,170.0
+34230593,Manhattan,Upper East Side,40.77545,-73.95043,Entire home/apt,141.0
+34363916,Brooklyn,Williamsburg,40.72139,-73.95413,Entire home/apt,800.0
+34384958,Manhattan,Upper East Side,40.7798,-73.9503,Entire home/apt,130.0
+34537321,Manhattan,Upper East Side,40.76048,-73.96175,Entire home/apt,100.0
+34620162,Queens,Queens Village,40.72205,-73.73571,Entire home/apt,88.0
+34667590,Bronx,Mott Haven,40.8127,-73.90988,Entire home/apt,49.0
+34746284,Brooklyn,Williamsburg,40.70671,-73.94499,Entire home/apt,225.0
+34926055,Manhattan,Upper East Side,40.78485,-73.95061,Entire home/apt,120.0
+35334728,Brooklyn,Williamsburg,40.71976,-73.96324,Entire home/apt,375.0
+35149540,Brooklyn,Bushwick,40.6984527377775,-73.92151327325223,Entire home/apt,1599.0
+35191797,Manhattan,Upper East Side,40.77840805053711,-73.95562744140625,Entire home/apt,92.0
+35197500,Queens,Queens Village,40.72034,-73.73496,Entire home/apt,120.0
+35231370,Manhattan,Upper East Side,40.7614,-73.96526,Entire home/apt,163.0
+35423560,Manhattan,Upper East Side,40.77982,-73.94668,Entire home/apt,95.0
+35496842,Bronx,Williamsbridge,40.88151,-73.8494,Entire home/apt,70.0
+35523432,Brooklyn,Bushwick,40.69779,-73.92811,Entire home/apt,249.0
+35526392,Manhattan,Upper East Side,40.77418,-73.94803,Entire home/apt,150.0
+35840564,Queens,Astoria,40.76733,-73.92722,Entire home/apt,125.0
+35843321,Brooklyn,Williamsburg,40.7109,-73.962,Entire home/apt,298.0
+35579364,Brooklyn,Williamsburg,40.71732,-73.95679,Entire home/apt,150.0
+35595727,Brooklyn,Williamsburg,40.70919,-73.92308,Entire home/apt,149.0
+35603341,Manhattan,Upper East Side,40.78171,-73.94797,Entire home/apt,90.0
+36404568,Manhattan,Upper East Side,40.7788913,-73.95349290000001,Entire home/apt,458.0
+36796156,Queens,Queens Village,40.72733,-73.73571,Entire home/apt,185.0
+37085302,Brooklyn,Flatlands,40.62718,-73.91924,Entire home/apt,155.0
+37086914,Brooklyn,Williamsburg,40.70942,-73.95802,Entire home/apt,110.0
+36840098,Brooklyn,Bushwick,40.69806,-73.93621,Entire home/apt,125.0
+36914033,Manhattan,Upper East Side,40.78319,-73.94717,Entire home/apt,94.0
+36945647,Manhattan,Upper East Side,40.78107,-73.94648,Entire home/apt,95.0
+36998345,Brooklyn,Williamsburg,40.70637,-73.92704,Entire home/apt,99.0
+37329889,Manhattan,Upper East Side,40.76083,-73.96002,Entire home/apt,151.0
+37332720,Manhattan,Upper East Side,40.76952,-73.95645,Entire home/apt,98.0
+37316929,Manhattan,Upper East Side,40.7813,-73.9466,Entire home/apt,99.0
+37740667,Manhattan,Upper East Side,40.78322,-73.94548,Entire home/apt,87.0
+37862092,Queens,Queens Village,40.71096,-73.7356,Entire home/apt,164.0
+37397088,Manhattan,East Harlem,40.789291,-73.942749,Entire home/apt,93.0
+37443671,Brooklyn,Bushwick,40.69822,-73.93394,Entire home/apt,250.0
+37528370,Brooklyn,Williamsburg,40.70705,-73.95397,Entire home/apt,175.0
+37992636,Manhattan,Upper East Side,40.76113,-73.95989,Entire home/apt,137.0
+37993547,Manhattan,Upper East Side,40.76052,-73.9596,Entire home/apt,137.0
+37932566,Brooklyn,Williamsburg,40.71645,-73.96088,Entire home/apt,650.0
+38299089,Manhattan,Upper East Side,40.77797,-73.95368,Entire home/apt,415.0
+38359468,Queens,Queens Village,40.70691,-73.73869,Entire home/apt,200.0
+38385758,Brooklyn,Williamsburg,40.71047,-73.96666,Entire home/apt,282.0
+38134394,Brooklyn,Bushwick,40.68678,-73.90653,Entire home/apt,200.0
+38236463,Brooklyn,Williamsburg,40.70831,-73.94093,Entire home/apt,125.0
+38575482,Manhattan,Upper East Side,40.76103,-73.9609,Entire home/apt,109.0
+38584270,Manhattan,Upper East Side,40.7593,-73.96107,Entire home/apt,179.0
+38584439,Manhattan,Upper East Side,40.76025,-73.95954,Entire home/apt,164.0
+38603451,Manhattan,Upper East Side,40.7731,-73.95783,Entire home/apt,84.0
+38624335,Manhattan,Upper East Side,40.76089,-73.95961,Entire home/apt,151.0
+38624428,Manhattan,Upper East Side,40.76081,-73.96153,Entire home/apt,206.0
+38624439,Manhattan,Upper East Side,40.75965,-73.96125,Entire home/apt,164.0
+38624988,Manhattan,Upper East Side,40.76106,-73.95926,Entire home/apt,179.0
+38625166,Manhattan,Upper East Side,40.75935,-73.95965,Entire home/apt,137.0
+38625308,Manhattan,Upper East Side,40.75974,-73.96154,Entire home/apt,109.0
+38542488,Manhattan,Upper East Side,40.75996,-73.96085,Entire home/apt,115.0
+38546708,Manhattan,Upper East Side,40.76096,-73.96089,Entire home/apt,124.0
+38547165,Manhattan,Upper East Side,40.76097,-73.96115,Entire home/apt,124.0
+38553463,Manhattan,Upper East Side,40.75885,-73.95944,Entire home/apt,179.0
+38875424,Manhattan,Upper East Side,40.769524,-73.956451,Entire home/apt,112.0
+38975498,Manhattan,Upper East Side,40.77562,-73.95162,Entire home/apt,165.0
+39059931,Manhattan,Upper East Side,40.78505,-73.95575,Entire home/apt,525.0
+38670210,Manhattan,Upper East Side,40.75884,-73.95945,Entire home/apt,219.0
+38831666,Manhattan,Upper East Side,40.7788913,-73.95349290000001,Entire home/apt,277.0
+39128021,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,167.0
+39169415,Brooklyn,Williamsburg,40.71195,-73.94648,Entire home/apt,199.0
+39191142,Manhattan,Upper East Side,40.7788913,-73.95349290000001,Entire home/apt,455.0
+39196417,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,172.0
+39083245,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,271.0
+39460155,Manhattan,East Harlem,40.7866,-73.94881,Entire home/apt,42.0
+39507366,Brooklyn,Bushwick,40.69694,-73.92952,Entire home/apt,199.0
+39526281,Brooklyn,Flatlands,40.63153,-73.92616,Entire home/apt,100.0
+39528624,Brooklyn,Williamsburg,40.72006,-73.96019,Entire home/apt,300.0
+39535241,Brooklyn,Williamsburg,40.71667,-73.94054,Entire home/apt,350.0
+39553672,Manhattan,Upper East Side,40.78321,-73.94558,Entire home/apt,92.0
+39598996,Brooklyn,Bushwick,40.68903,-73.90683,Entire home/apt,140.0
+39363832,Queens,Astoria,40.76378,-73.92231,Entire home/apt,99.0
+39612224,Bronx,Williamsbridge,40.87934,-73.86055,Entire home/apt,125.0
+39633382,Brooklyn,Williamsburg,40.70732,-73.95188,Entire home/apt,300.0
+39749416,Manhattan,Upper East Side,40.78477,-73.94988,Entire home/apt,140.0
+39749681,Manhattan,East Harlem,40.785671,-73.949539,Entire home/apt,140.0
+39878031,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,284.0
+39878065,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,286.0
+39878798,Manhattan,Upper East Side,40.78111,-73.94586,Entire home/apt,94.0
+39965266,Brooklyn,Williamsburg,40.71163,-73.95716,Entire home/apt,469.0
+39796214,Queens,Astoria,40.76692,-73.91476,Entire home/apt,125.0
+39833359,Queens,Astoria,40.7633876,-73.90972579999999,Entire home/apt,189.0
+39839813,Brooklyn,Williamsburg,40.70864,-73.96613,Entire home/apt,215.0
+39849765,Manhattan,Upper East Side,40.76074,-73.95962,Entire home/apt,124.0
+40301903,Manhattan,Upper East Side,40.77477,-73.95365,Entire home/apt,89.0
+40304242,Brooklyn,Flatlands,40.6312,-73.92639,Entire home/apt,101.0
+40376349,Brooklyn,Williamsburg,40.71843,-73.96069,Entire home/apt,199.0
+40400671,Queens,Astoria,40.7708,-73.92028,Entire home/apt,110.0
+40447283,Brooklyn,Bushwick,40.70139,-73.93085,Entire home/apt,200.0
+40511239,Brooklyn,Williamsburg,40.7141,-73.95104,Entire home/apt,225.0
+40739293,Manhattan,Upper East Side,40.75962,-73.95957,Entire home/apt,151.0
+40887882,Manhattan,Upper East Side,40.7836,-73.95221,Entire home/apt,104.0
+41108306,Brooklyn,Bushwick,40.70732,-73.92137,Entire home/apt,122.0
+40917921,Brooklyn,Williamsburg,40.71985,-73.96056,Entire home/apt,125.0
+40946694,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,162.0
+40952752,Brooklyn,Williamsburg,40.70852,-73.96133,Entire home/apt,300.0
+41008859,Brooklyn,Williamsburg,40.71359,-73.95289,Entire home/apt,115.0
+41012815,Brooklyn,Bushwick,40.69025,-73.91424,Entire home/apt,173.0
+41322723,Brooklyn,Williamsburg,40.71135,-73.94946,Entire home/apt,180.0
+41749993,Brooklyn,Williamsburg,40.71801,-73.95482,Entire home/apt,160.0
+41770339,Brooklyn,Williamsburg,40.70811,-73.94474,Entire home/apt,160.0
+41789758,Manhattan,Upper East Side,40.78311,-73.94711,Entire home/apt,82.0
+41023393,Bronx,Mott Haven,40.80991,-73.91211,Entire home/apt,160.0
+41469310,Brooklyn,Williamsburg,40.71325,-73.95488,Entire home/apt,679.0
+41496552,Brooklyn,Bushwick,40.68605,-73.91533,Entire home/apt,225.0
+41567947,Brooklyn,Bushwick,40.70541,-73.92392,Entire home/apt,100.0
+41585180,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,271.0
+41867299,Manhattan,Upper East Side,40.78141,-73.94656,Entire home/apt,107.0
+41895103,Manhattan,Upper East Side,40.78117,-73.94656,Entire home/apt,94.0
+42274209,Manhattan,Upper East Side,40.7749,-73.95336,Entire home/apt,83.0
+42289549,Brooklyn,Bushwick,40.6985,-73.92798,Entire home/apt,135.0
+41665066,Brooklyn,Williamsburg,40.71783,-73.94463,Entire home/apt,350.0
+42082740,Manhattan,Upper East Side,40.78569,-73.95084,Entire home/apt,240.0
+42207141,Brooklyn,Bushwick,40.69745,-73.92809,Entire home/apt,199.0
+42389365,Brooklyn,Williamsburg,40.70876,-73.96418,Entire home/apt,110.0
+42405152,Brooklyn,Williamsburg,40.71,-73.95939,Entire home/apt,85.0
+42406076,Brooklyn,Williamsburg,40.70806,-73.96099,Entire home/apt,110.0
+42444354,Manhattan,Upper East Side,40.78559,-73.95286,Entire home/apt,94.0
+42449656,Brooklyn,Bushwick,40.699,-73.92639,Entire home/apt,135.0
+42451008,Manhattan,Upper East Side,40.77415,-73.95534,Entire home/apt,107.0
+42473749,Brooklyn,Bushwick,40.6954,-73.91298,Entire home/apt,101.0
+42735065,Manhattan,Upper East Side,40.78411,-73.9486,Entire home/apt,83.0
+42735424,Manhattan,Upper East Side,40.78384,-73.94855,Entire home/apt,84.0
+42735863,Manhattan,Upper East Side,40.78411,-73.94864,Entire home/apt,94.0
+42745382,Brooklyn,Bushwick,40.700187071844006,-73.93646919892383,Entire home/apt,200.0
+42504616,Manhattan,Upper East Side,40.778564453125,-73.95565795898438,Entire home/apt,159.0
+42535595,Brooklyn,Bushwick,40.6958,-73.91255,Entire home/apt,99.0
+42584450,Manhattan,Upper East Side,40.78287,-73.9451,Entire home/apt,89.0
+42596536,Manhattan,Upper East Side,40.7732,-73.95157,Entire home/apt,99.0
+42688012,Manhattan,Upper East Side,40.770451,-73.955894,Entire home/apt,99.0
+42878514,Manhattan,Upper East Side,40.77342,-73.95161,Entire home/apt,200.0
+42888442,Manhattan,Upper East Side,40.77328,-73.95003,Entire home/apt,190.0
+42925669,Manhattan,Upper East Side,40.77316,-73.94999,Entire home/apt,120.0
+43126400,Brooklyn,Bushwick,40.69666,-73.91435,Entire home/apt,150.0
+42970160,Manhattan,East Harlem,40.79789,-73.93914,Entire home/apt,95.0
+43012924,Brooklyn,Williamsburg,40.7074,-73.96202,Entire home/apt,230.0
+43022519,Queens,Astoria,40.75811,-73.91527,Entire home/apt,220.0
+43034172,Brooklyn,Williamsburg,40.71223,-73.96272,Entire home/apt,140.0
+43054040,Brooklyn,Williamsburg,40.71314,-73.95667,Entire home/apt,100.0
+43239496,Brooklyn,Bushwick,40.69589,-73.91444,Entire home/apt,100.0
+43303056,Brooklyn,Williamsburg,40.70907,-73.96202,Entire home/apt,110.0
+43499730,Brooklyn,Williamsburg,40.70988,-73.94842,Entire home/apt,84.0
+43509173,Brooklyn,Bushwick,40.68693,-73.91461,Entire home/apt,111.0
+43544781,Brooklyn,Williamsburg,40.71527,-73.96663,Entire home/apt,156.0
+43568549,Manhattan,Upper East Side,40.77294,-73.94869,Entire home/apt,150.0
+43317855,Brooklyn,Williamsburg,40.71809,-73.95836,Entire home/apt,150.0
+43458250,Brooklyn,Bushwick,40.69653,-73.93047,Entire home/apt,120.0
+43652025,Brooklyn,Williamsburg,40.7137,-73.96292,Entire home/apt,120.0
+43701555,Manhattan,Upper East Side,40.7767,-73.94631,Entire home/apt,139.0
+44020205,Manhattan,East Harlem,40.79062,-73.93962,Entire home/apt,195.0
+44048372,Brooklyn,Bushwick,40.69146,-73.91714,Entire home/apt,128.0
+44102245,Manhattan,Upper East Side,40.78043,-73.94892,Entire home/apt,90.0
+44197064,Bronx,Williamsbridge,40.88002,-73.85464,Entire home/apt,100.0
+43785452,Brooklyn,Williamsburg,40.7148,-73.96546,Entire home/apt,650.0
+43834804,Brooklyn,Bushwick,40.7021,-73.91759,Entire home/apt,195.0
+43928714,Manhattan,Upper East Side,40.78304,-73.94578,Entire home/apt,99.0
+44261110,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,268.0
+44277610,Manhattan,Upper East Side,40.77761,-73.94357,Entire home/apt,750.0
+44288421,Manhattan,East Harlem,40.78781,-73.94687,Entire home/apt,236.0
+44804027,Manhattan,East Harlem,40.79789,-73.93965,Entire home/apt,536.0
+44892016,Brooklyn,Bushwick,40.69285,-73.91138,Entire home/apt,200.0
+44463882,Brooklyn,Williamsburg,40.71776,-73.95769,Entire home/apt,450.0
+44463986,Brooklyn,Williamsburg,40.71874,-73.95965,Entire home/apt,275.0
+44503706,Manhattan,East Harlem,40.79891,-73.93581,Entire home/apt,125.0
+44531911,Manhattan,East Harlem,40.79797,-73.93671,Entire home/apt,130.0
+44631766,Manhattan,Upper East Side,40.78496,-73.95223,Entire home/apt,87.0
+45086065,Manhattan,Upper East Side,40.78095,-73.95412,Entire home/apt,95.0
+45091742,Brooklyn,Williamsburg,40.71513,-73.96158,Entire home/apt,680.0
+45097782,Manhattan,Upper East Side,40.76925,-73.95773,Entire home/apt,129.0
+45151029,Manhattan,Upper East Side,40.7719841003418,-73.95451354980469,Entire home/apt,97.0
+45420463,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,211.0
+45427869,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,284.0
+45448589,Brooklyn,Bushwick,40.69605,-73.9289,Entire home/apt,199.0
+45466241,Manhattan,Upper East Side,40.76048,-73.96175,Entire home/apt,100.0
+45472312,Manhattan,Upper East Side,40.78005,-73.95252,Entire home/apt,85.0
+45482929,Manhattan,Upper East Side,40.76048,-73.96175,Entire home/apt,64.0
+45253125,Brooklyn,Flatlands,40.62291,-73.92224,Entire home/apt,95.0
+45270796,Manhattan,Upper East Side,40.7602,-73.96071,Entire home/apt,63.0
+45275194,Manhattan,Upper East Side,40.7745,-73.9512,Entire home/apt,99.0
+45380846,Manhattan,Upper East Side,40.76164,-73.96261,Entire home/apt,106.0
+45396954,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,352.0
+45409765,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,288.0
+45412157,Brooklyn,Williamsburg,40.70891,-73.94603,Entire home/apt,112.0
+45557629,Manhattan,Upper East Side,40.78063,-73.95273,Entire home/apt,155.0
+45558214,Brooklyn,Flatlands,40.61673,-73.92747,Entire home/apt,125.0
+45578986,Manhattan,Upper East Side,40.78225,-73.95408,Entire home/apt,95.0
+45579937,Manhattan,Upper East Side,40.77292,-73.94906,Entire home/apt,236.0
+45581273,Manhattan,Upper East Side,40.77293,-73.95007,Entire home/apt,175.0
+45581450,Manhattan,Upper East Side,40.76172,-73.96228,Entire home/apt,200.0
+45581457,Manhattan,Upper East Side,40.763016563348046,-73.96280802131685,Entire home/apt,175.0
+45595551,Manhattan,Upper East Side,40.769524,-73.956451,Entire home/apt,94.0
+45530652,Manhattan,Upper East Side,40.77271,-73.94872,Entire home/apt,220.0
+45530663,Manhattan,Upper East Side,40.77503,-73.94938,Entire home/apt,225.0
+45530812,Manhattan,Upper East Side,40.77502,-73.9503,Entire home/apt,236.0
+45530831,Manhattan,Upper East Side,40.77286,-73.94937,Entire home/apt,299.0
+45727008,Brooklyn,Bushwick,40.70186,-73.92251,Entire home/apt,230.0
+45752068,Manhattan,Upper East Side,40.7731,-73.95306,Entire home/apt,123.0
+45689225,Manhattan,Upper East Side,40.77096669709,-73.95748541665026,Entire home/apt,147.0
+45689231,Manhattan,Upper East Side,40.77113,-73.95723,Entire home/apt,223.0
+45689278,Manhattan,Upper East Side,40.76921,-73.95862,Entire home/apt,234.0
+45689285,Manhattan,Upper East Side,40.76906,-73.95746,Entire home/apt,168.0
+45689293,Manhattan,Upper East Side,40.77047,-73.95707,Entire home/apt,163.0
+45922753,Brooklyn,Williamsburg,40.70758,-73.94346,Entire home/apt,210.0
+45930596,Manhattan,East Harlem,40.79356,-73.94702,Entire home/apt,135.0
+45908302,Manhattan,Upper East Side,40.76124,-73.96046,Entire home/apt,240.0
+46158284,Bronx,Williamsbridge,40.87638,-73.86162,Entire home/apt,130.0
+46019862,Manhattan,Upper East Side,40.76946,-73.95689,Entire home/apt,179.0
+46062116,Manhattan,Upper East Side,40.77918,-73.95013,Entire home/apt,295.0
+46088307,Brooklyn,Bushwick,40.68485,-73.91039,Entire home/apt,150.0
+46335178,Manhattan,Upper East Side,40.78213,-73.95269,Entire home/apt,100.0
+46336910,Manhattan,Upper East Side,40.78231,-73.95401,Entire home/apt,100.0
+46352910,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,159.0
+46542773,Manhattan,Upper East Side,40.7632,-73.96262,Entire home/apt,189.0
+46544231,Manhattan,Upper East Side,40.7795,-73.95529,Entire home/apt,425.0
+46546450,Brooklyn,Williamsburg,40.71753,-73.94387,Entire home/apt,250.0
+46565079,Brooklyn,Williamsburg,40.7102,-73.96058,Entire home/apt,100.0
+46393855,Brooklyn,Bushwick,40.69407,-73.92631,Entire home/apt,108.0
+46414339,Brooklyn,Williamsburg,40.70935,-73.94628,Entire home/apt,192.0
+46417510,Brooklyn,Bushwick,40.68963,-73.91494,Entire home/apt,150.0
+46435388,Brooklyn,Bushwick,40.70382,-73.92464,Entire home/apt,71.0
+46444812,Brooklyn,Williamsburg,40.71615,-73.96291,Entire home/apt,200.0
+46449888,Brooklyn,Williamsburg,40.70858107096559,-73.96545563512909,Entire home/apt,142.0
+46474689,Manhattan,Upper East Side,40.77348714969908,-73.95871669393223,Entire home/apt,149.0
+46480702,Manhattan,Upper East Side,40.7732,-73.94543,Entire home/apt,60.0
+46706175,Manhattan,Upper East Side,40.77327,-73.94802,Entire home/apt,130.0
+46729395,Manhattan,Upper East Side,40.78191,-73.95386,Entire home/apt,106.0
+46730982,Manhattan,Upper East Side,40.78057,-73.95205,Entire home/apt,85.0
+46734542,Manhattan,Upper East Side,40.76298,-73.96627,Entire home/apt,286.0
+46753919,Manhattan,Upper East Side,40.77445,-73.94769,Entire home/apt,149.0
+46926058,Manhattan,Upper East Side,40.77392,-73.94977,Entire home/apt,129.0
+46944839,Brooklyn,Williamsburg,40.71048,-73.96136,Entire home/apt,110.0
+47001322,Brooklyn,Williamsburg,40.7186,-73.94593,Entire home/apt,165.0
+47012155,Brooklyn,Bushwick,40.69985,-73.93358,Entire home/apt,220.0
+47031259,Brooklyn,Bushwick,40.68725,-73.90572,Entire home/apt,225.0
+47047419,Manhattan,Upper East Side,40.77713,-73.95536,Entire home/apt,2250.0
+47052885,Manhattan,Upper East Side,40.76171,-73.96088,Entire home/apt,186.0
+47076840,Manhattan,Upper East Side,40.76048,-73.96175,Entire home/apt,65.0
+47097490,Manhattan,Upper East Side,40.75955,-73.95891,Entire home/apt,137.0
+47373389,Manhattan,Upper East Side,40.75941,-73.95944,Entire home/apt,109.0
+46797479,Manhattan,Upper East Side,40.769524,-73.956451,Entire home/apt,109.0
+46797938,Manhattan,Upper East Side,40.77316,-73.94922,Entire home/apt,125.0
+46833665,Manhattan,Upper East Side,40.76119,-73.96379,Entire home/apt,175.0
+46848948,Manhattan,Upper East Side,40.77146,-73.95834,Entire home/apt,162.0
+46854989,Manhattan,East Harlem,40.80028,-73.93647,Entire home/apt,104.0
+46892479,Manhattan,Upper East Side,40.77164,-73.95682,Entire home/apt,238.0
+47159537,Brooklyn,Williamsburg,40.7134,-73.96094,Entire home/apt,200.0
+47373597,Manhattan,Upper East Side,40.75947,-73.96132,Entire home/apt,164.0
+47410952,Manhattan,Upper East Side,40.77944,-73.95464,Entire home/apt,215.0
+47421830,Brooklyn,Williamsburg,40.72064,-73.95591,Entire home/apt,200.0
+47449728,Brooklyn,Williamsburg,40.71291,-73.9419,Entire home/apt,135.0
+47451852,Queens,Queens Village,40.70495,-73.74747,Entire home/apt,135.0
+47486539,Manhattan,Upper East Side,40.76944,-73.95693,Entire home/apt,129.0
+47537276,Brooklyn,Bushwick,40.69429,-73.92215,Entire home/apt,148.0
+47582768,Manhattan,Upper East Side,40.77198,-73.95659,Entire home/apt,130.0
+47729102,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,276.0
+47737131,Brooklyn,Bushwick,40.69832,-73.93297,Entire home/apt,120.0
+47277456,Manhattan,Upper East Side,40.77383,-73.95334,Entire home/apt,119.0
+47289921,Brooklyn,Williamsburg,40.71966,-73.96178,Entire home/apt,263.0
+47331153,Queens,Astoria,40.76614,-73.93242,Entire home/apt,90.0
+47770897,Manhattan,Upper East Side,40.76085,-73.96244,Entire home/apt,121.0
+47964241,Manhattan,Upper East Side,40.77026,-73.95854,Entire home/apt,240.0
+48042018,Manhattan,East Harlem,40.79616,-73.93416,Entire home/apt,250.0
+48043063,Manhattan,Upper East Side,40.75949,-73.95936,Entire home/apt,151.0
+48055938,Manhattan,Upper East Side,40.76991,-73.95705,Entire home/apt,168.0
+48137872,Brooklyn,Williamsburg,40.70624,-73.95381,Entire home/apt,1000.0
+48168657,Manhattan,Upper East Side,40.76735,-73.95933,Entire home/apt,121.0
+48233657,Manhattan,Upper East Side,40.78119,-73.95532,Entire home/apt,200.0
+48367351,Manhattan,Upper East Side,40.7717,-73.95816,Entire home/apt,127.0
+48369592,Manhattan,Upper East Side,40.77723,-73.96053,Entire home/apt,10.0
+48297854,Brooklyn,Bushwick,40.69821,-73.93217,Entire home/apt,200.0
+48300185,Manhattan,Upper East Side,40.7593,-73.9597,Entire home/apt,192.0
+48489975,Manhattan,Upper East Side,40.7597,-73.96072,Entire home/apt,120.0
+48740080,Brooklyn,Bushwick,40.68689,-73.90622,Entire home/apt,66.0
+48742328,Brooklyn,Bushwick,40.69309948615662,-73.90876645369065,Entire home/apt,325.0
+48767648,Manhattan,Upper East Side,40.78508,-73.95228,Entire home/apt,82.0
+48804279,Brooklyn,Bushwick,40.69516,-73.90944,Entire home/apt,700.0
+48845751,Manhattan,Upper East Side,40.77726,-73.955,Entire home/apt,1286.0
+48919541,Brooklyn,Williamsburg,40.71907,-73.95506,Entire home/apt,160.0
+48659103,Queens,Queens Village,40.71053850281057,-73.740816241397,Entire home/apt,139.0
+48674402,Brooklyn,Williamsburg,40.71543,-73.96392,Entire home/apt,204.0
+48942624,Manhattan,Upper East Side,40.770451,-73.955894,Entire home/apt,119.0
+48976390,Manhattan,Upper East Side,40.77021,-73.95386,Entire home/apt,95.0
+49018761,Manhattan,Upper East Side,40.77622,-73.95519,Entire home/apt,200.0
+49132815,Manhattan,Upper East Side,40.78186,-73.95203,Entire home/apt,95.0
+49177425,Manhattan,Upper East Side,40.76298,-73.95947,Entire home/apt,200.0
+49199952,Manhattan,Upper East Side,40.76164,-73.96633,Entire home/apt,158.0
+49208965,Brooklyn,Bay Ridge,40.63607,-74.02389,Entire home/apt,109.0
+49409612,Manhattan,Upper East Side,40.77796,-73.96073,Entire home/apt,167.0
+49447343,Brooklyn,Bushwick,40.68914,-73.90994,Entire home/apt,119.0
+49074726,Manhattan,Upper East Side,40.76400375366211,-73.96622467041016,Entire home/apt,149.0
+49226616,Brooklyn,Williamsburg,40.71696,-73.95973,Entire home/apt,190.0
+49241564,Manhattan,Upper East Side,40.761182,-73.96527259999999,Entire home/apt,269.0
+49256890,Manhattan,Upper East Side,40.77543,-73.95107,Entire home/apt,197.0
+49258856,Manhattan,Upper East Side,40.77242660522461,-73.95455169677734,Entire home/apt,127.0
+49260138,Manhattan,Upper East Side,40.77463,-73.94774,Entire home/apt,134.0
+49260325,Brooklyn,Williamsburg,40.71009,-73.95762,Entire home/apt,133.0
+49475002,Manhattan,Upper East Side,40.77592,-73.94643,Entire home/apt,268.0
+49491879,Manhattan,Upper East Side,40.77592,-73.94643,Entire home/apt,270.0
+49512718,Manhattan,Upper East Side,40.76993,-73.95647,Entire home/apt,128.0
+49534641,Manhattan,Upper East Side,40.77203,-73.95703,Entire home/apt,129.0
+49612318,Manhattan,Upper East Side,40.78033,-73.954,Entire home/apt,100.0
+49860773,Brooklyn,Williamsburg,40.70991,-73.94466,Entire home/apt,225.0
+49659537,Manhattan,Upper East Side,40.77456,-73.94879,Entire home/apt,246.0
+49691549,Brooklyn,Flatlands,40.63278,-73.91964,Entire home/apt,1100.0
+49707129,Brooklyn,Bushwick,40.6952,-73.9245,Entire home/apt,164.0
+49733510,Brooklyn,Bushwick,40.69398,-73.91984,Entire home/apt,220.0
+49733992,Brooklyn,Williamsburg,40.72049,-73.9563,Entire home/apt,160.0
+49735358,Manhattan,Upper East Side,40.77056,-73.95134,Entire home/apt,110.0
+49881509,Manhattan,East Harlem,40.80544,-73.94157,Entire home/apt,360.0
+49895566,Manhattan,Upper East Side,40.7777024,-73.9522846,Entire home/apt,218.0
+49927058,Manhattan,East Harlem,40.79986,-73.93621,Entire home/apt,117.0
+49964381,Brooklyn,Williamsburg,40.71039,-73.95965,Entire home/apt,199.0
+49996255,Brooklyn,Williamsburg,40.71133,-73.95296,Entire home/apt,135.0
+50132114,Manhattan,Upper East Side,40.75894,-73.95951,Entire home/apt,164.0
+50133987,Brooklyn,Flatlands,40.62133,-73.92777,Entire home/apt,120.0
+50152840,Brooklyn,Williamsburg,40.71946876166647,-73.94270360469818,Entire home/apt,135.0
+50231445,Brooklyn,Bushwick,40.69224,-73.9202,Entire home/apt,101.0
+50282803,Brooklyn,Williamsburg,40.70866,-73.94245,Entire home/apt,210.0
+50309369,Brooklyn,Williamsburg,40.70743,-73.96251,Entire home/apt,140.0
+50373477,Queens,Astoria,40.75807435122504,-73.91996740990956,Entire home/apt,220.0
+50587797,Brooklyn,Williamsburg,40.71971,-73.96033,Entire home/apt,200.0
+50596016,Bronx,Mott Haven,40.80879,-73.91413,Entire home/apt,380.0
+50181296,Manhattan,East Harlem,40.78489,-73.94689,Entire home/apt,45.0
+50197603,Manhattan,Upper East Side,40.77242660522461,-73.95455169677734,Entire home/apt,154.0
+50439191,Brooklyn,Bushwick,40.7055,-73.91841,Entire home/apt,82.0
+50444487,Manhattan,Upper East Side,40.77586,-73.96099,Entire home/apt,296.0
+50623654,Manhattan,Upper East Side,40.75898,-73.95983,Entire home/apt,151.0
+50697485,Brooklyn,Williamsburg,40.71666,-73.95862,Entire home/apt,240.0
+50698344,Manhattan,Upper East Side,40.77088,-73.95755,Entire home/apt,158.0
+50740601,Manhattan,Upper East Side,40.76836,-73.95273,Entire home/apt,138.0
+50925457,Manhattan,Upper East Side,40.78451,-73.94841,Entire home/apt,228.0
+50547429,Manhattan,Upper East Side,40.777618408203125,-73.94929504394531,Entire home/apt,86.0
+50564872,Manhattan,Upper East Side,40.76177,-73.96664,Entire home/apt,158.0
+50743177,Brooklyn,Williamsburg,40.70696,-73.94717,Entire home/apt,155.0
+50744441,Manhattan,Upper East Side,40.770451,-73.955894,Entire home/apt,119.0
+50762178,Manhattan,Upper East Side,40.76117,-73.96505,Entire home/apt,100.0
+50788937,Manhattan,Upper East Side,40.78156,-73.95825,Entire home/apt,575.0
+50809342,Brooklyn,Williamsburg,40.71024,-73.96103,Entire home/apt,95.0
+50866798,Brooklyn,Williamsburg,40.71647,-73.95818,Entire home/apt,360.0
+50957892,Manhattan,East Harlem,40.79349741033244,-73.93981217485653,Entire home/apt,98.0
+50961550,Brooklyn,Williamsburg,40.70759,-73.94238,Entire home/apt,103.0
+50971404,Brooklyn,Bushwick,40.68776,-73.90614,Entire home/apt,205.0
+50992996,Brooklyn,Williamsburg,40.71318,-73.94326,Entire home/apt,267.0
+51003836,Manhattan,East Harlem,40.805196856180494,-73.94029731138076,Entire home/apt,200.0
+51040846,Brooklyn,Williamsburg,40.70893,-73.9499,Entire home/apt,199.0
+51059798,Manhattan,Upper East Side,40.7719841003418,-73.95451354980469,Entire home/apt,149.0
+51064493,Brooklyn,Williamsburg,40.71931,-73.94417,Entire home/apt,300.0
+51069339,Queens,Astoria,40.76041,-73.92017,Entire home/apt,110.0
+51321191,Brooklyn,Bushwick,40.69828,-73.92942,Entire home/apt,205.0
+51346279,Manhattan,Upper East Side,40.78115,-73.95866,Entire home/apt,210.0
+50896069,Manhattan,Upper East Side,40.76912,-73.95724,Entire home/apt,163.0
+51165082,Brooklyn,Williamsburg,40.7116,-73.96737,Entire home/apt,260.0
+51166991,Manhattan,Upper East Side,40.7719841003418,-73.95451354980469,Entire home/apt,97.0
+51175460,Manhattan,Upper East Side,40.77188,-73.95345,Entire home/apt,120.0
+51227641,Manhattan,Upper East Side,40.7749252319336,-73.94816589355469,Entire home/apt,114.0
+51260918,Manhattan,Upper East Side,40.772259,-73.947083,Entire home/apt,155.0
+51267133,Queens,Astoria,40.76616,-73.90871,Entire home/apt,220.0
+51361023,Brooklyn,Williamsburg,40.72008,-73.9603,Entire home/apt,422.0
+51471445,Manhattan,Upper East Side,40.78213,-73.95327,Entire home/apt,100.0
+51482510,Manhattan,Upper East Side,40.76903,-73.95146,Entire home/apt,104.0
+51483825,Manhattan,Upper East Side,40.76143,-73.96502,Entire home/apt,140.0
+51485535,Brooklyn,Bushwick,40.69995,-73.93026,Entire home/apt,99.0
+51493315,Brooklyn,Williamsburg,40.70923,-73.94716,Entire home/apt,250.0
+51503294,Manhattan,Upper East Side,40.77242660522461,-73.95455169677734,Entire home/apt,134.0
+51720274,Manhattan,Upper East Side,40.77592,-73.94643,Entire home/apt,265.0
+51721119,Manhattan,Upper East Side,40.7618663,-73.9638512,Entire home/apt,205.0
+51721133,Manhattan,Upper East Side,40.77592,-73.94643,Entire home/apt,265.0
+51542838,Queens,Astoria,40.75502,-73.92458,Entire home/apt,149.0
+51560696,Manhattan,Upper East Side,40.77291870117188,-73.95587921142578,Entire home/apt,99.0
+51582710,Manhattan,Upper East Side,40.77242660522461,-73.95455169677734,Entire home/apt,199.0
+51610857,Manhattan,Upper East Side,40.7618663,-73.9638512,Entire home/apt,258.0
+51613018,Manhattan,Upper East Side,40.76279,-73.9635,Entire home/apt,252.0
+51634025,Manhattan,Upper East Side,40.76904,-73.9586,Entire home/apt,147.0
+51668342,Brooklyn,Bay Ridge,40.63361,-74.03331,Entire home/apt,92.0
+51691286,Queens,Astoria,40.75765,-73.92455,Entire home/apt,70.0
+51699905,Manhattan,Upper East Side,40.7618663,-73.9638512,Entire home/apt,252.0
+51702923,Brooklyn,Williamsburg,40.71831,-73.96143,Entire home/apt,725.0
+51740604,Manhattan,Upper East Side,40.78451,-73.94841,Entire home/apt,299.0
+51740739,Manhattan,Upper East Side,40.761182,-73.96527259999999,Entire home/apt,228.0
+51745454,Brooklyn,Williamsburg,40.70868,-73.96413,Entire home/apt,400.0
+51781289,Manhattan,Upper East Side,40.78276,-73.94866,Entire home/apt,80.0
+51868126,Brooklyn,Bushwick,40.69909,-73.93535,Entire home/apt,120.0
+52075215,Manhattan,East Harlem,40.80037,-73.94338,Entire home/apt,257.0
+52089998,Brooklyn,Bushwick,40.69281,-73.91527,Entire home/apt,156.0
+51927795,Brooklyn,Williamsburg,40.71066,-73.96756,Entire home/apt,399.0
+51950079,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,248.0
+51985589,Manhattan,East Harlem,40.79755,-73.93353,Entire home/apt,108.0
+52388002,Manhattan,Upper East Side,40.78374,-73.95105,Entire home/apt,799.0
+52408941,Brooklyn,Flatlands,40.63038,-73.92098,Entire home/apt,67.0
+52411201,Manhattan,Upper East Side,40.77195,-73.95582,Entire home/apt,243.0
+52317592,Manhattan,Upper East Side,40.76399612426758,-73.96626281738281,Entire home/apt,136.0
+52365494,Manhattan,East Harlem,40.789291,-73.942764,Entire home/apt,110.0
+52440958,Brooklyn,Bushwick,40.69380569458008,-73.92632293701172,Entire home/apt,305.0
+52481960,Manhattan,Upper East Side,40.7788913,-73.95349290000001,Entire home/apt,458.0
+52490036,Brooklyn,Williamsburg,40.71206,-73.95286,Entire home/apt,222.0
+52499504,Manhattan,Upper East Side,40.77913142539245,-73.95004639404897,Entire home/apt,160.0
+52534882,Manhattan,Upper East Side,40.78048,-73.95384,Entire home/apt,95.0
+52558166,Brooklyn,Bushwick,40.6965,-73.90967,Entire home/apt,150.0
+52561467,Brooklyn,Williamsburg,40.71678,-73.95756,Entire home/apt,120.0
+52610408,Manhattan,Upper East Side,40.77742,-73.94601,Entire home/apt,145.0
+52804286,Brooklyn,Bushwick,40.68867,-73.92019,Entire home/apt,250.0
+52807490,Manhattan,Upper East Side,40.77242660522461,-73.95455169677734,Entire home/apt,135.0
+52714650,Manhattan,Upper East Side,40.77493,-73.94816,Entire home/apt,118.0
+52761116,Queens,Astoria,40.75796,-73.91629,Entire home/apt,97.0
+52823884,Brooklyn,Williamsburg,40.71788,-73.93775,Entire home/apt,800.0
+52830424,Manhattan,East Harlem,40.80870517636975,-73.9386977116394,Entire home/apt,120.0
+52838667,Brooklyn,Williamsburg,40.7135,-73.95225,Entire home/apt,225.0
+52842845,Manhattan,Upper East Side,40.78205,-73.9514,Entire home/apt,100.0
+52860062,Manhattan,East Harlem,40.79643,-73.93793,Entire home/apt,148.0
+52865396,Brooklyn,Williamsburg,40.71935,-73.96059,Entire home/apt,130.0
+52868962,Brooklyn,Williamsburg,40.70873,-73.96518,Entire home/apt,179.0
+52869658,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,227.0
+52871655,Manhattan,Upper East Side,40.78369,-73.95117,Entire home/apt,100.0
+52894094,Manhattan,Upper East Side,40.77052,-73.95925,Entire home/apt,170.0
+53110748,Brooklyn,Williamsburg,40.71283,-73.94781,Entire home/apt,135.0
+52997244,Manhattan,Upper East Side,40.77019,-73.95782,Entire home/apt,157.0
+53047254,Manhattan,Upper East Side,40.76168823242188,-73.96269226074219,Entire home/apt,133.0
+53095529,Manhattan,Upper East Side,40.76577,-73.96562,Entire home/apt,275.0
+53221284,Manhattan,Upper East Side,40.77195,-73.95377,Entire home/apt,142.0
+53122420,Brooklyn,Williamsburg,40.71102,-73.95851,Entire home/apt,195.0
+53123360,Brooklyn,Bushwick,40.69824,-73.93609,Entire home/apt,420.0
+53167175,Manhattan,Upper East Side,40.77688,-73.96108,Entire home/apt,1157.0
+53189912,Brooklyn,Williamsburg,40.71349,-73.94011,Entire home/apt,175.0
+53355572,Manhattan,East Harlem,40.792664,-73.946701,Entire home/apt,100.0
+53356951,Manhattan,East Harlem,40.79369,-73.93602,Entire home/apt,170.0
+53229531,Manhattan,Upper East Side,40.76638,-73.96564,Entire home/apt,330.0
+53260928,Brooklyn,Williamsburg,40.71131,-73.94721,Entire home/apt,700.0
+53270564,Manhattan,Upper East Side,40.770729064941406,-73.96173858642578,Entire home/apt,86.0
+53287361,Manhattan,Upper East Side,40.77015,-73.95791,Entire home/apt,157.0
+53292101,Manhattan,Upper East Side,40.77045,-73.95589,Entire home/apt,103.0
+53363729,Manhattan,East Harlem,40.78517,-73.94862,Entire home/apt,145.0
+53364824,Manhattan,Upper East Side,40.77255,-73.94665,Entire home/apt,229.0
+53385771,Manhattan,Upper East Side,40.76653,-73.95136,Entire home/apt,270.0
+53418934,Bronx,Williamsbridge,40.87807,-73.84993,Entire home/apt,117.0
+53429873,Manhattan,East Harlem,40.80003,-73.93682,Entire home/apt,330.0
+53437547,Manhattan,Upper East Side,40.7672,-73.95421,Entire home/apt,169.0
+53475354,Manhattan,East Harlem,40.78815,-73.94322,Entire home/apt,89.0
+53480206,Queens,Astoria,40.76997,-73.91777,Entire home/apt,606.0
+53606895,Brooklyn,Williamsburg,40.71387,-73.96462,Entire home/apt,400.0
+53610874,Brooklyn,Williamsburg,40.71911,-73.96041,Entire home/apt,200.0
+53615384,Manhattan,Upper East Side,40.77727,-73.9524,Entire home/apt,350.0
+53623779,Manhattan,Upper East Side,40.7818029,-73.9476236,Entire home/apt,160.0
+53653438,Manhattan,East Harlem,40.79221,-73.94712,Entire home/apt,286.0
+53682017,Manhattan,Upper East Side,40.76824,-73.96739,Entire home/apt,290.0
+53693128,Manhattan,East Harlem,40.80051,-73.94394,Entire home/apt,400.0
+53693977,Manhattan,Upper East Side,40.7788913,-73.95349290000001,Entire home/apt,392.0
+53695376,Brooklyn,Williamsburg,40.71845,-73.94396,Entire home/apt,307.0
+53491341,Brooklyn,Williamsburg,40.71807,-73.95908,Entire home/apt,145.0
+53511447,Manhattan,Upper East Side,40.77242660522461,-73.95455169677734,Entire home/apt,135.0
+53512507,Brooklyn,Williamsburg,40.70994,-73.95879,Entire home/apt,107.0
+53515102,Manhattan,Upper East Side,40.78024,-73.95189,Entire home/apt,90.0
+53544002,Manhattan,Upper East Side,40.76854,-73.95165,Entire home/apt,137.0
+53823703,Brooklyn,Williamsburg,40.71693,-73.96274,Entire home/apt,275.0
+53848017,Brooklyn,Bushwick,40.68649,-73.91274,Entire home/apt,256.0
+53876346,Queens,Astoria,40.75543,-73.91495,Entire home/apt,100.0
+53921873,Manhattan,Upper East Side,40.76875,-73.96362,Entire home/apt,196.0
+53741142,Brooklyn,Williamsburg,40.71014,-73.9606,Entire home/apt,281.0
+53786333,Manhattan,East Harlem,40.79346,-73.94558,Entire home/apt,100.0
+53940686,Brooklyn,Bay Ridge,40.6358691456318,-74.02307704123753,Entire home/apt,263.0
+53967226,Manhattan,East Harlem,40.790134,-73.94883,Entire home/apt,96.0
+54122624,Brooklyn,Williamsburg,40.711662,-73.963394,Entire home/apt,240.0
+54140633,Manhattan,Upper East Side,40.77619934082031,-73.95426940917969,Entire home/apt,127.0
+54146364,Brooklyn,Williamsburg,40.71089,-73.96184,Entire home/apt,90.0
+54183564,Manhattan,East Harlem,40.78878,-73.9416,Entire home/apt,89.0
+54193549,Brooklyn,Williamsburg,40.71889,-73.94055,Entire home/apt,100.0
+54007743,Bronx,Mott Haven,40.8076122084134,-73.92372831460365,Entire home/apt,118.0
+54206877,Manhattan,Upper East Side,40.76399612426758,-73.96626281738281,Entire home/apt,136.0
+54213367,Manhattan,Upper East Side,40.78385,-73.95258,Entire home/apt,120.0
+54217724,Brooklyn,Williamsburg,40.71233,-73.94299,Entire home/apt,600.0
+54220873,Bronx,Williamsbridge,40.87176,-73.85625,Entire home/apt,164.0
+499228785781795835,Manhattan,Upper East Side,40.78533,-73.95215,Entire home/apt,92.0
+502235608092478513,Queens,Queens Village,40.71055,-73.73961,Entire home/apt,80.0
+509912694780678266,Queens,Queens Village,40.71038,-73.74086,Entire home/apt,110.0
+515270964752201497,Brooklyn,Bay Ridge,40.6344,-74.02483,Entire home/apt,180.0
+535565578084281184,Manhattan,Upper East Side,40.78171,-73.95093,Entire home/apt,94.0
+535581626561206870,Manhattan,Upper East Side,40.78317,-73.95206,Entire home/apt,94.0
+539742633266082757,Manhattan,Upper East Side,40.78179,-73.94776,Entire home/apt,92.0
+542681386076586696,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,271.0
+54227270,Queens,Astoria,40.76824,-73.93277,Entire home/apt,195.0
+54242006,Manhattan,Upper East Side,40.78069,-73.94757,Entire home/apt,126.0
+54243072,Brooklyn,Williamsburg,40.71689,-73.96291,Entire home/apt,214.0
+54245163,Manhattan,Upper East Side,40.76222,-73.96198,Entire home/apt,115.0
+54245960,Manhattan,Upper East Side,40.76049,-73.96167,Entire home/apt,120.0
+54246235,Manhattan,Upper East Side,40.76029,-73.96137,Entire home/apt,165.0
+54246425,Manhattan,Upper East Side,40.7622,-73.96057,Entire home/apt,158.0
+54258024,Manhattan,Upper East Side,40.76242,-73.96142,Entire home/apt,85.0
+54258718,Manhattan,Upper East Side,40.76041,-73.96192,Entire home/apt,120.0
+54262388,Manhattan,Upper East Side,40.76214,-73.9613,Entire home/apt,139.0
+54262883,Manhattan,Upper East Side,40.76036,-73.96048,Entire home/apt,119.0
+54263436,Manhattan,Upper East Side,40.7603,-73.96081,Entire home/apt,155.0
+54263674,Manhattan,Upper East Side,40.76201,-73.9619,Entire home/apt,95.0
+54263886,Manhattan,Upper East Side,40.76088,-73.96012,Entire home/apt,160.0
+54264164,Manhattan,Upper East Side,40.76235,-73.9614,Entire home/apt,140.0
+54307163,Manhattan,East Harlem,40.7921433,-73.93665899999999,Entire home/apt,299.0
+54314481,Brooklyn,Williamsburg,40.70597,-73.93551,Entire home/apt,250.0
+54328203,Manhattan,Upper East Side,40.77697,-73.95389,Entire home/apt,150.0
+545653384677866355,Manhattan,Upper East Side,40.78355,-73.94799,Entire home/apt,92.0
+546256455955963923,Manhattan,Upper East Side,40.77944,-73.95537,Entire home/apt,135.0
+546438376359380052,Brooklyn,Williamsburg,40.71292,-73.96225,Entire home/apt,145.0
+546689834460719148,Queens,Astoria,40.75497,-73.92289,Entire home/apt,140.0
+547086501522814424,Manhattan,East Harlem,40.8084,-73.94004,Entire home/apt,245.0
+552211233896015720,Brooklyn,Bushwick,40.68578000781492,-73.90822267179331,Entire home/apt,75.0
+552972547593855946,Manhattan,Upper East Side,40.77184,-73.95571,Entire home/apt,375.0
+553496514404994366,Brooklyn,Williamsburg,40.70707,-73.94489,Entire home/apt,100.0
+554283191774753015,Manhattan,East Harlem,40.78423,-73.94662,Entire home/apt,100.0
+556730713271949008,Queens,Astoria,40.7545,-73.9249,Entire home/apt,140.0
+557308562445321576,Manhattan,Upper East Side,40.78049,-73.95223,Entire home/apt,100.0
+557473594642446522,Manhattan,Upper East Side,40.78111,-73.95365,Entire home/apt,125.0
+557953921538656336,Manhattan,Upper East Side,40.76399612426758,-73.96626281738281,Entire home/apt,136.0
+547793067593304321,Manhattan,Upper East Side,40.76167678833008,-73.96260070800781,Entire home/apt,83.0
+547998622525410778,Brooklyn,Williamsburg,40.70659,-73.9528,Entire home/apt,225.0
+548672572096028312,Manhattan,Upper East Side,40.78421,-73.95113,Entire home/apt,100.0
+549269675708932153,Bronx,Williamsbridge,40.87687,-73.84953,Entire home/apt,55.0
+550841600859360458,Manhattan,Upper East Side,40.76978,-73.95121,Entire home/apt,115.0
+551846781913884240,Manhattan,Upper East Side,40.7777024,-73.9522846,Entire home/apt,339.0
+560149197063785531,Manhattan,Upper East Side,40.78286,-73.94797,Entire home/apt,94.0
+560746623203080695,Manhattan,Upper East Side,40.77019,-73.95782,Entire home/apt,137.0
+561766452830859698,Brooklyn,Williamsburg,40.71368,-73.95575,Entire home/apt,295.0
+568240178481941266,Brooklyn,Williamsburg,40.71917,-73.94387,Entire home/apt,350.0
+568772914092580222,Manhattan,East Harlem,40.79773,-73.93506,Entire home/apt,118.0
+569489053139938853,Brooklyn,Bushwick,40.68460609778328,-73.91226428023796,Entire home/apt,110.0
+570195549062750609,Brooklyn,Williamsburg,40.71547,-73.96418,Entire home/apt,350.0
+570305497537981707,Brooklyn,Williamsburg,40.71027,-73.94704,Entire home/apt,400.0
+570315741712078963,Brooklyn,Williamsburg,40.70692,-73.94105,Entire home/apt,187.0
+571584519885225281,Brooklyn,Williamsburg,40.70849,-73.95652,Entire home/apt,155.0
+571598171738337849,Brooklyn,Flatlands,40.6269,-73.93203,Entire home/apt,200.0
+578592072056483887,Brooklyn,Williamsburg,40.71398162841797,-73.9614028930664,Entire home/apt,189.0
+578977880199483445,Brooklyn,Bushwick,40.70252,-73.92281,Entire home/apt,186.0
+579513654453597247,Brooklyn,Bushwick,40.70511,-73.91918,Entire home/apt,200.0
+562884903457128974,Bronx,Mott Haven,40.8149,-73.92758,Entire home/apt,160.0
+564542475835793907,Brooklyn,Bay Ridge,40.64055,-74.02957,Entire home/apt,120.0
+574586117293355737,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,272.0
+582478029279386383,Brooklyn,Bushwick,40.70587,-73.91602,Entire home/apt,379.0
+582678773466303522,Brooklyn,Bushwick,40.691574,-73.908531,Entire home/apt,98.0
+591427135680545574,Brooklyn,Bushwick,40.69153,-73.92178,Entire home/apt,150.0
+592174108387820078,Manhattan,Upper East Side,40.77719,-73.96212,Entire home/apt,175.0
+592736448808176674,Queens,Astoria,40.76515,-73.91611,Entire home/apt,140.0
+578430230117365467,Brooklyn,Williamsburg,40.70699,-73.94685,Entire home/apt,195.0
+578435995379090676,Brooklyn,Williamsburg,40.7081,-73.94493,Entire home/apt,140.0
+584833406345340639,Brooklyn,Williamsburg,40.71468,-73.96263,Entire home/apt,325.0
+584843453194315608,Brooklyn,Williamsburg,40.71117628705987,-73.96643680496146,Entire home/apt,600.0
+584903103239670051,Brooklyn,Flatlands,40.6201,-73.93913,Entire home/apt,350.0
+587606395719069171,Manhattan,Upper East Side,40.78418,-73.94947,Entire home/apt,230.0
+593310907721075575,Manhattan,Upper East Side,40.78337,-73.94518,Entire home/apt,94.0
+593460935766034435,Manhattan,Upper East Side,40.783531,-73.949905,Entire home/apt,250.0
+594808092992638358,Brooklyn,Williamsburg,40.72166039310881,-73.96201991866093,Entire home/apt,350.0
+596203731563582651,Brooklyn,Williamsburg,40.70936,-73.96256,Entire home/apt,140.0
+597077746482427681,Manhattan,Upper East Side,40.77581,-73.94438,Entire home/apt,500.0
+597087942704646402,Brooklyn,Williamsburg,40.708227869125366,-73.9674726647204,Entire home/apt,360.0
+597789124417139922,Brooklyn,Williamsburg,40.71809,-73.94444,Entire home/apt,150.0
+603547987619834273,Brooklyn,Williamsburg,40.70609,-73.94216,Entire home/apt,120.0
+588263591786868588,Manhattan,Upper East Side,40.770790100097656,-73.95750427246094,Entire home/apt,289.0
+589857043016769966,Brooklyn,Williamsburg,40.71638,-73.95282,Entire home/apt,298.0
+590041263854398620,Brooklyn,Bushwick,40.69006,-73.91695,Entire home/apt,140.0
+590541486540140894,Brooklyn,Bushwick,40.68873,-73.9155,Entire home/apt,140.0
+598923105171759382,Manhattan,Upper East Side,40.77019,-73.95782,Entire home/apt,137.0
+599256513633250977,Queens,Astoria,40.76664,-73.91744,Entire home/apt,116.0
+604979090670594317,Manhattan,East Harlem,40.80023,-73.93627,Entire home/apt,125.0
+605583991244171226,Manhattan,Upper East Side,40.77156,-73.95503,Entire home/apt,145.0
+605677493735522649,Manhattan,Upper East Side,40.77087,-73.95535,Entire home/apt,78.0
+606544996803495153,Manhattan,Upper East Side,40.78135,-73.94743,Entire home/apt,87.0
+608618639198821844,Brooklyn,Flatlands,40.62923,-73.92303,Entire home/apt,70.0
+608671468736291174,Brooklyn,Bushwick,40.70065,-73.92422,Entire home/apt,119.0
+614321790165772374,Manhattan,Upper East Side,40.76951,-73.9563,Entire home/apt,115.0
+615395641198034052,Brooklyn,Williamsburg,40.70727,-73.96248,Entire home/apt,105.0
+600953895762341350,Brooklyn,Bushwick,40.68971,-73.91972,Entire home/apt,89.0
+602780849247393930,Manhattan,East Harlem,40.7911,-73.94031,Entire home/apt,180.0
+608883511707431102,Brooklyn,Williamsburg,40.713886,-73.961205,Entire home/apt,120.0
+609500363267740230,Brooklyn,Williamsburg,40.712749,-73.963951,Entire home/apt,300.0
+610313074951797337,Brooklyn,Williamsburg,40.712582,-73.963127,Entire home/apt,105.0
+611736171410366121,Brooklyn,Bushwick,40.693417,-73.926247,Entire home/apt,147.0
+617871935670392856,Brooklyn,Williamsburg,40.71915,-73.94321,Entire home/apt,143.0
+618023128301471110,Manhattan,East Harlem,40.79411807890201,-73.93260976645611,Entire home/apt,557.0
+618184915139767958,Brooklyn,Bushwick,40.70178,-73.91235,Entire home/apt,245.0
+618282597619443456,Brooklyn,Bay Ridge,40.62677706342476,-74.02417135238647,Entire home/apt,175.0
+618451653506979162,Queens,Queens Village,40.7126,-73.73964,Entire home/apt,70.0
+618708161953854098,Brooklyn,Bushwick,40.6908,-73.91667,Entire home/apt,211.0
+618832316866966127,Manhattan,Upper East Side,40.78099355074147,-73.95032696219978,Entire home/apt,400.0
+620091110736498694,Manhattan,Upper East Side,40.78349,-73.9467,Entire home/apt,97.0
+612146795311921850,Brooklyn,Williamsburg,40.71143,-73.94305,Entire home/apt,120.0
+612991065549809752,Manhattan,East Harlem,40.79711,-73.93581,Entire home/apt,107.0
+613606685400763792,Brooklyn,Bushwick,40.68729,-73.90887,Entire home/apt,169.0
+613842278291796082,Queens,Astoria,40.77305,-73.92177,Entire home/apt,175.0
+622282373326580697,Manhattan,Upper East Side,40.77151,-73.95641,Entire home/apt,135.0
+622289283359247413,Manhattan,Upper East Side,40.77147,-73.95464,Entire home/apt,125.0
+623222466272185741,Brooklyn,Williamsburg,40.70318,-73.94184,Entire home/apt,115.0
+627028314789354917,Queens,Astoria,40.76959,-73.91861,Entire home/apt,191.0
+635383523425875590,Manhattan,Upper East Side,40.77066,-73.95549,Entire home/apt,113.0
+623812432062401934,Queens,Astoria,40.75675,-73.92231,Entire home/apt,115.0
+625101948280782536,Bronx,Mott Haven,40.81117965446412,-73.92987687226892,Entire home/apt,166.0
+630921135487536795,Bronx,Mott Haven,40.81141,-73.92722,Entire home/apt,150.0
+631149892014601626,Manhattan,Upper East Side,40.78488,-73.94926,Entire home/apt,220.0
+631719694603808069,Manhattan,East Harlem,40.8063,-73.94208,Entire home/apt,129.0
+636167593975534277,Brooklyn,Bushwick,40.69933,-73.92178,Entire home/apt,175.0
+637524390360273018,Queens,Queens Village,40.71394,-73.73203,Entire home/apt,180.0
+643878224920282752,Brooklyn,Williamsburg,40.7123644,-73.9488925,Entire home/apt,297.0
+631838483322074518,Brooklyn,Bay Ridge,40.63177,-74.02664,Entire home/apt,220.0
+633114777738202849,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,364.0
+633498135863569609,Brooklyn,Williamsburg,40.7131,-73.94388,Entire home/apt,79.0
+633956160953215663,Manhattan,East Harlem,40.78856,-73.94775,Entire home/apt,425.0
+640508290069155758,Manhattan,Upper East Side,40.77135,-73.9559,Entire home/apt,125.0
+641128802903031792,Brooklyn,Bushwick,40.6915011,-73.9156479,Entire home/apt,115.0
+641852518442102238,Brooklyn,Williamsburg,40.71328,-73.96381,Entire home/apt,279.0
+646422444789464175,Manhattan,Upper East Side,40.7697,-73.95429,Entire home/apt,125.0
+647125962319558621,Manhattan,Upper East Side,40.78069,-73.9532,Entire home/apt,139.0
+647705805867409740,Manhattan,Upper East Side,40.77974,-73.95013,Entire home/apt,198.0
+649075074887124641,Manhattan,Upper East Side,40.77326,-73.95465,Entire home/apt,155.0
+653462989981755151,Brooklyn,Bushwick,40.68714,-73.91509,Entire home/apt,85.0
+653538289455674361,Manhattan,Upper East Side,40.77009,-73.95645,Entire home/apt,238.0
+653607125944399593,Brooklyn,Bushwick,40.70528,-73.92205,Entire home/apt,180.0
+649423203553367743,Manhattan,Upper East Side,40.7806,-73.94944,Entire home/apt,79.0
+649968161200990873,Bronx,Mott Haven,40.81154,-73.91819,Entire home/apt,389.0
+650138361418935954,Manhattan,Upper East Side,40.78228,-73.94941,Entire home/apt,83.0
+650712432517285683,Brooklyn,Williamsburg,40.71689503368682,-73.96337203681469,Entire home/apt,300.0
+654206843986971609,Brooklyn,Williamsburg,40.71355,-73.96318,Entire home/apt,100.0
+655136103348782329,Brooklyn,Williamsburg,40.71151,-73.95305,Entire home/apt,325.0
+655205438300291534,Manhattan,East Harlem,40.79789051983439,-73.93470763697323,Entire home/apt,190.0
+655339007497638499,Brooklyn,Flatlands,40.62776,-73.91913,Entire home/apt,239.0
+656290328418228490,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,372.0
+660468074010524274,Brooklyn,Williamsburg,40.71514,-73.9567,Entire home/apt,542.0
+651405001634350671,Brooklyn,Bushwick,40.70726,-73.92353,Entire home/apt,180.0
+651587873612601114,Manhattan,Upper East Side,40.77224,-73.95514,Entire home/apt,200.0
+651640728974046766,Manhattan,Upper East Side,40.77198,-73.95306,Entire home/apt,233.0
+652933534451877293,Manhattan,Upper East Side,40.77056,-73.95079,Entire home/apt,122.0
+657441930493975647,Brooklyn,Williamsburg,40.70319,-73.94477,Entire home/apt,200.0
+657450415752189395,Manhattan,Upper East Side,40.76957,-73.95596,Entire home/apt,125.0
+658658419167402439,Brooklyn,Bushwick,40.69559,-73.92442,Entire home/apt,103.0
+658778407325963223,Queens,Astoria,40.76461,-73.92302,Entire home/apt,199.0
+658840248450586454,Queens,Queens Village,40.703952,-73.7282713,Entire home/apt,379.0
+661582521798525657,Manhattan,Upper East Side,40.7826,-73.94807,Entire home/apt,88.0
+663649634317192434,Manhattan,Upper East Side,40.76961,-73.95441,Entire home/apt,125.0
+664296796498884804,Manhattan,East Harlem,40.7887535,-73.9473969,Entire home/apt,240.0
+669491267862682923,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,114.0
+659420459502596346,Brooklyn,Bushwick,40.7053701,-73.9196092,Entire home/apt,115.0
+659422624325644314,Brooklyn,Bushwick,40.7053701,-73.9196092,Entire home/apt,101.0
+665207224147437182,Brooklyn,Williamsburg,40.7112941,-73.9571425,Entire home/apt,300.0
+666687689202133264,Brooklyn,Bushwick,40.7007,-73.91441,Entire home/apt,149.0
+666705065274020115,Brooklyn,Bushwick,40.70071,-73.91287,Entire home/apt,88.0
+666720978502253554,Brooklyn,Bushwick,40.69902,-73.91387,Entire home/apt,101.0
+670258225097904745,Brooklyn,Bushwick,40.69007,-73.91535,Entire home/apt,165.0
+670578061835591281,Brooklyn,Bushwick,40.70065,-73.91943,Entire home/apt,126.0
+671188401549574869,Queens,Astoria,40.77485692707096,-73.93460816560669,Entire home/apt,90.0
+671897840167942514,Brooklyn,Williamsburg,40.71563,-73.96605,Entire home/apt,220.0
+668336778831639835,Brooklyn,Bushwick,40.68837286878325,-73.90709526836872,Entire home/apt,80.0
+673874846826602871,Manhattan,Upper East Side,40.78152,-73.94749,Entire home/apt,96.0
+673945070295033994,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,163.0
+674117411689401093,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,162.0
+676078765992325073,Brooklyn,Williamsburg,40.71552,-73.94889,Entire home/apt,316.0
+679610066679499298,Manhattan,Upper East Side,40.78345,-73.9463,Entire home/apt,94.0
+679820840001432631,Manhattan,Upper East Side,40.78725218584496,-73.95432203068847,Entire home/apt,250.0
+680341463529754504,Brooklyn,Williamsburg,40.7144003,-73.9496825,Entire home/apt,250.0
+681164404044413348,Brooklyn,Bushwick,40.70095,-73.91389,Entire home/apt,111.0
+681210158470081528,Brooklyn,Flatlands,40.6320671,-73.92222319999999,Entire home/apt,185.0
+677471437727806233,Brooklyn,Bushwick,40.69154,-73.91046,Entire home/apt,80.0
+677490985343470741,Brooklyn,Williamsburg,40.7128914,-73.9666103,Entire home/apt,350.0
+677538041688162695,Brooklyn,Bushwick,40.68186,-73.9037,Entire home/apt,250.0
+678035888016921335,Queens,Astoria,40.7578,-73.92748,Entire home/apt,182.0
+683855848444214769,Manhattan,Upper East Side,40.77403,-73.94787,Entire home/apt,130.0
+684035098294762946,Manhattan,East Harlem,40.78644,-73.94866,Entire home/apt,276.0
+684342030838981455,Brooklyn,Williamsburg,40.71419,-73.94438,Entire home/apt,100.0
+684598459983753356,Manhattan,Upper East Side,40.78461,-73.95004,Entire home/apt,467.0
+687561322939099711,Manhattan,Upper East Side,40.76662,-73.96686,Entire home/apt,170.0
+688500937567104673,Queens,Astoria,40.76107866447721,-73.9224673435092,Entire home/apt,85.0
+688602835794547518,Brooklyn,Bushwick,40.69461,-73.91178,Entire home/apt,130.0
+689892790771456013,Brooklyn,Williamsburg,40.71321560000001,-73.95632309999999,Entire home/apt,90.0
+690070364410526409,Brooklyn,Flatlands,40.61235,-73.92336,Entire home/apt,176.0
+690456760581628693,Brooklyn,Bushwick,40.70064,-73.91271,Entire home/apt,123.0
+690475685515719489,Brooklyn,Bushwick,40.69014,-73.91605,Entire home/apt,411.0
+686165744322965219,Brooklyn,Williamsburg,40.70999,-73.96003,Entire home/apt,85.0
+686167351012894994,Bronx,Williamsbridge,40.8812,-73.85336,Entire home/apt,85.0
+692154261804082226,Queens,Astoria,40.76109740499372,-73.91960818152441,Entire home/apt,212.0
+693682129068012891,Brooklyn,Bushwick,40.69469,-73.91208,Entire home/apt,160.0
+695587837737576376,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,115.0
+695755456324715761,Brooklyn,Bushwick,40.69302,-73.916,Entire home/apt,185.0
+696811607506823150,Manhattan,Upper East Side,40.78336,-73.94644,Entire home/apt,94.0
+697076566224009161,Brooklyn,Williamsburg,40.70945,-73.95243,Entire home/apt,160.0
+697155684676038214,Manhattan,Upper East Side,40.76958,-73.95464,Entire home/apt,125.0
+694902191509735869,Brooklyn,Williamsburg,40.71732,-73.96622,Entire home/apt,150.0
+699867644911279327,Manhattan,East Harlem,40.7855906,-73.9495843,Entire home/apt,324.0
+700064775616824780,Brooklyn,Williamsburg,40.71242579046453,-73.94495332252976,Entire home/apt,350.0
+700568844878553081,Manhattan,Upper East Side,40.77418117098613,-73.9500412929954,Entire home/apt,101.0
+700586064334508163,Brooklyn,Williamsburg,40.7089783,-73.9616398,Entire home/apt,165.0
+700629595665616550,Brooklyn,Williamsburg,40.710184826247975,-73.96188988004664,Entire home/apt,132.0
+701321715853254012,Manhattan,East Harlem,40.78617,-73.94998850000002,Entire home/apt,215.0
+701389905710753121,Manhattan,Upper East Side,40.7646,-73.96426,Entire home/apt,192.0
+704856393767697728,Manhattan,Upper East Side,40.76935,-73.95573,Entire home/apt,115.0
+706785767610887259,Manhattan,Upper East Side,40.77101,-73.95645,Entire home/apt,220.0
+703703457778787087,Brooklyn,Bay Ridge,40.63864,-74.02728,Entire home/apt,120.0
+703738038699009605,Brooklyn,Bushwick,40.69467,-73.92312,Entire home/apt,210.0
+710897185427371328,Brooklyn,Williamsburg,40.70698,-73.95028,Entire home/apt,264.0
+711477188594962909,Brooklyn,Williamsburg,40.71654,-73.94237,Entire home/apt,271.0
+712285563313632501,Manhattan,Upper East Side,40.76845,-73.95568,Entire home/apt,114.0
+713920711978791782,Brooklyn,Bushwick,40.6900707,-73.9196438,Entire home/apt,83.0
+718031653455200639,Manhattan,Upper East Side,40.76939,-73.95498,Entire home/apt,115.0
+718045777713069841,Manhattan,Upper East Side,40.78176,-73.95405,Entire home/apt,200.0
+719054235443116316,Brooklyn,Bushwick,40.70808,-73.92212,Entire home/apt,356.0
+719127902147162360,Queens,Astoria,40.76051,-73.92059,Entire home/apt,124.0
+719236297825192290,Manhattan,Upper East Side,40.78435,-73.94839,Entire home/apt,220.0
+720072722198622483,Brooklyn,Williamsburg,40.7131,-73.96059,Entire home/apt,700.0
+721000569241610344,Brooklyn,Bay Ridge,40.6293,-74.02656,Entire home/apt,86.0
+721091038846734506,Manhattan,Upper East Side,40.77152,-73.95262,Entire home/apt,390.0
+722174109497563429,Manhattan,East Harlem,40.78617,-73.94998850000002,Entire home/apt,220.0
+724535783876553795,Brooklyn,Williamsburg,40.7084,-73.95172,Entire home/apt,269.0
+725174632104784756,Manhattan,East Harlem,40.79283,-73.9398,Entire home/apt,225.0
+729721629145505897,Brooklyn,Williamsburg,40.70923,-73.92623,Entire home/apt,3600.0
+729790014222031318,Manhattan,Upper East Side,40.78427,-73.94879,Entire home/apt,1100.0
+729814772008750766,Manhattan,East Harlem,40.785112,-73.947301,Entire home/apt,304.0
+730620209721699066,Manhattan,Upper East Side,40.78057,-73.95188,Entire home/apt,150.0
+726205107648048166,Queens,Queens Village,40.71265,-73.73941,Entire home/apt,330.0
+728469995983065455,Bronx,Mott Haven,40.80977,-73.91932,Entire home/apt,284.0
+731940007156884626,Brooklyn,Bushwick,40.69905,-73.92809,Entire home/apt,250.0
+733357289463416967,Manhattan,Upper East Side,40.7786,-73.94787,Entire home/apt,200.0
+733643513468176349,Brooklyn,Williamsburg,40.71573,-73.93877,Entire home/apt,200.0
+734190494960235826,Brooklyn,Williamsburg,40.70886,-73.94338,Entire home/apt,96.0
+739670023874151238,Manhattan,Upper East Side,40.76668,-73.95427,Entire home/apt,135.0
+739758265100844130,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,271.0
+740414959590827579,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,115.0
+740430164115683052,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,276.0
+740446516694389016,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,271.0
+740482688468999472,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,122.0
+740514885087653391,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,118.0
+740606284690310306,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,253.0
+728974638707556180,Manhattan,Upper East Side,40.76568,-73.96721,Entire home/apt,225.0
+734241935990286841,Manhattan,Upper East Side,40.78125,-73.95217,Entire home/apt,82.0
+734670689144946957,Manhattan,Upper East Side,40.7733145,-73.9505648,Entire home/apt,299.0
+734682208263244829,Brooklyn,Bushwick,40.68147,-73.90546,Entire home/apt,331.0
+735608081713932796,Brooklyn,Bushwick,40.70466,-73.9181,Entire home/apt,170.0
+736133252972764787,Manhattan,Upper East Side,40.7616901,-73.9626906,Entire home/apt,86.0
+736139385311072356,Brooklyn,Bay Ridge,40.62911321754182,-74.02875984472486,Entire home/apt,94.0
+736139658330793719,Brooklyn,Bay Ridge,40.62911,-74.02726,Entire home/apt,700.0
+736143192475629940,Manhattan,Upper East Side,40.7616771,-73.96259870000002,Entire home/apt,86.0
+737567109090743244,Brooklyn,Williamsburg,40.71443,-73.94351,Entire home/apt,450.0
+741224200594669992,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,140.0
+741243111598984805,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,115.0
+741855432786425988,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,140.0
+741856106447591515,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,114.0
+741867669405328335,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,118.0
+741951889226170199,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,167.0
+741962066446182403,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,115.0
+741962324502200158,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,117.0
+746979573400301774,Manhattan,Upper East Side,40.7639984,-73.96626479999999,Entire home/apt,137.0
+742998749453434439,Brooklyn,Bushwick,40.70262,-73.92604,Entire home/apt,109.0
+744278325880141330,Manhattan,East Harlem,40.8021124,-73.9424459,Entire home/apt,150.0
+744733352328495344,Manhattan,Upper East Side,40.76192157361409,-73.96016044388999,Entire home/apt,150.0
+744749403071337881,Manhattan,East Harlem,40.78695,-73.94853,Entire home/apt,220.0
+745627039931945103,Manhattan,Upper East Side,40.78218,-73.94514,Entire home/apt,119.0
+750084268313862774,Manhattan,East Harlem,40.7995,-73.94214,Entire home/apt,170.0
+750101014637158472,Brooklyn,Williamsburg,40.71315,-73.96314,Entire home/apt,106.0
+750531394025062547,Manhattan,East Harlem,40.7845901,-73.9470755,Entire home/apt,243.0
+750630709509833993,Brooklyn,Bushwick,40.698813977573,-73.9362513229255,Entire home/apt,250.0
+755389547492464436,Brooklyn,Flatlands,40.616807600658426,-73.92216553525144,Entire home/apt,180.0
+756592509277510240,Queens,Queens Village,40.72603,-73.74894,Entire home/apt,98.0
+751604408695103064,Brooklyn,Bushwick,40.6977712,-73.9361899,Entire home/apt,64.0
+752169617765852622,Manhattan,Upper East Side,40.76272,-73.96232,Entire home/apt,192.0
+753925994443114374,Queens,Astoria,40.7545,-73.92462,Entire home/apt,105.0
+754303014491958884,Manhattan,Upper East Side,40.77918,-73.94729,Entire home/apt,139.0
+754531862309177538,Queens,Astoria,40.75805,-73.92223,Entire home/apt,170.0
+756685458967490030,Manhattan,East Harlem,40.80261,-73.93785,Entire home/apt,219.0
+762296955086811882,Brooklyn,Williamsburg,40.71018,-73.95568,Entire home/apt,27.0
+762777419274013912,Brooklyn,Bushwick,40.69885,-73.93304,Entire home/apt,210.0
+763044587478989128,Manhattan,Upper East Side,40.77149,-73.95628,Entire home/apt,125.0
+763221273695589438,Brooklyn,Williamsburg,40.71466,-73.94139,Entire home/apt,190.0
+759312159547321270,Brooklyn,Bushwick,40.69213,-73.91408,Entire home/apt,85.0
+759629483491978223,Manhattan,Upper East Side,40.7773867418538,-73.9519847959407,Entire home/apt,129.0
+759988921323877489,Brooklyn,Williamsburg,40.7055,-73.93636,Entire home/apt,300.0
+760086536368275287,Brooklyn,Williamsburg,40.71356,-73.94187,Entire home/apt,495.0
+760094078662401363,Manhattan,Upper East Side,40.77225,-73.95337,Entire home/apt,200.0
+760425876057039109,Queens,Astoria,40.76841,-73.90904,Entire home/apt,190.0
+760789452004127383,Brooklyn,Williamsburg,40.71156,-73.94724,Entire home/apt,400.0
+761662359690165216,Brooklyn,Bushwick,40.6828,-73.90554,Entire home/apt,250.0
+761751218620391134,Manhattan,East Harlem,40.78971,-73.94775,Entire home/apt,133.0
+761811422193396844,Brooklyn,Williamsburg,40.7059098,-73.9373598,Entire home/apt,299.0
+762241527257255051,Manhattan,Upper East Side,40.78169,-73.94746,Entire home/apt,96.0
+765281056980264511,Manhattan,Upper East Side,40.77620074651976,-73.9542706310749,Entire home/apt,127.0
+765111841001584233,Manhattan,Upper East Side,40.76704,-73.9603,Entire home/apt,134.0
+769203788648758537,Queens,Astoria,40.77081,-73.92659,Entire home/apt,427.0
+766143851141113634,Manhattan,Upper East Side,40.78126,-73.95314,Entire home/apt,140.0
+766867327829311890,Brooklyn,Bushwick,40.68216,-73.90549,Entire home/apt,260.0
+767300934500983246,Brooklyn,Williamsburg,40.71066,-73.95468,Entire home/apt,275.0
+770296106839159162,Manhattan,Upper East Side,40.77034,-73.95687,Entire home/apt,163.0
+771202794766986015,Queens,Astoria,40.7682992,-73.9313076,Entire home/apt,130.0
+771499666300242340,Manhattan,Upper East Side,40.7633888,-73.9596248,Entire home/apt,345.0
+771591241885965586,Manhattan,Upper East Side,40.77019,-73.95782,Entire home/apt,137.0
+774620728248082420,Queens,Astoria,40.77478,-73.93345,Entire home/apt,275.0
+773171759933099248,Manhattan,Upper East Side,40.76075,-73.96228,Entire home/apt,119.0
+773411792567687344,Brooklyn,Williamsburg,40.7179512,-73.9436317,Entire home/apt,79.0
+774062557680188919,Brooklyn,Bushwick,40.68489,-73.91346,Entire home/apt,182.0
+778372032945748991,Brooklyn,Bushwick,40.6996798,-73.9291393,Entire home/apt,310.0
+776759187442679676,Brooklyn,Williamsburg,40.70999,-73.94873,Entire home/apt,140.0
+776975856045992795,Brooklyn,Bushwick,40.69875,-73.91391,Entire home/apt,95.0
+777522603710150946,Brooklyn,Williamsburg,40.71501,-73.94474,Entire home/apt,167.0
+781968768297440066,Brooklyn,Williamsburg,40.71256,-73.94538,Entire home/apt,170.0
+781979920797861016,Manhattan,Upper East Side,40.76087101286882,-73.96097622727308,Entire home/apt,124.0
+782404014855199852,Manhattan,East Harlem,40.78617,-73.94998850000002,Entire home/apt,201.0
+782703731135941912,Brooklyn,Williamsburg,40.715438654871946,-73.95543940365314,Entire home/apt,180.0
+782932651604019354,Bronx,Mott Haven,40.80718762240672,-73.92387783457983,Entire home/apt,320.0
+783319860023662816,Manhattan,Upper East Side,40.783,-73.95041,Entire home/apt,85.0
+778441097353195696,Manhattan,East Harlem,40.80107,-73.9378,Entire home/apt,85.0
+778471998312533603,Brooklyn,Williamsburg,40.71472,-73.955,Entire home/apt,145.0
+780226637180973739,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,302.0
+780680904587426457,Brooklyn,Flatlands,40.63013,-73.94371,Entire home/apt,86.0
+780873794976431657,Brooklyn,Bushwick,40.69284767803021,-73.92165599845919,Entire home/apt,400.0
+780897141519639753,Brooklyn,Bushwick,40.69187,-73.92147,Entire home/apt,520.0
+781070167326135184,Brooklyn,Williamsburg,40.7161361,-73.96320349999999,Entire home/apt,200.0
+781447553772633220,Brooklyn,Bushwick,40.70447,-73.91964,Entire home/apt,176.0
+786813705384661274,Manhattan,East Harlem,40.78617,-73.94998850000002,Entire home/apt,201.0
+786986645361368404,Brooklyn,Williamsburg,40.7173717,-73.9573375,Entire home/apt,225.0
+784992346056177689,Queens,Queens Village,40.71454312375768,-73.73957639169808,Entire home/apt,250.0
+785477500044951072,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,138.0
+785499763795327535,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,151.0
+792084481792213383,Brooklyn,Bushwick,40.68604089999999,-73.9129553,Entire home/apt,178.0
+792775101360784896,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,149.0
+792797538929761246,Manhattan,Upper East Side,40.7706801,-73.9573166,Entire home/apt,223.0
+790527792300128395,Brooklyn,Williamsburg,40.7101864589828,-73.94375168949121,Entire home/apt,210.0
+791243921943197302,Brooklyn,Williamsburg,40.713,-73.95815,Entire home/apt,200.0
+795672952188987474,Manhattan,East Harlem,40.79786,-73.93944,Entire home/apt,104.0
+793966927729526052,Brooklyn,Bushwick,40.69661,-73.90768,Entire home/apt,424.0
+794102173009657122,Brooklyn,Bushwick,40.69707442810879,-73.93539035432984,Entire home/apt,160.0
+795151139193872895,Bronx,Williamsbridge,40.86987,-73.86234,Entire home/apt,100.0
+798903602556343052,Manhattan,East Harlem,40.79247621273738,-73.93845615880652,Entire home/apt,115.0
+798968240906335000,Manhattan,Upper East Side,40.77015,-73.95791,Entire home/apt,161.0
+800130194293808699,Brooklyn,Bushwick,40.696167060474885,-73.93280122429132,Entire home/apt,239.0
+800175630360727966,Manhattan,Upper East Side,40.77094,-73.96279,Entire home/apt,446.0
+796553153836337153,Brooklyn,Bushwick,40.69072507417998,-73.90344117693265,Entire home/apt,150.0
+797161677213334866,Brooklyn,Williamsburg,40.71415,-73.9653,Entire home/apt,130.0
+797187969473896429,Manhattan,East Harlem,40.78611768409948,-73.95069416822939,Entire home/apt,157.0
+797894095534905728,Brooklyn,Williamsburg,40.71346276572074,-73.95720597452973,Entire home/apt,886.0
+798465931580249330,Bronx,Williamsbridge,40.87422,-73.85582,Entire home/apt,103.0
+802528180126158845,Brooklyn,Bushwick,40.70509031518221,-73.920870461594,Entire home/apt,125.0
+803019506754857519,Manhattan,East Harlem,40.79875,-73.93947,Entire home/apt,120.0
+801466561343424271,Manhattan,East Harlem,40.79759252537309,-73.93799033077822,Entire home/apt,172.0
+802083431715546427,Brooklyn,Bushwick,40.68122,-73.90701,Entire home/apt,98.0
+802152231569723956,Brooklyn,Bushwick,40.692680634313135,-73.90641797364178,Entire home/apt,125.0
+807919911088300640,Manhattan,Upper East Side,40.7706801,-73.9573166,Entire home/apt,250.0
+808048450412493213,Manhattan,East Harlem,40.7883737,-73.9536851,Entire home/apt,110.0
+803552386184741557,Brooklyn,Flatlands,40.61556,-73.92128,Entire home/apt,250.0
+805097623277517080,Manhattan,East Harlem,40.79804,-73.94006,Entire home/apt,116.0
+805356815376500120,Queens,Queens Village,40.7039473,-73.728269,Entire home/apt,99.0
+806060163730588111,Queens,Astoria,40.75996180000001,-73.9251788,Entire home/apt,100.0
+806488692376848975,Brooklyn,Williamsburg,40.7088962,-73.9407844,Entire home/apt,126.0
+808681126216283038,Manhattan,Upper East Side,40.7616901,-73.9626906,Entire home/apt,86.0
+809503558229015441,Brooklyn,Bushwick,40.701972316666456,-73.9283299094281,Entire home/apt,240.0
+809518045636653120,Manhattan,East Harlem,40.81281352562995,-73.93581834853798,Entire home/apt,130.0
+809538144227617203,Brooklyn,Williamsburg,40.7102352,-73.9649074,Entire home/apt,250.0
+809626162171307765,Brooklyn,Bushwick,40.69520265663875,-73.93150683443957,Entire home/apt,175.0
+808624705090281349,Brooklyn,Williamsburg,40.7145166,-73.9492286,Entire home/apt,129.0
+811691110854757146,Brooklyn,Bushwick,40.70105511962361,-73.92601385825935,Entire home/apt,150.0
+811811665116059750,Bronx,Williamsbridge,40.88172739092337,-73.8580488756876,Entire home/apt,100.0
+812180797633934277,Queens,Astoria,40.76822,-73.92752,Entire home/apt,272.0
+814140499041386815,Brooklyn,Williamsburg,40.717227,-73.9507648,Entire home/apt,437.0
+814152878553377349,Manhattan,Upper East Side,40.771523,-73.952622,Entire home/apt,397.0
+811509208342037066,Manhattan,Upper East Side,40.7734986,-73.95090929999999,Entire home/apt,99.0
+811544409641696424,Brooklyn,Williamsburg,40.705070861951256,-73.93154134478581,Entire home/apt,111.0
+811561120935198520,Manhattan,Upper East Side,40.77611140240317,-73.95641314807472,Entire home/apt,134.0
+819711620719566358,Bronx,Williamsbridge,40.87003,-73.8668,Entire home/apt,99.0
+820361475735199804,Brooklyn,Williamsburg,40.71256919576887,-73.96457335655461,Entire home/apt,159.0
+820498236955797984,Brooklyn,Williamsburg,40.71509,-73.9638,Entire home/apt,156.0
+820530353821552933,Manhattan,Upper East Side,40.77249,-73.94838,Entire home/apt,140.0
+821019243721350862,Manhattan,Upper East Side,40.77093505859375,-73.95758819580078,Entire home/apt,128.0
+821019725341194896,Brooklyn,Williamsburg,40.713974,-73.9445277,Entire home/apt,181.0
+821027441104935897,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,163.0
+821030948961436015,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,271.0
+821031571738778785,Manhattan,Upper East Side,40.77093505859375,-73.95758819580078,Entire home/apt,138.0
+821031760388969580,Manhattan,Upper East Side,40.77093505859375,-73.95758819580078,Entire home/apt,120.0
+821034451604729575,Manhattan,Upper East Side,40.77242660522461,-73.95455169677734,Entire home/apt,135.0
+821035041004824848,Manhattan,Upper East Side,40.77242660522461,-73.95455169677734,Entire home/apt,149.0
+821037493315566324,Manhattan,Upper East Side,40.77093505859375,-73.95758819580078,Entire home/apt,128.0
+821039716685433489,Manhattan,Upper East Side,40.77093505859375,-73.95758819580078,Entire home/apt,125.0
+821042511119924424,Manhattan,Upper East Side,40.77093505859375,-73.95758819580078,Entire home/apt,128.0
+821045754911305756,Manhattan,Upper East Side,40.77093505859375,-73.95758819580078,Entire home/apt,122.0
+821745411929728188,Brooklyn,Flatlands,40.62799,-73.93915,Entire home/apt,300.0
+822558617844543273,Manhattan,Upper East Side,40.76956935253091,-73.95633917592686,Entire home/apt,210.0
+824700906411010143,Manhattan,Upper East Side,40.76037966082729,-73.96260093809333,Entire home/apt,111.0
+817891489793125737,Manhattan,Upper East Side,40.7633888,-73.9596248,Entire home/apt,348.0
+818099336473939614,Manhattan,Upper East Side,40.76596,-73.95712,Entire home/apt,170.0
+818113264111815180,Manhattan,Upper East Side,40.77423858642578,-73.94867706298828,Entire home/apt,176.0
+818124366423505608,Manhattan,Upper East Side,40.76377,-73.96516,Entire home/apt,2750.0
+818367829841705210,Brooklyn,Bushwick,40.69357,-73.9213,Entire home/apt,399.0
+822728503736189326,Queens,Queens Village,40.70659814066676,-73.74810863762201,Entire home/apt,250.0
+823162870267898572,Bronx,Williamsbridge,40.8795069,-73.863075,Entire home/apt,190.0
+823268495658074188,Brooklyn,Williamsburg,40.71716404724446,-73.95237722675519,Entire home/apt,216.0
+823349333746787093,Manhattan,Upper East Side,40.7616588890844,-73.96323725255716,Entire home/apt,355.0
+823896985740045487,Brooklyn,Bushwick,40.70272135313608,-73.91472028335001,Entire home/apt,300.0
+824780355637263365,Manhattan,Upper East Side,40.78186,-73.95294,Entire home/apt,90.0
+824789430249331702,Manhattan,Upper East Side,40.772226449640925,-73.95446127645391,Entire home/apt,117.0
+824811980486472568,Manhattan,Upper East Side,40.76193804005102,-73.96101075976738,Entire home/apt,98.0
+824835446046541942,Manhattan,Upper East Side,40.7603687286707,-73.96060643740317,Entire home/apt,133.0
+825247324039186969,Manhattan,East Harlem,40.79849,-73.93917,Entire home/apt,120.0
+825404242518614691,Brooklyn,Bushwick,40.68533335661405,-73.90853425266182,Entire home/apt,195.0
+825460516091309188,Brooklyn,Williamsburg,40.71805990393864,-73.954669944942,Entire home/apt,800.0
+825961541772527159,Manhattan,Upper East Side,40.77324609872546,-73.94809946530776,Entire home/apt,170.0
+826294884471865993,Manhattan,East Harlem,40.80791,-73.93946,Entire home/apt,165.0
+827442154457479957,Manhattan,East Harlem,40.79451,-73.94362,Entire home/apt,99.0
+827550929803566942,Manhattan,East Harlem,40.79605924784382,-73.9452053015563,Entire home/apt,99.0
+832527577617424055,Manhattan,Upper East Side,40.772425,-73.9545481,Entire home/apt,122.0
+824002783527215478,Manhattan,Upper East Side,40.76148955040532,-73.96063228923973,Entire home/apt,147.0
+824158611517383045,Manhattan,Upper East Side,40.76174,-73.96086,Entire home/apt,110.0
+824218029309043587,Manhattan,Upper East Side,40.7719985390798,-73.95338829614924,Entire home/apt,114.0
+824322272943401454,Manhattan,Upper East Side,40.781409206697546,-73.94715522118392,Entire home/apt,129.0
+824642500642437382,Queens,Astoria,40.76345,-73.92733,Entire home/apt,160.0
+827670335196395931,Manhattan,Upper East Side,40.764405,-73.9669253,Entire home/apt,390.0
+828797602316326682,Brooklyn,Flatlands,40.62831,-73.93634,Entire home/apt,160.0
+829050984090492960,Brooklyn,Williamsburg,40.71462,-73.94876,Entire home/apt,112.0
+832731539351646902,Brooklyn,Bushwick,40.70583,-73.92171,Entire home/apt,86.0
+834211463376372321,Manhattan,Upper East Side,40.764405,-73.9669253,Entire home/apt,429.0
+838420711435488755,Manhattan,Upper East Side,40.77359362253778,-73.9556107583977,Entire home/apt,160.0
+838643680804220913,Manhattan,Upper East Side,40.76484371481836,-73.95595959328189,Entire home/apt,162.0
+839002442072975085,Manhattan,Upper East Side,40.76308887462451,-73.96559795001842,Entire home/apt,128.0
+839214509166617431,Brooklyn,Bushwick,40.69935,-73.91438,Entire home/apt,101.0
+831071199689672078,Manhattan,East Harlem,40.8074204,-73.9401951,Entire home/apt,150.0
+831527649339027569,Brooklyn,Williamsburg,40.7090643,-73.95364719999999,Entire home/apt,180.0
+831617257461187003,Manhattan,Upper East Side,40.76126,-73.96405,Entire home/apt,140.0
+831871731252762706,Manhattan,Upper East Side,40.7659072,-73.9569948,Entire home/apt,181.0
+831877664353048825,Brooklyn,Flatlands,40.627777473298174,-73.94662647560168,Entire home/apt,70.0
+836823818517192081,Manhattan,Upper East Side,40.7609241,-73.9616751,Entire home/apt,103.0
+842077360551879392,Queens,Queens Village,40.710192317060574,-73.73201121499315,Entire home/apt,255.0
+842303573357572989,Queens,Queens Village,40.70434,-73.73109,Entire home/apt,124.0
+846357775746150075,Manhattan,Upper East Side,40.773817914483466,-73.95351725765231,Entire home/apt,170.0
+837590494379094798,Manhattan,Upper East Side,40.78350470210151,-73.95070347294607,Entire home/apt,90.0
+837698762818158615,Brooklyn,Williamsburg,40.70501,-73.92871,Entire home/apt,135.0
+838140438684301140,Manhattan,East Harlem,40.80015360786754,-73.9397961863767,Entire home/apt,240.0
+838140921544263409,Manhattan,East Harlem,40.79809,-73.94131,Entire home/apt,180.0
+838141198693830649,Manhattan,East Harlem,40.79871758235641,-73.94009277361594,Entire home/apt,140.0
+842724427498164965,Brooklyn,Williamsburg,40.70872,-73.96718,Entire home/apt,265.0
+843026966136839934,Manhattan,Upper East Side,40.75983235355511,-73.96083705798239,Entire home/apt,183.0
+843468602620951565,Brooklyn,Williamsburg,40.71117322780045,-73.95660837635322,Entire home/apt,581.0
+847350869830035151,Manhattan,Upper East Side,40.77231395203396,-73.95013076572398,Entire home/apt,271.0
+852308974299854597,Manhattan,Upper East Side,40.77921566429216,-73.95318227174424,Entire home/apt,140.0
+852961057914386482,Brooklyn,Williamsburg,40.7188770587938,-73.95878254805093,Entire home/apt,354.0
+853028685326156511,Manhattan,Upper East Side,40.77462569327992,-73.95012687295173,Entire home/apt,161.0
+853129844194650967,Bronx,Williamsbridge,40.8728338,-73.8567906,Entire home/apt,150.0
+853395099537494702,Manhattan,Upper East Side,40.7742736,-73.9646597,Entire home/apt,485.0
+845041278365372205,Brooklyn,Bushwick,40.7005,-73.91429,Entire home/apt,126.0
+845739414386723045,Brooklyn,Bay Ridge,40.63524,-74.02857,Entire home/apt,150.0
+845816837859197651,Brooklyn,Flatlands,40.61826,-73.92112,Entire home/apt,121.0
+848627681349272330,Manhattan,Upper East Side,40.7727587,-73.95097969999999,Entire home/apt,134.0
+848700499893494953,Brooklyn,Bushwick,40.6829989679645,-73.90499674405658,Entire home/apt,115.0
+849141207957610737,Brooklyn,Bushwick,40.69829,-73.92939,Entire home/apt,201.0
+855705447881368204,Manhattan,East Harlem,40.79784888278592,-73.94756557533458,Entire home/apt,1607.0
+860735021598007671,Manhattan,Upper East Side,40.78130270655369,-73.95421058286023,Entire home/apt,110.0
+861322572787764783,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,302.0
+861536458476957519,Manhattan,Upper East Side,40.779578355117074,-73.95300030115705,Entire home/apt,110.0
+861588807272031658,Brooklyn,Bushwick,40.69893,-73.91287,Entire home/apt,91.0
+850801323030337139,Queens,Astoria,40.77424,-73.92912,Entire home/apt,158.0
+850956416012110188,Brooklyn,Williamsburg,40.71226051838039,-73.9611518623279,Entire home/apt,98.0
+850994914110684147,Brooklyn,Williamsburg,40.7205165,-73.9595422,Entire home/apt,157.0
+851299489251343109,Brooklyn,Bay Ridge,40.62965109553536,-74.0180432217359,Entire home/apt,253.0
+851448591738600547,Manhattan,Upper East Side,40.7724,-73.95447,Entire home/apt,149.0
+851572720637053291,Brooklyn,Williamsburg,40.7127514806234,-73.96178873474265,Entire home/apt,149.0
+856469032632992649,Manhattan,Upper East Side,40.77045,-73.95589,Entire home/apt,122.0
+856524140333584118,Brooklyn,Williamsburg,40.71699,-73.94722,Entire home/apt,150.0
+856629934313611866,Manhattan,East Harlem,40.79622830437263,-73.93891837948186,Entire home/apt,215.0
+856885310810415292,Brooklyn,Bushwick,40.700965,-73.9239266,Entire home/apt,150.0
+857079026453430439,Queens,Astoria,40.76745786450836,-73.93086165189743,Entire home/apt,299.0
+857168594847563363,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,145.0
+862664998185425084,Queens,Astoria,40.77179,-73.93405,Entire home/apt,165.0
+863079371414230030,Queens,Astoria,40.7696,-73.92356,Entire home/apt,160.0
+866980963931403533,Manhattan,Upper East Side,40.78114982632827,-73.95305285208312,Entire home/apt,84.0
+867518432203979847,Brooklyn,Bushwick,40.70103,-73.91518,Entire home/apt,300.0
+868371733941482281,Manhattan,East Harlem,40.7844647,-73.9433694,Entire home/apt,110.0
+859156243688052974,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,221.0
+859283264753786335,Manhattan,Upper East Side,40.78155,-73.9564,Entire home/apt,250.0
+863988534530381806,Bronx,Williamsbridge,40.883511805912846,-73.86200079574942,Entire home/apt,220.0
+865171499991948256,Manhattan,East Harlem,40.7989627,-73.9411959,Entire home/apt,208.0
+865791593782195807,Brooklyn,Bushwick,40.68884,-73.92043,Entire home/apt,212.0
+865795436428289529,Brooklyn,Bushwick,40.68883880396209,-73.91942149170053,Entire home/apt,199.0
+866518628279065718,Manhattan,Upper East Side,40.78330118433245,-73.94552778023387,Entire home/apt,94.0
+866698991976612799,Manhattan,Upper East Side,40.76152406916405,-73.96474914443037,Entire home/apt,450.0
+872955687554776108,Brooklyn,Williamsburg,40.7190991,-73.9572522,Entire home/apt,201.0
+873086414676039507,Brooklyn,Bushwick,40.69804120927054,-73.92842992920049,Entire home/apt,200.0
+873180723841124206,Queens,Queens Village,40.71048109634436,-73.74571143590816,Entire home/apt,356.0
+873267481107160615,Manhattan,Upper East Side,40.7713773610764,-73.96759758761249,Entire home/apt,300.0
+873430115241136891,Manhattan,Upper East Side,40.7793112113192,-73.95464678510236,Entire home/apt,135.0
+869545990885002095,Brooklyn,Williamsburg,40.70652739350415,-73.93091542698365,Entire home/apt,180.0
+870029861826839677,Manhattan,Upper East Side,40.77509,-73.95127,Entire home/apt,110.0
+870114342679438920,Brooklyn,Bay Ridge,40.62174391952977,-74.02403376110539,Entire home/apt,165.0
+870420092221946863,Manhattan,Upper East Side,40.78185,-73.94543,Entire home/apt,89.0
+871075934437189983,Brooklyn,Bushwick,40.6918803858158,-73.9026305971144,Entire home/apt,194.0
+871580459593329391,Manhattan,Upper East Side,40.7747686,-73.9499656,Entire home/apt,130.0
+871658809501519241,Brooklyn,Williamsburg,40.71398330687013,-73.93834683491819,Entire home/apt,248.0
+871803798146386577,Manhattan,Upper East Side,40.77026587404186,-73.96683045659337,Entire home/apt,143.0
+872433134615415805,Manhattan,Upper East Side,40.75939944361556,-73.96112495648526,Entire home/apt,124.0
+880434490437032841,Brooklyn,Williamsburg,40.7116597,-73.958323,Entire home/apt,151.0
+881292682362497953,Brooklyn,Williamsburg,40.71410056524745,-73.9483687229426,Entire home/apt,510.0
+881322086488888673,Brooklyn,Williamsburg,40.714608623638064,-73.95439962986784,Entire home/apt,360.0
+881951052718448493,Manhattan,Upper East Side,40.77972672843458,-73.95513776130034,Entire home/apt,144.0
+882802659322534873,Brooklyn,Williamsburg,40.71595097443146,-73.94142178526309,Entire home/apt,79.0
+872437778753078941,Manhattan,Upper East Side,40.7594350549978,-73.9615506832424,Entire home/apt,192.0
+876799791104516669,Manhattan,Upper East Side,40.77070858832612,-73.96795468328354,Entire home/apt,432.0
+877638836723394886,Manhattan,Upper East Side,40.78398343377659,-73.95174605473156,Entire home/apt,110.0
+878336991435374403,Brooklyn,Bushwick,40.69494,-73.9072,Entire home/apt,250.0
+878982336794289506,Manhattan,Upper East Side,40.77563,-73.94693,Entire home/apt,248.0
+879086597641967400,Brooklyn,Williamsburg,40.71318,-73.96515,Entire home/apt,145.0
+879190235208239772,Brooklyn,Bushwick,40.6923266,-73.9166355,Entire home/apt,135.0
+883164965771621514,Manhattan,Upper East Side,40.77732,-73.94494,Entire home/apt,385.0
+887698137449826556,Manhattan,East Harlem,40.7894,-73.94402,Entire home/apt,99.0
+888340361696224224,Manhattan,Upper East Side,40.7827919,-73.9540178,Entire home/apt,361.0
+890024618549880298,Brooklyn,Bushwick,40.68742415308935,-73.91351802359968,Entire home/apt,261.0
+890443345054045797,Brooklyn,Williamsburg,40.70982,-73.95876,Entire home/apt,198.0
+883285676623233005,Brooklyn,Bushwick,40.69558,-73.92224,Entire home/apt,98.0
+884851071791030135,Queens,Astoria,40.7610917793651,-73.91223542577411,Entire home/apt,130.0
+885730568928410536,Manhattan,East Harlem,40.78733669873317,-73.9418755585868,Entire home/apt,160.0
+886265109629501124,Brooklyn,Bushwick,40.69807044881599,-73.92941819624716,Entire home/apt,131.0
+886492710478314470,Queens,Astoria,40.7586029,-73.9177263,Entire home/apt,135.0
+886960046624888196,Brooklyn,Williamsburg,40.7104,-73.95996,Entire home/apt,500.0
+895166281363796536,Brooklyn,Flatlands,40.63306,-73.92419,Entire home/apt,175.0
+897671789573838437,Brooklyn,Williamsburg,40.7096025957926,-73.9665328585322,Entire home/apt,400.0
+893384294866390910,Brooklyn,Williamsburg,40.70726868339301,-73.94671484827995,Entire home/apt,200.0
+893599521724577751,Brooklyn,Williamsburg,40.722094475800645,-73.95829092095708,Entire home/apt,112.0
+893630966117525428,Manhattan,Upper East Side,40.76317395359346,-73.95672729626466,Entire home/apt,280.0
+894434095790244315,Brooklyn,Williamsburg,40.7120213858879,-73.95721753006971,Entire home/apt,175.0
+894500003651727444,Manhattan,Upper East Side,40.76698,-73.96099,Entire home/apt,1500.0
+902949768567349631,Manhattan,Upper East Side,40.7672288,-73.9574152,Entire home/apt,91.0
+903025741591233106,Manhattan,East Harlem,40.78766,-73.94761,Entire home/apt,110.0
+903068061959225269,Manhattan,East Harlem,40.8056,-73.93753,Entire home/apt,400.0
+904414164220627959,Manhattan,Upper East Side,40.77707,-73.95401,Entire home/apt,3643.0
+898904640609152150,Brooklyn,Bushwick,40.6882214,-73.9141898,Entire home/apt,142.0
+899872901354773320,Brooklyn,Bushwick,40.7013468,-73.9230333,Entire home/apt,180.0
+900036861618829572,Brooklyn,Bushwick,40.70169,-73.91808,Entire home/apt,299.0
+900523198699096632,Manhattan,Upper East Side,40.780731498344025,-73.94789010496959,Entire home/apt,91.0
+900895229439907113,Brooklyn,Bushwick,40.7044383,-73.9228243,Entire home/apt,140.0
+908168226182126434,Queens,Queens Village,40.71084,-73.73205,Entire home/apt,99.0
+909946357885285259,Manhattan,Upper East Side,40.77967,-73.94595,Entire home/apt,166.0
+910786394092056437,Brooklyn,Bushwick,40.69015,-73.90891,Entire home/apt,195.0
+912119017271777009,Manhattan,Upper East Side,40.77718,-73.95202,Entire home/apt,375.0
+905821067093280628,Manhattan,East Harlem,40.78704257712355,-73.94970850293906,Entire home/apt,129.0
+906431737761773574,Brooklyn,Williamsburg,40.71,-73.96737,Entire home/apt,500.0
+907356347496873739,Brooklyn,Williamsburg,40.71561982184664,-73.96636679033364,Entire home/apt,440.0
+912333987362017752,Manhattan,Upper East Side,40.76287758319091,-73.96465102780299,Entire home/apt,195.0
+912355868324493373,Manhattan,Upper East Side,40.76282,-73.96259,Entire home/apt,175.0
+912396732617862267,Manhattan,Upper East Side,40.76449,-73.9607,Entire home/apt,9999.0
+912401924564160654,Manhattan,Upper East Side,40.767340258049046,-73.9696483154164,Entire home/apt,8000.0
+912119694048610928,Manhattan,Upper East Side,40.77968896152865,-73.95500008072835,Entire home/apt,350.0
+918158720284859176,Brooklyn,Bushwick,40.70333966906888,-73.92678872875516,Entire home/apt,160.0
+919391026829825331,Brooklyn,Bushwick,40.70639592773135,-73.91922727900233,Entire home/apt,204.0
+920866966628505447,Brooklyn,Bushwick,40.69152709999999,-73.91272,Entire home/apt,265.0
+920887010051111392,Brooklyn,Bushwick,40.69152709999999,-73.91272,Entire home/apt,249.0
+913910420656026881,Brooklyn,Bushwick,40.6842172,-73.9099809,Entire home/apt,160.0
+915485774792788806,Brooklyn,Bushwick,40.698563082201005,-73.93323906826858,Entire home/apt,229.0
+915780736371404768,Brooklyn,Bushwick,40.69176,-73.907,Entire home/apt,180.0
+917280232416284960,Manhattan,East Harlem,40.79397402046663,-73.94370885397062,Entire home/apt,110.0
+926036116549614478,Brooklyn,Williamsburg,40.709192520218096,-73.96475112352049,Entire home/apt,175.0
+927348564034443687,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,221.0
+927348854814354483,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,232.0
+928135852681483836,Queens,Queens Village,40.7209844079339,-73.73744682468758,Entire home/apt,65.0
+928632961796271539,Manhattan,East Harlem,40.78658,-73.94741,Entire home/apt,163.0
+929747780149785100,Manhattan,Upper East Side,40.7660428,-73.95707809999999,Entire home/apt,181.0
+923207690874951698,Manhattan,Upper East Side,40.7708224,-73.9575626,Entire home/apt,97.0
+923241683452324279,Manhattan,Upper East Side,40.7658315,-73.9568257,Entire home/apt,208.0
+923284967585951633,Brooklyn,Williamsburg,40.71606,-73.95668,Entire home/apt,235.0
+923815513633030246,Manhattan,East Harlem,40.80547,-73.94163,Entire home/apt,517.0
+923822272026545791,Brooklyn,Williamsburg,40.71438,-73.944,Entire home/apt,350.0
+923900704452428974,Brooklyn,Bushwick,40.68278570973208,-73.9069326594472,Entire home/apt,110.0
+923974573909245693,Brooklyn,Williamsburg,40.71779086502849,-73.95737442689571,Entire home/apt,157.0
+924510090567827314,Manhattan,Upper East Side,40.772425,-73.9545481,Entire home/apt,184.0
+925243479022156915,Brooklyn,Williamsburg,40.71976441450349,-73.96058617056657,Entire home/apt,430.0
+930648551063213028,Brooklyn,Williamsburg,40.71434372091685,-73.96326390442127,Entire home/apt,244.0
+931952361611331402,Brooklyn,Bushwick,40.70081,-73.93471,Entire home/apt,150.0
+935537402485139223,Brooklyn,Williamsburg,40.7129157,-73.9620424,Entire home/apt,210.0
+936314153892811228,Brooklyn,Bushwick,40.69486632141934,-73.92593778669834,Entire home/apt,122.0
+936752064031781776,Manhattan,Upper East Side,40.7775178781416,-73.94561960700071,Entire home/apt,112.0
+937574445578039112,Manhattan,Upper East Side,40.7723353,-73.950981,Entire home/apt,229.0
+939387800231178042,Brooklyn,Williamsburg,40.711595,-73.9579909,Entire home/apt,400.0
+939756457237944916,Brooklyn,Bushwick,40.694360483517485,-73.91082763749422,Entire home/apt,200.0
+940458538795223834,Brooklyn,Williamsburg,40.70875,-73.94474,Entire home/apt,250.0
+940626615274426464,Manhattan,Upper East Side,40.773029218955344,-73.95561715897597,Entire home/apt,149.0
+940643437829841859,Brooklyn,Bushwick,40.68773997723639,-73.91364804498036,Entire home/apt,108.0
+940702861177012798,Brooklyn,Bushwick,40.68946,-73.90959,Entire home/apt,262.0
+941250501472266329,Brooklyn,Bushwick,40.69534108555263,-73.90681287357651,Entire home/apt,84.0
+932865847860645621,Brooklyn,Flatlands,40.627996424054416,-73.92604185726212,Entire home/apt,90.0
+933229024126753803,Brooklyn,Williamsburg,40.71525767177887,-73.94526271065084,Entire home/apt,210.0
+934100065088277596,Brooklyn,Bushwick,40.68725854751372,-73.91322826493997,Entire home/apt,206.0
+934319323648560151,Brooklyn,Bushwick,40.690214377604434,-73.91710562943831,Entire home/apt,157.0
+942015991579055232,Manhattan,Upper East Side,40.77512,-73.94911,Entire home/apt,107.0
+942039635983891486,Brooklyn,Williamsburg,40.71245,-73.95752,Entire home/apt,230.0
+942577089963887749,Brooklyn,Williamsburg,40.70633947156612,-73.9507157916148,Entire home/apt,189.0
+942733581675934093,Manhattan,East Harlem,40.79688163376393,-73.9365757552842,Entire home/apt,130.0
+947227242982589922,Brooklyn,Flatlands,40.63036944727202,-73.93470972359569,Entire home/apt,125.0
+948641738106703685,Manhattan,Upper East Side,40.77717105077851,-73.94503776813694,Entire home/apt,135.0
+948686702143302519,Manhattan,East Harlem,40.79869418531823,-73.93581669777632,Entire home/apt,200.0
+949400303873290231,Manhattan,Upper East Side,40.77010782127825,-73.96842695203372,Entire home/apt,600.0
+943562811506042858,Brooklyn,Williamsburg,40.70996,-73.9636,Entire home/apt,298.0
+944898365098168917,Manhattan,Upper East Side,40.76959970855357,-73.96728381421396,Entire home/apt,225.0
+945036621241359838,Manhattan,Upper East Side,40.76838955374768,-73.96823963075978,Entire home/apt,162.0
+945147469725658206,Brooklyn,Williamsburg,40.71410162048388,-73.95709982501147,Entire home/apt,265.0
+951553196276318579,Queens,Queens Village,40.71209,-73.7319,Entire home/apt,132.0
+955102598808666581,Manhattan,Upper East Side,40.7834066,-73.9469506,Entire home/apt,107.0
+955168568146763274,Manhattan,Upper East Side,40.7834066,-73.9469506,Entire home/apt,126.0
+955641002931211440,Manhattan,Upper East Side,40.77731470000001,-73.96312150000001,Entire home/apt,1294.0
+956116282739680488,Brooklyn,Bay Ridge,40.62478,-74.02908,Entire home/apt,158.0
+957256229805799881,Brooklyn,Bushwick,40.6978,-73.92092,Entire home/apt,239.0
+957768545886397531,Brooklyn,Williamsburg,40.704748808615975,-73.94469901421044,Entire home/apt,104.0
+957968867778010709,Manhattan,Upper East Side,40.77967792658176,-73.95352335359412,Entire home/apt,215.0
+957997561762518256,Queens,Astoria,40.76073072741352,-73.92618970136077,Entire home/apt,243.0
+958171077713814822,Manhattan,Upper East Side,40.7770888,-73.9442801,Entire home/apt,199.0
+958174385917394679,Brooklyn,Bushwick,40.698278208581215,-73.92304827673543,Entire home/apt,150.0
+958835117292862482,Manhattan,Upper East Side,40.77513230618488,-73.95004630131974,Entire home/apt,110.0
+954239000010599102,Brooklyn,Flatlands,40.6324263,-73.9228251,Entire home/apt,951.0
+959344147221723685,Manhattan,East Harlem,40.8081158,-73.93986269999999,Entire home/apt,189.0
+959487299573430055,Manhattan,East Harlem,40.79567,-73.94146,Entire home/apt,240.0
+959700743851454721,Manhattan,Upper East Side,40.77182724546473,-73.95500444526095,Entire home/apt,139.0
+960123989588215141,Manhattan,Upper East Side,40.7659072,-73.9569948,Entire home/apt,136.0
+960863548264366915,Manhattan,Upper East Side,40.77289330000001,-73.9565788,Entire home/apt,422.0
+963568680727420431,Manhattan,Upper East Side,40.7662695,-73.96857059999999,Entire home/apt,289.0
+963775739081591184,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,114.0
+963782690020202626,Manhattan,Upper East Side,40.7723262035532,-73.95491330824157,Entire home/apt,250.0
+963789422666124992,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,118.0
+965072157099213665,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,230.0
+965370066480069051,Brooklyn,Williamsburg,40.71547853353542,-73.96304577449159,Entire home/apt,100.0
+961040467494189722,Brooklyn,Williamsburg,40.71824,-73.94215,Entire home/apt,146.0
+961527622157301522,Brooklyn,Bushwick,40.7007733310312,-73.93769782843836,Entire home/apt,170.0
+968165379716775028,Manhattan,Upper East Side,40.77152299999999,-73.95262199999999,Entire home/apt,148.0
+970513355093049469,Brooklyn,Williamsburg,40.72076425644508,-73.96217335559727,Entire home/apt,449.0
+970818556729760468,Manhattan,Upper East Side,40.77759,-73.95354,Entire home/apt,139.0
+971017228077053672,Queens,Astoria,40.767987490771525,-73.92735258003819,Entire home/apt,113.0
+971985344645165863,Manhattan,East Harlem,40.7929341708195,-73.94211951081898,Entire home/apt,277.0
+973186910160545391,Queens,Astoria,40.76997808984572,-73.92758504351015,Entire home/apt,122.0
+973926823669823710,Queens,Astoria,40.7592516630185,-73.9091722817044,Entire home/apt,185.0
+974036792425507586,Queens,Astoria,40.77130312298223,-73.92501557441861,Entire home/apt,107.0
+968961111636531690,Manhattan,Upper East Side,40.77232619999999,-73.95419230000002,Entire home/apt,396.0
+969477419980535733,Manhattan,Upper East Side,40.7719,-73.95705,Entire home/apt,479.0
+976066638153850356,Manhattan,Upper East Side,40.771436877759534,-73.95566084520752,Entire home/apt,339.0
+978996864491722615,Brooklyn,Bushwick,40.70108,-73.9394,Entire home/apt,171.0
+980597457970566165,Manhattan,Upper East Side,40.76310199383752,-73.9617205969889,Entire home/apt,391.0
+980616260826796990,Manhattan,Upper East Side,40.76287169826732,-73.96247471375261,Entire home/apt,500.0
+980617449810787175,Manhattan,Upper East Side,40.76306921792833,-73.9611667132229,Entire home/apt,456.0
+980619476220059126,Manhattan,Upper East Side,40.76110822707903,-73.96087664554491,Entire home/apt,321.0
+980619551933164508,Manhattan,Upper East Side,40.76324361790317,-73.96252529115522,Entire home/apt,395.0
+980619691545526997,Manhattan,Upper East Side,40.76092607074757,-73.96177399580483,Entire home/apt,344.0
+977629654218303000,Bronx,Mott Haven,40.81653906604311,-73.92762063641452,Entire home/apt,76.0
+978191817244397875,Brooklyn,Williamsburg,40.71296,-73.94806,Entire home/apt,220.0
+978443139173660339,Manhattan,East Harlem,40.793981762452006,-73.94575416040635,Entire home/apt,99.0
+983263064441073410,Manhattan,Upper East Side,40.7659072,-73.9569948,Entire home/apt,172.0
+983263497821159174,Manhattan,Upper East Side,40.7659072,-73.9569948,Entire home/apt,176.0
+983922315853342765,Manhattan,Upper East Side,40.7738776,-73.948055,Entire home/apt,127.0
+983946677656066462,Manhattan,Upper East Side,40.7658315,-73.9568257,Entire home/apt,140.0
+985419547082037217,Manhattan,Upper East Side,40.7660428,-73.95707809999999,Entire home/apt,176.0
+992585887716684545,Brooklyn,Williamsburg,40.7149,-73.94568,Entire home/apt,300.0
+989334284225183279,Brooklyn,Williamsburg,40.71532,-73.94194,Entire home/apt,111.0
+990528204399198792,Bronx,Mott Haven,40.807447,-73.914408,Entire home/apt,159.0
+992974980287590415,Manhattan,Upper East Side,40.76732,-73.96482,Entire home/apt,642.0
+993444139358865561,Manhattan,Upper East Side,40.77600836595364,-73.95208486906421,Entire home/apt,230.0
+993794008162433901,Brooklyn,Williamsburg,40.71666422956643,-73.95042094544434,Entire home/apt,300.0
+994178688039529274,Brooklyn,Williamsburg,40.72380153163066,-73.95659685786318,Entire home/apt,170.0
+994345635201993836,Brooklyn,Williamsburg,40.709,-73.96798,Entire home/apt,350.0
+1000041661179181846,Manhattan,Upper East Side,40.7718464804292,-73.95974140912894,Entire home/apt,168.0
+995132747994090209,Brooklyn,Flatlands,40.61987429989976,-73.93944685195812,Entire home/apt,124.0
+996659251355170013,Brooklyn,Bay Ridge,40.62905,-74.02727,Entire home/apt,163.0
+997293739861552181,Brooklyn,Bushwick,40.685533964507634,-73.90714962563071,Entire home/apt,157.0
+997912097450161394,Brooklyn,Bay Ridge,40.6307136,-74.0269764,Entire home/apt,151.0
+999668586599938835,Brooklyn,Bushwick,40.70052090349335,-73.92261013059733,Entire home/apt,150.0
+1007195302734513815,Manhattan,Upper East Side,40.7660428,-73.95707809999999,Entire home/apt,181.0
+1007225310288466255,Manhattan,Upper East Side,40.7660428,-73.95707809999999,Entire home/apt,176.0
+1007225552327203248,Manhattan,Upper East Side,40.7660428,-73.95707809999999,Entire home/apt,185.0
+1007225844823503320,Manhattan,Upper East Side,40.7660428,-73.95707809999999,Entire home/apt,187.0
+1007300419126472895,Brooklyn,Bushwick,40.693033716432,-73.92490969006012,Entire home/apt,250.0
+1003605108747472715,Brooklyn,Bushwick,40.7058221,-73.9227784,Entire home/apt,156.0
+1003605509170725526,Brooklyn,Bushwick,40.7058221,-73.9227784,Entire home/apt,129.0
+1003665546182490793,Manhattan,Upper East Side,40.7708224,-73.9575626,Entire home/apt,104.0
+1004275203463075946,Brooklyn,Flatlands,40.617976494373856,-73.9291590613022,Entire home/apt,189.0
+1004328796940846724,Manhattan,Upper East Side,40.77101407826769,-73.95658057036496,Entire home/apt,110.0
+1004416200240866150,Manhattan,Upper East Side,40.76461,-73.96459,Entire home/apt,12738.0
+1005699715476632962,Manhattan,Upper East Side,40.7658315,-73.9568257,Entire home/apt,226.0
+1005760022125022077,Brooklyn,Williamsburg,40.71687043991017,-73.95877725785859,Entire home/apt,150.0
+1008287143958164384,Brooklyn,Williamsburg,40.7208165,-73.9631383,Entire home/apt,250.0
+1008987937555990345,Manhattan,Upper East Side,40.77070612788718,-73.96006784231876,Entire home/apt,186.0
+1010083125968738233,Manhattan,Upper East Side,40.7649664886065,-73.96242273946612,Entire home/apt,1964.0
+1010230391687402450,Manhattan,Upper East Side,40.77579902644895,-73.95195650245597,Entire home/apt,1886.0
+1013138671419296074,Brooklyn,Williamsburg,40.71524251724579,-73.9442431922608,Entire home/apt,325.0
+1013319174207599722,Brooklyn,Williamsburg,40.7128,-73.96636,Entire home/apt,340.0
+1013577737689075054,Manhattan,Upper East Side,40.77731470000001,-73.96312150000001,Entire home/apt,1243.0
+1010697569745388391,Manhattan,Upper East Side,40.77089,-73.95468,Entire home/apt,174.0
+1010697696354497127,Manhattan,Upper East Side,40.7725,-73.95317,Entire home/apt,178.0
+1010701184173961463,Manhattan,Upper East Side,40.77874,-73.94734,Entire home/apt,149.0
+1010701324261461472,Manhattan,Upper East Side,40.77742,-73.95143,Entire home/apt,149.0
+1010701819520561456,Manhattan,Upper East Side,40.77886,-73.94747,Entire home/apt,142.0
+1012463065092346250,Manhattan,Upper East Side,40.76613247855008,-73.95568129157908,Entire home/apt,200.0
+1013756338093524354,Manhattan,Upper East Side,40.7734986,-73.95090929999999,Entire home/apt,103.0
+1015178551586504919,Manhattan,Upper East Side,40.77928536883925,-73.95318374448048,Entire home/apt,144.0
+1015203525260165853,Manhattan,Upper East Side,40.76529454888486,-73.96424988662989,Entire home/apt,704.0
+1015297538502606345,Brooklyn,Bushwick,40.68497,-73.91313,Entire home/apt,160.0
+1015390252345027742,Queens,Astoria,40.7645,-73.91758,Entire home/apt,161.0
+1020460695563997694,Brooklyn,Bay Ridge,40.63887,-74.02792,Entire home/apt,235.0
+1021072915892293490,Manhattan,Upper East Side,40.77362,-73.95433,Entire home/apt,140.0
+1021164225327910374,Brooklyn,Williamsburg,40.7193534,-73.96038829999999,Entire home/apt,574.0
+1021301450026541227,Manhattan,East Harlem,40.80225002495588,-73.94453200719943,Entire home/apt,150.0
+1018267402066684725,Brooklyn,Williamsburg,40.71148,-73.96519,Entire home/apt,250.0
+1018280359573876973,Manhattan,Upper East Side,40.7749976,-73.9524568,Entire home/apt,280.0
+1018960735667540431,Manhattan,Upper East Side,40.76124922399578,-73.96079645567747,Entire home/apt,164.0
+1018960737976076961,Manhattan,Upper East Side,40.76325148428671,-73.96205322516327,Entire home/apt,189.0
+1018961240481265861,Manhattan,Upper East Side,40.76324,-73.96106,Entire home/apt,180.0
+1021522461924875539,Manhattan,East Harlem,40.7855906,-73.9495843,Entire home/apt,301.0
+1021701505946762690,Brooklyn,Williamsburg,40.7201403,-73.95600329999999,Entire home/apt,250.0
+1021746513536126960,Brooklyn,Williamsburg,40.7147712,-73.95080949999999,Entire home/apt,140.0
+1022466230508584338,Manhattan,Upper East Side,40.77101350592705,-73.95883428334007,Entire home/apt,320.0
+1023191737507626213,Queens,Astoria,40.76601,-73.92813,Entire home/apt,121.0
+1024046024450319524,Manhattan,Upper East Side,40.7740101,-73.95005739999999,Entire home/apt,97.0
+1028809650440492488,Manhattan,Upper East Side,40.7633888,-73.9596248,Entire home/apt,344.0
+1028813169737432170,Manhattan,Upper East Side,40.7633888,-73.9596248,Entire home/apt,344.0
+1028834725459414626,Manhattan,Upper East Side,40.7815,-73.9466,Entire home/apt,241.0
+1024672422554632351,Brooklyn,Flatlands,40.6246772,-73.9386802,Entire home/apt,136.0
+1024702216606434206,Manhattan,East Harlem,40.79219055175781,-73.940185546875,Entire home/apt,159.0
+1025276529065060825,Brooklyn,Bushwick,40.68752,-73.90749,Entire home/apt,120.0
+1026009299854219304,Manhattan,Upper East Side,40.78179,-73.94656,Entire home/apt,102.0
+1026501723048148668,Manhattan,Upper East Side,40.77704791601641,-73.9469709045525,Entire home/apt,500.0
+1031243845273593604,Manhattan,Upper East Side,40.77403770879364,-73.949114713946,Entire home/apt,86.0
+1029145949717644011,Brooklyn,Williamsburg,40.71227082525488,-73.96720870634853,Entire home/apt,262.0
+1029718396636573541,Manhattan,East Harlem,40.794598713679086,-73.94452203533925,Entire home/apt,95.0
+1029806211924798500,Brooklyn,Williamsburg,40.707452869581246,-73.9435877779757,Entire home/apt,174.0
+1029872184146517556,Manhattan,East Harlem,40.79044719503277,-73.94767082871606,Entire home/apt,150.0
+1030672400790104576,Manhattan,Upper East Side,40.76128,-73.96041,Entire home/apt,162.0
+1030672401840244130,Manhattan,Upper East Side,40.759088545590046,-73.9593422277555,Entire home/apt,167.0
+1030672403793966731,Manhattan,Upper East Side,40.761256218527045,-73.96212077704529,Entire home/apt,180.0
+1030672898968436435,Manhattan,Upper East Side,40.76151,-73.96238,Entire home/apt,182.0
+1035678410792274896,Manhattan,Upper East Side,40.77095,-73.95713,Entire home/apt,289.0
+1032595939060462118,Manhattan,Upper East Side,40.7718532,-73.9570418,Entire home/apt,689.0
+1032596032924282144,Manhattan,Upper East Side,40.7827919,-73.9540178,Entire home/apt,199.0
+1033389540368464794,Queens,Queens Village,40.7074994,-73.7469812,Entire home/apt,270.0
+1033928058346993729,Brooklyn,Williamsburg,40.71709841751627,-73.94081687817179,Entire home/apt,100.0
+1039053305366925702,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,163.0
+1039057147878209266,Manhattan,Upper East Side,40.78117,-73.9461,Entire home/apt,96.0
+1036494663880720197,Brooklyn,Williamsburg,40.716,-73.94212,Entire home/apt,50.0
+1037088700497416622,Manhattan,Upper East Side,40.7658315,-73.9568257,Entire home/apt,235.0
+1043041856219811403,Brooklyn,Williamsburg,40.711686643946926,-73.96895069439945,Entire home/apt,280.0
+1043603895706682262,Brooklyn,Flatlands,40.62399,-73.9353,Entire home/apt,174.0
+1044226337540626550,Manhattan,East Harlem,40.78905095022932,-73.94676166211185,Entire home/apt,112.0
+1044995463995747787,Manhattan,Upper East Side,40.78219881464008,-73.94624000461576,Entire home/apt,95.0
+1041248971426615395,Manhattan,Upper East Side,40.78201,-73.94746,Entire home/apt,97.0
+1042136838759782915,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,149.0
+1042137021674701046,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,143.0
+1047059235285665375,Brooklyn,Williamsburg,40.71762,-73.95708,Entire home/apt,275.0
+1047222024885820367,Brooklyn,Williamsburg,40.72191,-73.96059,Entire home/apt,175.0
+1047245552706540706,Brooklyn,Williamsburg,40.72089,-73.96099,Entire home/apt,149.0
+1054766423954233739,Brooklyn,Flatlands,40.6292014,-73.92475329999999,Entire home/apt,60.0
+1055804351964620545,Manhattan,East Harlem,40.79797,-73.93614,Entire home/apt,147.0
+1055855035131489398,Brooklyn,Bushwick,40.69664,-73.93085,Entire home/apt,139.0
+1056564961383687067,Brooklyn,Bushwick,40.69526834658169,-73.93056922666374,Entire home/apt,171.0
+1050067537509382432,Manhattan,Upper East Side,40.7708224,-73.9575626,Entire home/apt,95.0
+1050470245746400509,Manhattan,Upper East Side,40.7633888,-73.9596248,Entire home/apt,341.0
+1050770980329376346,Manhattan,Upper East Side,40.7708602,-73.9576469,Entire home/apt,121.0
+1050807955203588919,Manhattan,Upper East Side,40.76940415817712,-73.96889019986114,Entire home/apt,290.0
+1050859703674581568,Manhattan,Upper East Side,40.7708224,-73.9575626,Entire home/apt,92.0
+1051266669019573479,Manhattan,Upper East Side,40.77461248789536,-73.95352857548545,Entire home/apt,116.0
+1051693960593774847,Manhattan,East Harlem,40.78719997372681,-73.95155187427265,Entire home/apt,229.0
+1051729639412992248,Manhattan,Upper East Side,40.76886904862568,-73.9694448695053,Entire home/apt,125.0
+1058338485248789800,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,241.0
+1059609886889535146,Manhattan,Upper East Side,40.76954566340135,-73.9520679165751,Entire home/apt,150.0
+1064778522188783515,Brooklyn,Bay Ridge,40.63756,-74.02768,Entire home/apt,95.0
+1065123350709282894,Brooklyn,Bushwick,40.702212759885626,-73.92628514049039,Entire home/apt,164.0
+1065240416426347624,Brooklyn,Bushwick,40.69107,-73.90479,Entire home/apt,227.0
+1065372627170730644,Queens,Astoria,40.7747308,-73.9255226,Entire home/apt,204.0
+1061995840557392701,Brooklyn,Williamsburg,40.70817899741911,-73.94462493862305,Entire home/apt,139.0
+1063875033923981857,Brooklyn,Williamsburg,40.71389,-73.95569,Entire home/apt,200.0
+1067200330555496177,Brooklyn,Williamsburg,40.71668260000001,-73.9653829,Entire home/apt,305.0
+1066661715722364503,Manhattan,Upper East Side,40.76497,-73.95624,Entire home/apt,170.0
+1066837013767774923,Manhattan,Upper East Side,40.76898801068249,-73.96780544837229,Entire home/apt,155.0
+1067188859061887812,Manhattan,Upper East Side,40.7635148,-73.96392519999999,Entire home/apt,263.0
+1067189169950924679,Manhattan,Upper East Side,40.7635148,-73.96392519999999,Entire home/apt,264.0
+1067189478788560150,Manhattan,Upper East Side,40.7635148,-73.96392519999999,Entire home/apt,280.0
+1069508594681767937,Manhattan,Upper East Side,40.76556084432931,-73.95602051906447,Entire home/apt,170.0
+1069526703582727134,Manhattan,Upper East Side,40.76681113091194,-73.95607575103254,Entire home/apt,166.0
+1069618889356272594,Manhattan,Upper East Side,40.77182,-73.95848,Entire home/apt,350.0
+1069660706506079136,Manhattan,Upper East Side,40.77001264998584,-73.95819259164902,Entire home/apt,240.0
+1070268279697476132,Manhattan,Upper East Side,40.77016865675613,-73.95833443851257,Entire home/apt,130.0
+1070376523863400975,Manhattan,Upper East Side,40.7734378485718,-73.95488013905117,Entire home/apt,145.0
+1067282381280768555,Brooklyn,Williamsburg,40.7179304,-73.9641264,Entire home/apt,328.0
+1067282933172289340,Brooklyn,Williamsburg,40.7179304,-73.9641264,Entire home/apt,319.0
+1067326881507697240,Brooklyn,Williamsburg,40.7179304,-73.9641264,Entire home/apt,403.0
+1068219915878365503,Brooklyn,Bushwick,40.70008684837952,-73.91258297369244,Entire home/apt,93.0
+1072469407115663434,Brooklyn,Bushwick,40.68963215610562,-73.91205695634434,Entire home/apt,183.0
+1073179448074357226,Brooklyn,Williamsburg,40.70814587935,-73.96408530548699,Entire home/apt,120.0
+1073915671655296338,Brooklyn,Williamsburg,40.713195561768174,-73.95702940650163,Entire home/apt,196.0
+1072416905292439778,Manhattan,Upper East Side,40.78124854053342,-73.94730186084814,Entire home/apt,92.0
+1072422929427482902,Brooklyn,Williamsburg,40.70683429685495,-73.9554600857881,Entire home/apt,184.0
+1072438872838139128,Brooklyn,Bushwick,40.688039504868165,-73.91206401719904,Entire home/apt,140.0
+1077291587779409400,Manhattan,Upper East Side,40.77731470000001,-73.96312150000001,Entire home/apt,1163.0
+1078923644639661537,Manhattan,Upper East Side,40.77405529513172,-73.95392810826272,Entire home/apt,219.0
+1079055928537511033,Queens,Queens Village,40.71221230900252,-73.73736764317253,Entire home/apt,164.0
+1079910993717982400,Brooklyn,Bushwick,40.69934267801223,-73.92590013563162,Entire home/apt,106.0
+1080397066127126288,Manhattan,Upper East Side,40.7806676,-73.9520362,Entire home/apt,80.0
+1080524247229234431,Manhattan,Upper East Side,40.7719025,-73.9566685,Entire home/apt,100.0
+1080769743669960618,Brooklyn,Williamsburg,40.71844,-73.9402,Entire home/apt,314.0
+1081094943593999779,Brooklyn,Bushwick,40.6859232,-73.9148759,Entire home/apt,252.0
+1081270921702774205,Manhattan,Upper East Side,40.781349144549786,-73.95560748233575,Entire home/apt,249.0
+1075056454421698316,Manhattan,Upper East Side,40.76953700000001,-73.95924769999999,Entire home/apt,600.0
+1075342600501590104,Bronx,Williamsbridge,40.8803,-73.85656,Entire home/apt,110.0
+1076951289493106487,Manhattan,Upper East Side,40.7747686,-73.9499656,Entire home/apt,130.0
+1076963862671622156,Manhattan,East Harlem,40.7879956,-73.94858789999999,Entire home/apt,180.0
+1082734770312717710,Brooklyn,Williamsburg,40.7173106,-73.9509736,Entire home/apt,182.0
+1083354516854663093,Brooklyn,Williamsburg,40.71028919102752,-73.96151862204145,Entire home/apt,115.0
+1083413347114647900,Manhattan,Upper East Side,40.781974780063045,-73.95276841160252,Entire home/apt,40.0
+1083457132325313315,Brooklyn,Flatlands,40.62852022908224,-73.92469947469766,Entire home/apt,371.0
+1087165768251308424,Brooklyn,Bushwick,40.683440071739895,-73.90749000110414,Entire home/apt,4950.0
+1089413171661165083,Brooklyn,Bushwick,40.69006251577457,-73.91924135094173,Entire home/apt,95.0
+1089816470431705091,Manhattan,Upper East Side,40.77101,-73.95826,Entire home/apt,223.0
+1089958253746827887,Brooklyn,Williamsburg,40.71352,-73.96111,Entire home/apt,279.0
+1090058212987498404,Brooklyn,Bushwick,40.68456692852578,-73.90918057612444,Entire home/apt,119.0
+1085501022862400875,Manhattan,Upper East Side,40.774907786797385,-73.95537808120531,Entire home/apt,244.0
+1085501920403799667,Manhattan,Upper East Side,40.7827919,-73.9540178,Entire home/apt,400.0
+1086200276891664933,Brooklyn,Bushwick,40.700130411573454,-73.91423765569925,Entire home/apt,120.0
+1091221131418995026,Manhattan,Upper East Side,40.76037172645532,-73.96290187763681,Entire home/apt,125.0
+1091245575223347519,Manhattan,Upper East Side,40.78025,-73.95169,Entire home/apt,131.0
+1091299935203308643,Brooklyn,Williamsburg,40.71261032089241,-73.95698624405394,Entire home/apt,300.0
+1091461399491716050,Manhattan,Upper East Side,40.77392917945265,-73.95072722450536,Entire home/apt,140.0
+1092847338957781507,Manhattan,Upper East Side,40.77497,-73.94951,Entire home/apt,133.0
+1090541400037539368,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,232.0
+1090561518308382846,Manhattan,Upper East Side,40.77566092990672,-73.9503601157718,Entire home/apt,131.0
+1090617582725521721,Manhattan,Upper East Side,40.768446453451205,-73.95740817201013,Entire home/apt,123.0
+1095903383946887262,Manhattan,Upper East Side,40.77669956651723,-73.95311671553127,Entire home/apt,120.0
+1096304392988080939,Manhattan,Upper East Side,40.7806676,-73.9520362,Entire home/apt,86.0
+1093627832142540212,Manhattan,East Harlem,40.78849,-73.94715,Entire home/apt,127.0
+1094010528655760689,Brooklyn,Bushwick,40.69109,-73.90296,Entire home/apt,239.0
+1096583187139156674,Manhattan,East Harlem,40.7896631164752,-73.94729774820578,Entire home/apt,140.0
+1097030119523190924,Manhattan,East Harlem,40.79228,-73.94688,Entire home/apt,200.0
+1097146402872824283,Brooklyn,Bushwick,40.70181,-73.92559,Entire home/apt,239.0
+1097164750741381817,Brooklyn,Bushwick,40.69986929532941,-73.92717891423695,Entire home/apt,451.0
+1100235787052622687,Brooklyn,Flatlands,40.62504247470813,-73.93543145669604,Entire home/apt,380.0
+1100556386386561997,Manhattan,Upper East Side,40.76310766314682,-73.96081289425247,Entire home/apt,180.0
+1100569193093536116,Manhattan,Upper East Side,40.7616866566297,-73.96237494448205,Entire home/apt,474.0
+1100646737441546777,Brooklyn,Williamsburg,40.7107,-73.96847,Entire home/apt,315.0
+1100923152752810255,Manhattan,Upper East Side,40.77106,-73.9591883,Entire home/apt,168.0
+1102235861740061720,Manhattan,Upper East Side,40.78138,-73.94572,Entire home/apt,999.0
+1102237529626518209,Manhattan,Upper East Side,40.78101092450862,-73.94686671493514,Entire home/apt,999.0
+1097871770734072043,Manhattan,East Harlem,40.7897768,-73.94890939999999,Entire home/apt,83.0
+1098330445325214321,Brooklyn,Williamsburg,40.71986869038944,-73.96370909490079,Entire home/apt,329.0
+1100017091124262104,Manhattan,Upper East Side,40.77108,-73.95442,Entire home/apt,125.0
+1100032472759143437,Manhattan,Upper East Side,40.7697,-73.95478,Entire home/apt,125.0
+1100077166930373426,Manhattan,Upper East Side,40.77382101039647,-73.95273814481064,Entire home/apt,150.0
+1102331692663829399,Manhattan,East Harlem,40.7867247,-73.9494145,Entire home/apt,162.0
+1102934542095541409,Queens,Astoria,40.76393,-73.92389,Entire home/apt,114.0
+1103600863692203549,Brooklyn,Williamsburg,40.710256294665896,-73.94421158059609,Entire home/apt,165.0
+1103827004871780558,Brooklyn,Williamsburg,40.714758671187774,-73.94117407056234,Entire home/apt,149.0
+1104589800709825162,Brooklyn,Williamsburg,40.7125653,-73.95668909999999,Entire home/apt,250.0
+1105799910470163840,Manhattan,Upper East Side,40.77019536854603,-73.95839964641641,Entire home/apt,150.0
+1106636387471645456,Manhattan,Upper East Side,40.77179890022862,-73.95852835679862,Entire home/apt,175.0
+1107321382010216458,Manhattan,East Harlem,40.7870016,-73.9509363,Entire home/apt,300.0
+1107321490848928456,Manhattan,Upper East Side,40.76513152738608,-73.96670780442817,Entire home/apt,153.0
+1108126065533032978,Queens,Astoria,40.76445564498693,-73.92934140518591,Entire home/apt,245.0
+1105728403589641263,Manhattan,Upper East Side,40.76275,-73.96261,Entire home/apt,175.0
+1109635962297154857,Manhattan,Upper East Side,40.7721902,-73.9569894,Entire home/apt,124.0
+1112317611985718983,Brooklyn,Bushwick,40.689837555969376,-73.92194462284183,Entire home/apt,130.0
+1113018441358108311,Manhattan,Upper East Side,40.76997341274069,-73.95866887195966,Entire home/apt,138.0
+1117721798584451198,Bronx,Mott Haven,40.81154982663996,-73.91715893474527,Entire home/apt,100.0
+1120419289800030647,Manhattan,East Harlem,40.7897768,-73.94890939999999,Entire home/apt,81.0
+1126075657490554047,Manhattan,Upper East Side,40.769927287688176,-73.95886266104,Entire home/apt,145.0
+1126079789337906197,Brooklyn,Bushwick,40.6996109,-73.9302507,Entire home/apt,395.0
+1126085274679148461,Manhattan,Upper East Side,40.77204007523472,-73.95969532555893,Entire home/apt,145.0
+1126092277413709536,Manhattan,Upper East Side,40.77056,-73.9583,Entire home/apt,145.0
+1126100895901778255,Manhattan,Upper East Side,40.77224297429456,-73.9598289450905,Entire home/apt,194.0
+1126106648674787077,Manhattan,Upper East Side,40.77138632262805,-73.9580876562355,Entire home/apt,140.0
+1117350487164620171,Brooklyn,Williamsburg,40.7112,-73.958309,Entire home/apt,210.0
+1122491867192041810,Manhattan,Upper East Side,40.7707301,-73.96173929999999,Entire home/apt,82.0
+1123930551455333128,Brooklyn,Bushwick,40.70301543197544,-73.92781201331722,Entire home/apt,160.0
+1126873772309611321,Manhattan,Upper East Side,40.7707301,-73.96173929999999,Entire home/apt,199.0
+1126910409710723455,Manhattan,Upper East Side,40.78322545754551,-73.94597433729032,Entire home/apt,83.0
+1127829160757909681,Manhattan,Upper East Side,40.76940831334063,-73.95660717112631,Entire home/apt,125.0
+1127906543343427986,Manhattan,Upper East Side,40.76677292637761,-73.96108966494326,Entire home/apt,509.0
+1128086130426522034,Manhattan,Upper East Side,40.76960089495287,-73.95471126383895,Entire home/apt,125.0
+1128086147457445373,Manhattan,Upper East Side,40.76942,-73.95617,Entire home/apt,125.0
+1128086155487117700,Manhattan,Upper East Side,40.77138,-73.95658,Entire home/apt,125.0
+1128086190895642702,Manhattan,Upper East Side,40.76935912251342,-73.95473067242679,Entire home/apt,125.0
+1128323155742982777,Brooklyn,Williamsburg,40.71741,-73.94071,Entire home/apt,275.0
+1128974197538669137,Brooklyn,Williamsburg,40.7171771,-73.9579725,Entire home/apt,450.0
+1129675421613511516,Bronx,Williamsbridge,40.870941988060615,-73.85932780634683,Entire home/apt,98.0
+1130353143201767028,Manhattan,East Harlem,40.78737,-73.94622,Entire home/apt,96.0
+1130554947591177764,Manhattan,East Harlem,40.8016015,-73.9450864,Entire home/apt,180.0
+1130709970011553279,Brooklyn,Flatlands,40.614735653418485,-73.92286971225094,Entire home/apt,127.0
+1132836303993766297,Manhattan,Upper East Side,40.77102713729268,-73.9564883113368,Entire home/apt,150.0
+1133425427934157761,Brooklyn,Williamsburg,40.71521,-73.95279,Entire home/apt,179.0
+1134993338603897712,Manhattan,Upper East Side,40.78141,-73.95376,Entire home/apt,125.0
+1135553540868223490,Manhattan,East Harlem,40.795976964739474,-73.94433421529195,Entire home/apt,99.0
+1136151512842150679,Manhattan,Upper East Side,40.78154,-73.94738,Entire home/apt,92.0
+1139885746712973129,Manhattan,East Harlem,40.78841,-73.94689,Entire home/apt,115.0
+1139986631522158600,Brooklyn,Williamsburg,40.71427,-73.96344,Entire home/apt,185.0
+1131270139005803250,Manhattan,Upper East Side,40.78091324465975,-73.95493703104665,Entire home/apt,115.0
+1137707637749446979,Manhattan,Upper East Side,40.776018149682535,-73.94794750725511,Entire home/apt,128.0
+1140869013339984093,Manhattan,Upper East Side,40.77014,-73.95794,Entire home/apt,137.0
+1142155781946405822,Queens,Astoria,40.757480450139376,-73.91459255260173,Entire home/apt,189.0
+1148688437614934754,Brooklyn,Flatlands,40.6253877306288,-73.91866260185242,Entire home/apt,140.0
+1149502068664672314,Manhattan,Upper East Side,40.776085232864006,-73.95314187900605,Entire home/apt,135.0
+1138391892583319148,Brooklyn,Williamsburg,40.7197257576733,-73.95816933651255,Entire home/apt,399.0
+1138592729866407631,Manhattan,Upper East Side,40.78349,-73.9462,Entire home/apt,92.0
+1142735795274193087,Manhattan,Upper East Side,40.78130022750812,-73.9462076272577,Entire home/apt,83.0
+1142793852382997220,Brooklyn,Bushwick,40.6982599,-73.92188279999999,Entire home/apt,160.0
+1145649837286129108,Brooklyn,Williamsburg,40.71559,-73.95344,Entire home/apt,228.0
+1146926015197516568,Brooklyn,Williamsburg,40.71533,-73.95536,Entire home/apt,280.0
+1151744908156205035,Manhattan,Upper East Side,40.78474,-73.94831,Entire home/apt,200.0
+1151766748844368063,Manhattan,Upper East Side,40.77664,-73.9512,Entire home/apt,560.0
+1152028214696276847,Manhattan,East Harlem,40.80472,-73.94098,Entire home/apt,125.0
+1157134572475976632,Brooklyn,Williamsburg,40.70954703563501,-73.93529806851195,Entire home/apt,153.0
+1157269283153296898,Brooklyn,Bay Ridge,40.63221,-74.02609,Entire home/apt,107.0
+1157294307824492331,Brooklyn,Bushwick,40.69597,-73.90944,Entire home/apt,182.0
+1157713808050113417,Manhattan,Upper East Side,40.77022,-73.95786,Entire home/apt,146.0
+1157790822975192961,Manhattan,Upper East Side,40.77749335009637,-73.94582268231318,Entire home/apt,130.0
+1147183867153734465,Manhattan,East Harlem,40.79278,-73.94194,Entire home/apt,290.0
+1153687212909483910,Manhattan,Upper East Side,40.76696,-73.95603,Entire home/apt,195.0
+1156548485842085217,Manhattan,Upper East Side,40.77475,-73.95371,Entire home/apt,136.0
+1161426638357282571,Manhattan,Upper East Side,40.78067,-73.94536,Entire home/apt,135.0
+1161936484532127046,Manhattan,Upper East Side,40.78112958827866,-73.945609182443,Entire home/apt,180.0
+1163880842243234257,Manhattan,Upper East Side,40.77915,-73.95364,Entire home/apt,589.0
+1166668321004872851,Manhattan,Upper East Side,40.772423530851896,-73.95662042529516,Entire home/apt,200.0
+1167240334295469098,Manhattan,Upper East Side,40.76604,-73.95708,Entire home/apt,209.0
+1164512721184646213,Manhattan,Upper East Side,40.76575,-73.96847,Entire home/apt,744.0
+1167875540709032206,Manhattan,Upper East Side,40.7658315,-73.9568257,Entire home/apt,195.0
+1168899697914029586,Manhattan,East Harlem,40.79043337016884,-73.94796294725649,Entire home/apt,82.0
+1168902661787805861,Manhattan,East Harlem,40.78889817559803,-73.94771737669359,Entire home/apt,93.0
+1173927882151572672,Manhattan,Upper East Side,40.77956868941708,-73.94675940252758,Entire home/apt,500.0
+1174211243885753861,Brooklyn,Williamsburg,40.7082358,-73.9524277,Entire home/apt,185.0
+1169629540857873226,Brooklyn,Williamsburg,40.717710969103045,-73.95006650783888,Entire home/apt,199.0
+1170230963118362705,Manhattan,Upper East Side,40.76508067882694,-73.95915985807625,Entire home/apt,216.0
+1170370478953983948,Manhattan,Upper East Side,40.775990678942776,-73.94798432166881,Entire home/apt,178.0
+1174718247251405899,Brooklyn,Williamsburg,40.7055672,-73.93147100000002,Entire home/apt,115.0
+1176333848981317789,Manhattan,Upper East Side,40.78137822276953,-73.95157783400785,Entire home/apt,144.0
+1176741119044320976,Brooklyn,Williamsburg,40.71426733766943,-73.94531768003853,Entire home/apt,207.0
+1178358905663976916,Queens,Astoria,40.7571171619743,-73.91588285565376,Entire home/apt,148.0
+1178425983423625001,Manhattan,Upper East Side,40.76928,-73.96798,Entire home/apt,550.0
+1178865375768074643,Brooklyn,Williamsburg,40.7153294,-73.9553605,Entire home/apt,286.0
+1180011036035923098,Manhattan,Upper East Side,40.7800477,-73.9505824,Entire home/apt,116.0
+1176890826130811003,Manhattan,Upper East Side,40.77314274399144,-73.94780676409373,Entire home/apt,130.0
+1176898163498109788,Manhattan,Upper East Side,40.772737,-73.9509872,Entire home/apt,87.0
+1176907815263107776,Queens,Astoria,40.76835,-73.93602,Entire home/apt,224.0
+1177073312975243816,Brooklyn,Bushwick,40.68873172212317,-73.91483981552535,Entire home/apt,160.0
+1178154547956921938,Brooklyn,Williamsburg,40.720339189620525,-73.95830355682564,Entire home/apt,200.0
+1181305119926100979,Brooklyn,Williamsburg,40.7180621,-73.9484829,Entire home/apt,190.0
+1181829235133550373,Brooklyn,Bushwick,40.68933713032668,-73.92043190365881,Entire home/apt,85.0
+1182210505899484216,Manhattan,East Harlem,40.79848,-73.94218,Entire home/apt,516.0
+1186381663958729439,Brooklyn,Williamsburg,40.71808,-73.94818,Entire home/apt,120.0
+1186895527783667273,Manhattan,Upper East Side,40.77664,-73.95314,Entire home/apt,120.0
+1185101406435194073,Bronx,Williamsbridge,40.87991,-73.84934,Entire home/apt,72.0
+1189245776466739977,Manhattan,Upper East Side,40.776554,-73.9519402,Entire home/apt,111.0
+1187611508857108659,Manhattan,East Harlem,40.78891,-73.94206,Entire home/apt,157.0
+1188339530782972772,Brooklyn,Williamsburg,40.71042538230113,-73.95254710704583,Entire home/apt,292.0
+1188372056540438124,Manhattan,Upper East Side,40.7658315,-73.9568257,Entire home/apt,226.0
+1188397662862585915,Brooklyn,Bay Ridge,40.63018810656519,-74.02786232055394,Entire home/apt,65.0
+1189090141950355435,Manhattan,Upper East Side,40.77432,-73.96304,Entire home/apt,495.0
+1191497840686809606,Brooklyn,Williamsburg,40.7123550259966,-73.95910363644361,Entire home/apt,186.0
+1191506325184564251,Brooklyn,Williamsburg,40.71227090653265,-73.95907144993544,Entire home/apt,160.0
+1193422349521127527,Manhattan,East Harlem,40.79787544874873,-73.93538108744482,Entire home/apt,201.0
+1189445665503919899,Manhattan,Upper East Side,40.78457556201414,-73.94815677693468,Entire home/apt,153.0
+1190049216981114547,Manhattan,East Harlem,40.79795361332777,-73.93690846862181,Entire home/apt,120.0
+1191404739326003541,Brooklyn,Bay Ridge,40.636329168226325,-74.0237341432187,Entire home/apt,169.0
+1195285672281327232,Queens,Queens Village,40.71150979999999,-73.74052150000001,Entire home/apt,85.0
+1203960244971828790,Brooklyn,Williamsburg,40.70909892978902,-73.95412217311365,Entire home/apt,152.0
+1205846917993439171,Brooklyn,Bushwick,40.68654126568813,-73.91398153739324,Entire home/apt,72.0
+1205882392275820490,Brooklyn,Bushwick,40.68633,-73.91418,Entire home/apt,77.0
+1197671862542343289,Manhattan,Upper East Side,40.77731470000001,-73.96312150000001,Entire home/apt,1330.0
+1202074411142206871,Manhattan,Upper East Side,40.7718532,-73.9570418,Entire home/apt,324.0
+1203027322998758049,Queens,Astoria,40.76945689443472,-73.92804680856578,Entire home/apt,246.0
+1206559644182515631,Manhattan,East Harlem,40.78872446790321,-73.94895773216217,Entire home/apt,136.0
+1206574535966326192,Manhattan,Upper East Side,40.77253,-73.96181,Entire home/apt,295.0
+1207958356004096911,Manhattan,Upper East Side,40.76668,-73.9596,Entire home/apt,232.0
+1208074934904626929,Manhattan,Upper East Side,40.7659072,-73.9569948,Entire home/apt,229.0
+1213364464605802277,Brooklyn,Williamsburg,40.71292,-73.96703,Entire home/apt,240.0
+1214480664229985253,Manhattan,Upper East Side,40.7779249,-73.9509628,Entire home/apt,311.0
+1214486311067293119,Manhattan,Upper East Side,40.7805587,-73.9544731,Entire home/apt,271.0
+1214486987250117811,Manhattan,Upper East Side,40.7805587,-73.9544731,Entire home/apt,262.0
+1214491724973053663,Manhattan,Upper East Side,40.7845051,-73.948407,Entire home/apt,215.0
+1214492079157445918,Manhattan,Upper East Side,40.7845051,-73.948407,Entire home/apt,282.0
+1214492566511365282,Manhattan,Upper East Side,40.7845051,-73.948407,Entire home/apt,225.0
+1214492924370864214,Manhattan,Upper East Side,40.7844692,-73.948572,Entire home/apt,216.0
+1214493375312932244,Manhattan,Upper East Side,40.7845051,-73.948407,Entire home/apt,216.0
+1214495260309473136,Manhattan,Upper East Side,40.7844692,-73.948572,Entire home/apt,216.0
+1214636499668232791,Manhattan,Upper East Side,40.78316,-73.94732,Entire home/apt,105.0
+1215224488371019100,Brooklyn,Williamsburg,40.71217104748518,-73.9596880275584,Entire home/apt,90.0
+1210054863016150123,Brooklyn,Bushwick,40.6949838,-73.9211027,Entire home/apt,157.0
+1211051853015973270,Queens,Queens Village,40.7142716,-73.74182119999999,Entire home/apt,115.0
+1211450180362619428,Manhattan,Upper East Side,40.7718532,-73.9570418,Entire home/apt,363.0
+1211549563874716869,Brooklyn,Williamsburg,40.71437085782339,-73.96123512956156,Entire home/apt,125.0
+1211631558088960925,Manhattan,East Harlem,40.808896,-73.938919,Entire home/apt,64.0
+1211672157763868406,Manhattan,Upper East Side,40.76546408100704,-73.95839831335032,Entire home/apt,199.0
+1212264314233147082,Brooklyn,Williamsburg,40.70743,-73.95183,Entire home/apt,166.0
+1212347883190844815,Manhattan,Upper East Side,40.76182094422217,-73.96138118949274,Entire home/apt,140.0
+1216027977077434475,Manhattan,Upper East Side,40.77894380605962,-73.94947686963141,Entire home/apt,175.0
+1216116801679069894,Brooklyn,Bushwick,40.6912674,-73.9065653,Entire home/apt,99.0
+1223908931949225892,Brooklyn,Williamsburg,40.72145,-73.96232,Entire home/apt,325.0
+1224656324803270655,Manhattan,Upper East Side,40.78030264744545,-73.94951886928041,Entire home/apt,115.0
+1225516025725899603,Brooklyn,Williamsburg,40.70843730737064,-73.96468245767352,Entire home/apt,110.0
+1226300509152734855,Brooklyn,Bay Ridge,40.63099,-74.0287,Entire home/apt,144.0
+1219100207830329728,Manhattan,East Harlem,40.79947577494665,-73.94180624925339,Entire home/apt,274.0
+1219216760016753934,Manhattan,Upper East Side,40.76037821931434,-73.96070153753394,Entire home/apt,80.0
+1223036077341645395,Manhattan,Upper East Side,40.7742736,-73.9646597,Entire home/apt,477.0
+1227818000807916145,Brooklyn,Williamsburg,40.71610765513123,-73.95225490888367,Entire home/apt,219.0
+1226793157066719945,Manhattan,East Harlem,40.78609,-73.94968,Entire home/apt,270.0
+1227362166997664136,Brooklyn,Bushwick,40.70321085005035,-73.91425934244744,Entire home/apt,200.0
+1232921678813330437,Queens,Astoria,40.75545,-73.9152,Entire home/apt,135.0
+1234209733802234379,Manhattan,Upper East Side,40.77119,-73.95587,Entire home/apt,125.0
+1234762276793313957,Manhattan,East Harlem,40.7903074731644,-73.94727422533352,Entire home/apt,185.0
+1237082867457012401,Manhattan,Upper East Side,40.77999064696974,-73.9471977409075,Entire home/apt,112.0
+1237531266602752132,Manhattan,Upper East Side,40.78133,-73.94703,Entire home/apt,171.0
+1237610923997510603,Manhattan,Upper East Side,40.773819316530734,-73.95998045554278,Entire home/apt,135.0
+1229669742898309870,Brooklyn,Williamsburg,40.7164171,-73.9536081,Entire home/apt,280.0
+1229670048587573999,Manhattan,Upper East Side,40.7823318,-73.945872,Entire home/apt,192.0
+1230580157204357701,Manhattan,Upper East Side,40.77149,-73.96432,Entire home/apt,585.0
+1230594086080778065,Brooklyn,Bay Ridge,40.63543,-74.02872,Entire home/apt,100.0
+1232521814491370029,Brooklyn,Williamsburg,40.7122184,-73.9576802,Entire home/apt,207.0
+1238533278398374867,Manhattan,East Harlem,40.80132277214378,-73.93658899140166,Entire home/apt,60.0
+1244163261050221471,Manhattan,Upper East Side,40.76668,-73.9596,Entire home/apt,140.0
+1244167203417941890,Manhattan,Upper East Side,40.7675,-73.95843,Entire home/apt,125.0
+1245603696489176717,Brooklyn,Williamsburg,40.70708,-73.94258,Entire home/apt,295.0
+1247111384674319996,Queens,Queens Village,40.70374,-73.74356,Entire home/apt,66.0
+1250548740591932183,Manhattan,East Harlem,40.79414376159821,-73.94381638616323,Entire home/apt,108.0
+1240356331100402597,Queens,Astoria,40.75397,-73.91428,Entire home/apt,156.0
+1242992636408069849,Queens,Astoria,40.75723509571411,-73.92898990785929,Entire home/apt,58.0
+1243080490327577364,Manhattan,Upper East Side,40.77901,-73.95361,Entire home/apt,199.0
+1243439250383188600,Brooklyn,Williamsburg,40.7130803,-73.942869,Entire home/apt,228.0
+1250831859693051649,Brooklyn,Bushwick,40.69717,-73.93362,Entire home/apt,100.0
+1252151005018387613,Manhattan,Upper East Side,40.77099,-73.95019,Entire home/apt,130.0
+1252461149484283550,Brooklyn,Williamsburg,40.714743,-73.95118889999999,Entire home/apt,399.0
+1253045441873124439,Queens,Astoria,40.76031,-73.92067,Entire home/apt,279.0
+1253091734438965862,Manhattan,Upper East Side,40.771883747578336,-73.95364612247101,Entire home/apt,125.0
+1253101652315725220,Manhattan,Upper East Side,40.785414106414855,-73.95012646740496,Entire home/apt,120.0
+1254401172970301687,Manhattan,Upper East Side,40.77166,-73.95638,Entire home/apt,172.0
+1259446139253642093,Manhattan,Upper East Side,40.77919154632299,-73.95039533593568,Entire home/apt,375.0
+1248646776449745178,Manhattan,Upper East Side,40.77152,-73.95511,Entire home/apt,125.0
+1248720851139420977,Manhattan,East Harlem,40.7865871447728,-73.94115864262025,Entire home/apt,250.0
+1250049815657627966,Manhattan,East Harlem,40.788470111927296,-73.94864189615889,Entire home/apt,106.0
+1255822256495238727,Manhattan,Upper East Side,40.78134592296233,-73.95423531219991,Entire home/apt,150.0
+1257178258232634622,Manhattan,Upper East Side,40.77132284909372,-73.95498644251718,Entire home/apt,115.0
+1261013353272775382,Manhattan,East Harlem,40.79270800274113,-73.94171558871044,Entire home/apt,114.0
+1263758349868059423,Brooklyn,Williamsburg,40.7148389,-73.9647057,Entire home/apt,350.0
+1268936442619701149,Queens,Astoria,40.774304162508216,-73.92801784236325,Entire home/apt,184.0
+1257828763203524581,Manhattan,Upper East Side,40.7742554,-73.96467369999999,Entire home/apt,253.0
+1258294347905673882,Queens,Astoria,40.76308721987365,-73.9237146278025,Entire home/apt,120.0
+1258549260606059097,Brooklyn,Williamsburg,40.70977,-73.96777,Entire home/apt,160.0
+1264515289633071842,Brooklyn,Williamsburg,40.71201135804704,-73.95774879995606,Entire home/apt,133.0
+1264624602647804682,Brooklyn,Williamsburg,40.71984377378925,-73.96479863673449,Entire home/apt,132.0
+1265253559883200106,Manhattan,Upper East Side,40.7614114622618,-73.96139307016693,Entire home/apt,249.0
+1266048867324074448,Manhattan,East Harlem,40.79958999999999,-73.943454,Entire home/apt,104.0
+1266643445383332317,Manhattan,Upper East Side,40.76770033037436,-73.96031186425729,Entire home/apt,125.0
+1266667267842633649,Manhattan,East Harlem,40.78968,-73.94165,Entire home/apt,75.0
+1267261047591892406,Manhattan,Upper East Side,40.76288348492941,-73.96396388579471,Entire home/apt,2500.0
+1271093478906297581,Manhattan,Upper East Side,40.76799,-73.95756,Entire home/apt,124.0
+1271189989544953050,Queens,Queens Village,40.7264409,-73.7381092,Entire home/apt,96.0
+1272525324288177768,Manhattan,Upper East Side,40.7707301,-73.96173929999999,Entire home/apt,117.0
+1272588981504723875,Brooklyn,Williamsburg,40.7063008,-73.9294357,Entire home/apt,80.0
+1272764964320888257,Manhattan,East Harlem,40.80175,-73.9435,Entire home/apt,180.0
+1273429017227572621,Manhattan,Upper East Side,40.77916,-73.95319,Entire home/apt,111.0
+1268021034388489020,Brooklyn,Williamsburg,40.71245325250489,-73.95540756357481,Entire home/apt,100.0
+1268060771599136207,Brooklyn,Williamsburg,40.71781798497543,-73.96341193467379,Entire home/apt,150.0
+1268375002268643154,Manhattan,Upper East Side,40.7736,-73.95758,Entire home/apt,300.0
+1273902714324988592,Manhattan,East Harlem,40.7857569,-73.9492538,Entire home/apt,198.0
+1273999441913457977,Manhattan,Upper East Side,40.77275849999999,-73.95111039999999,Entire home/apt,95.0
+1274907523602524508,Manhattan,Upper East Side,40.7610789884252,-73.95773162764701,Entire home/apt,180.0
+1275404590621392936,Brooklyn,Williamsburg,40.71393383446862,-73.94421703516402,Entire home/apt,215.0
+1276211315180548863,Bronx,Mott Haven,40.8120543122782,-73.91757272478507,Entire home/apt,75.0
+1276222246131959855,Brooklyn,Bushwick,40.6815449351605,-73.90412639826536,Entire home/apt,280.0
+1276256657123457100,Brooklyn,Williamsburg,40.71222099950792,-73.9606279736193,Entire home/apt,90.0
+1276408151527662630,Brooklyn,Williamsburg,40.71795716638214,-73.94361725675483,Entire home/apt,210.0
+1280464880815087083,Manhattan,Upper East Side,40.76301782775758,-73.96224818787114,Entire home/apt,128.0
+1287739461481439132,Queens,Queens Village,40.70303,-73.74392,Entire home/apt,90.0
+1284334567125481832,Brooklyn,Bushwick,40.694298,-73.9236142,Entire home/apt,120.0
+1284746007352463996,Brooklyn,Bushwick,40.70179,-73.92696,Entire home/apt,100.0
+1284913460751502924,Brooklyn,Williamsburg,40.71415,-73.94155,Entire home/apt,163.0
+1285041570397531147,Brooklyn,Williamsburg,40.70812,-73.96954,Entire home/apt,380.0
+1285415763125619804,Manhattan,Upper East Side,40.7823318,-73.945872,Entire home/apt,192.0
+1289900598795323291,Brooklyn,Williamsburg,40.7163729,-73.9535356,Entire home/apt,281.0
+1289967817982388835,Manhattan,Upper East Side,40.77275849999999,-73.95111039999999,Entire home/apt,97.0
+1290490963940818185,Brooklyn,Williamsburg,40.7163729,-73.9535356,Entire home/apt,211.0
+1294997733780901648,Brooklyn,Williamsburg,40.70929627880747,-73.95320131509396,Entire home/apt,100.0
+1295058207773420592,Queens,Astoria,40.76408715122744,-73.92405063286866,Entire home/apt,175.0
+1295692047470088652,Manhattan,Upper East Side,40.7823318,-73.945872,Entire home/apt,318.0
+1295698600322874906,Manhattan,Upper East Side,40.7660428,-73.95707809999999,Entire home/apt,181.0
+1295705038190222304,Manhattan,Upper East Side,40.7823266,-73.9460053,Entire home/apt,271.0
+1296594099465381714,Brooklyn,Bushwick,40.70416,-73.91533,Entire home/apt,106.0
+1292494777551939065,Manhattan,Upper East Side,40.78322,-73.94877,Entire home/apt,188.0
+1292797757047068752,Brooklyn,Williamsburg,40.7183956735201,-73.95870718138286,Entire home/apt,100.0
+1292804860193464360,Manhattan,Upper East Side,40.77768,-73.95843,Entire home/apt,199.0
+1293465649301168871,Manhattan,Upper East Side,40.7779127,-73.95733349999999,Entire home/apt,154.0
+1294357209917236393,Manhattan,East Harlem,40.7909,-73.94909,Entire home/apt,120.0
+1297492109755858320,Queens,Astoria,40.76414038706773,-73.92782061562846,Entire home/apt,100.0
+1297762041714646973,Queens,Queens Village,40.7038385,-73.7483603,Entire home/apt,100.0
+1305216263895459156,Manhattan,East Harlem,40.7927,-73.94075,Entire home/apt,150.0
+1306627441732691566,Manhattan,Upper East Side,40.78009309999999,-73.9505166,Entire home/apt,242.0
+1307952985686504228,Brooklyn,Williamsburg,40.7161094,-73.9517153,Entire home/apt,250.0
+1298078346992867733,Manhattan,Upper East Side,40.78087958162297,-73.9532018094658,Entire home/apt,111.0
+1298105753258236200,Brooklyn,Williamsburg,40.7114556,-73.9621753,Entire home/apt,104.0
+1299405124262455022,Brooklyn,Bushwick,40.6867944,-73.912078,Entire home/apt,109.0
+1299524131259285835,Queens,Astoria,40.76206756695782,-73.91764398233896,Entire home/apt,135.0
+1300030023222277963,Manhattan,Upper East Side,40.76447360785432,-73.96937351187516,Entire home/apt,141.0
+1302440974253841487,Brooklyn,Bushwick,40.69937,-73.93622,Entire home/apt,160.0
+1302971012866690076,Manhattan,East Harlem,40.80314,-73.93771,Entire home/apt,76.0
+1303498949364272866,Brooklyn,Williamsburg,40.709305,-73.95780959999999,Entire home/apt,219.0
+1308063256370633680,Queens,Astoria,40.764200645892494,-73.91750948608755,Entire home/apt,101.0
+1313067928708737367,Manhattan,Upper East Side,40.7812014,-73.9530193,Entire home/apt,80.0
+1313101880836038196,Manhattan,Upper East Side,40.7742554,-73.96467369999999,Entire home/apt,260.0
+1313156485419305970,Manhattan,Upper East Side,40.77125,-73.95564,Entire home/apt,128.0
+1313351484190596189,Manhattan,Upper East Side,40.77977,-73.9531,Entire home/apt,100.0
+1313629691409424927,Manhattan,Upper East Side,40.78517478543569,-73.95021134121697,Entire home/apt,4000.0
+1314549753852039035,Manhattan,Upper East Side,40.77651,-73.95248,Entire home/apt,129.0
+1314692063415977536,Brooklyn,Bushwick,40.70140015088481,-73.93438448424814,Entire home/apt,239.0
+1315219656673389852,Manhattan,Upper East Side,40.7612,-73.9653,Entire home/apt,114.0
+1315351635891305804,Manhattan,Upper East Side,40.775393219598335,-73.9481191712969,Entire home/apt,112.0
+1315615243815259315,Manhattan,East Harlem,40.78657,-73.94253,Entire home/apt,312.0
+1308239962355861774,Manhattan,Upper East Side,40.76556,-73.95737,Entire home/apt,160.0
+1308716552365145886,Brooklyn,Williamsburg,40.709305,-73.95780959999999,Entire home/apt,238.0
+1308864666891601767,Manhattan,Upper East Side,40.7812014,-73.9530193,Entire home/apt,80.0
+1308883768537910069,Manhattan,Upper East Side,40.76542925148869,-73.96951063600783,Entire home/apt,880.0
+1309475690879705407,Manhattan,East Harlem,40.78950938768983,-73.94979591396397,Entire home/apt,80.0
+1309481208952816987,Manhattan,East Harlem,40.78876,-73.94797,Entire home/apt,80.0
+1309593707806609196,Manhattan,Upper East Side,40.76275,-73.95959,Entire home/apt,93.0
+1311286982949807879,Manhattan,Upper East Side,40.77531719214937,-73.95103722810745,Entire home/apt,111.0
+1318094578446230017,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,369.0
+1318094924005883432,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,268.0
+1318101305923925752,Brooklyn,Williamsburg,40.7120895,-73.95304329999999,Entire home/apt,321.0
+1315872192558040243,Brooklyn,Williamsburg,40.7120895,-73.95304329999999,Entire home/apt,235.0
+1315940405858849584,Manhattan,Upper East Side,40.77784339999999,-73.9508287,Entire home/apt,266.0
+1315940965074657654,Manhattan,Upper East Side,40.77784339999999,-73.9508287,Entire home/apt,279.0
+1315941461121004757,Manhattan,Upper East Side,40.77784339999999,-73.9508287,Entire home/apt,272.0
+1316631934780825989,Manhattan,Upper East Side,40.77975540769332,-73.95585912878438,Entire home/apt,289.0
+1318084007658572242,Manhattan,Upper East Side,40.76375,-73.96345,Entire home/apt,219.0
+1318087264077513131,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,217.0
+1318087753741207788,Manhattan,Upper East Side,40.7823266,-73.9460053,Entire home/apt,262.0
+1318101869355533888,Manhattan,Upper East Side,40.7842867,-73.9482357,Entire home/apt,205.0
+1318106415889167101,Manhattan,Upper East Side,40.76375,-73.96345,Entire home/apt,219.0
+1318106721458004400,Manhattan,Upper East Side,40.76375,-73.96345,Entire home/apt,257.0
+1318114926297556317,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,270.0
+1318120061606018916,Manhattan,Upper East Side,40.76380959999999,-73.9634726,Entire home/apt,226.0
+1318129134684263970,Manhattan,Upper East Side,40.76375,-73.96345,Entire home/apt,268.0
+1318136372445052306,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,364.0
+1318141689438456280,Brooklyn,Williamsburg,40.7163729,-73.9535356,Entire home/apt,284.0
+1318143441326854551,Manhattan,Upper East Side,40.76380959999999,-73.9634726,Entire home/apt,221.0
+1318153719271042825,Manhattan,Upper East Side,40.76375,-73.96345,Entire home/apt,257.0
+1318157438327902493,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,268.0
+1318158562714219314,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,372.0
+1318181335064766565,Manhattan,Upper East Side,40.76222295824894,-73.96030023405848,Entire home/apt,158.0
+1318242220335553047,Manhattan,East Harlem,40.7967768,-73.9478302,Entire home/apt,133.0
+1318249356560602125,Manhattan,East Harlem,40.7967768,-73.9478302,Entire home/apt,132.0
+1323596565152388814,Brooklyn,Williamsburg,40.70376,-73.93548,Entire home/apt,143.0
+1325354149285539554,Brooklyn,Williamsburg,40.71793,-73.96413,Entire home/apt,305.0
+1318740134406799498,Brooklyn,Williamsburg,40.709305,-73.95780959999999,Entire home/apt,229.0
+1319078032714535974,Manhattan,East Harlem,40.7912,-73.94001,Entire home/apt,86.0
+1320192903104387119,Brooklyn,Bushwick,40.70415,-73.92025,Entire home/apt,120.0
+1320688645215804521,Brooklyn,Bushwick,40.69099,-73.90895,Entire home/apt,139.0
