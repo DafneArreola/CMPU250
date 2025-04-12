@@ -51,7 +51,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1063020,Manhattan,East Harlem,40.79346,-73.94374,Entire home/apt,120.0
 1098863,Brooklyn,Bushwick,40.69093,-73.90366,Entire home/apt,60.0
 1117706,Brooklyn,Williamsburg,40.71481,-73.96006,Entire home/apt,150.0
-1390964,Bronx,Mott Haven,40.80847,-73.91762,Entire home/apt,250.0
 1506985,Manhattan,East Harlem,40.80242,-73.94407,Entire home/apt,225.0
 1555491,Manhattan,Upper East Side,40.77614,-73.94964,Entire home/apt,257.0
 1304459,Brooklyn,Williamsburg,40.70931,-73.95011,Entire home/apt,200.0
@@ -62,7 +61,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1640995,Manhattan,Upper East Side,40.76842,-73.95532,Entire home/apt,123.0
 1921859,Queens,Astoria,40.76963,-73.922684,Entire home/apt,163.0
 1925224,Brooklyn,Williamsburg,40.71629,-73.95362,Entire home/apt,250.0
-1956677,Bronx,Mott Haven,40.80848,-73.92792,Entire home/apt,185.0
 2044889,Brooklyn,Williamsburg,40.71414,-73.95931,Entire home/apt,156.0
 1981590,Brooklyn,Bushwick,40.69832,-73.91336,Entire home/apt,150.0
 1984378,Brooklyn,Bushwick,40.70411,-73.9289,Entire home/apt,168.0
@@ -155,6 +153,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 7871818,Brooklyn,Bushwick,40.69647,-73.91857,Entire home/apt,199.0
 7887966,Queens,Astoria,40.75834,-73.91284,Entire home/apt,100.0
 8045552,Queens,Astoria,40.7688,-73.9093,Entire home/apt,65.0
+8426915,Queens,Jamaica,40.66985,-73.77659,Entire home/apt,146.0
 8151183,Brooklyn,Bushwick,40.69693,-73.91153,Entire home/apt,140.0
 8182759,Brooklyn,Williamsburg,40.71313,-73.96194,Entire home/apt,325.0
 8240016,Brooklyn,Bushwick,40.6988,-73.93532,Entire home/apt,117.0
@@ -174,6 +173,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 9863045,Manhattan,East Harlem,40.798645,-73.934341,Entire home/apt,194.0
 9925507,Brooklyn,Williamsburg,40.71224,-73.94481,Entire home/apt,183.0
 10205130,Manhattan,East Harlem,40.80243,-73.9373,Entire home/apt,150.0
+10073940,Queens,Jamaica,40.68826,-73.80384,Entire home/apt,209.0
 10142056,Manhattan,Upper East Side,40.7736,-73.95339,Entire home/apt,89.0
 10341262,Manhattan,Upper East Side,40.78332,-73.94613,Entire home/apt,97.0
 10452541,Brooklyn,Bushwick,40.6995,-73.9308,Entire home/apt,109.0
@@ -206,6 +206,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 13912712,Manhattan,Upper East Side,40.77025,-73.95721,Entire home/apt,97.0
 13936824,Brooklyn,Williamsburg,40.71941,-73.94322,Entire home/apt,200.0
 14139553,Manhattan,Upper East Side,40.76947,-73.95647,Entire home/apt,100.0
+14275887,Queens,Jamaica,40.70811,-73.79997,Entire home/apt,150.0
 14281526,Queens,Queens Village,40.70983,-73.73904,Entire home/apt,150.0
 14296598,Brooklyn,Williamsburg,40.71964,-73.95529,Entire home/apt,249.0
 14012274,Manhattan,Upper East Side,40.76048,-73.96175,Entire home/apt,180.0
@@ -253,6 +254,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 18358606,Manhattan,East Harlem,40.79052,-73.9485,Entire home/apt,169.0
 18359018,Manhattan,Upper East Side,40.78118,-73.95306,Entire home/apt,100.0
 18689454,Brooklyn,Bushwick,40.69323,-73.92387,Entire home/apt,89.0
+18993398,Queens,Jamaica,40.69221,-73.79842,Entire home/apt,175.0
 19081472,Brooklyn,Williamsburg,40.72052,-73.95609,Entire home/apt,300.0
 18823971,Manhattan,Upper East Side,40.77293,-73.95581,Entire home/apt,100.0
 18874640,Manhattan,Upper East Side,40.77128,-73.95581,Entire home/apt,90.0
@@ -285,6 +287,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 21750219,Manhattan,East Harlem,40.79053115844727,-73.94721221923828,Entire home/apt,229.0
 21311240,Brooklyn,Williamsburg,40.71022,-73.95777,Entire home/apt,200.0
 21595000,Brooklyn,Williamsburg,40.71786,-73.96439,Entire home/apt,185.0
+21619569,Queens,Jamaica,40.68107,-73.76878,Entire home/apt,140.0
 21620762,Manhattan,East Harlem,40.78792,-73.95156,Entire home/apt,110.0
 22078463,Brooklyn,Williamsburg,40.71393,-73.95045,Entire home/apt,170.0
 22088301,Brooklyn,Williamsburg,40.71147,-73.94387,Entire home/apt,119.0
@@ -315,6 +318,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 23727923,Queens,Astoria,40.75419,-73.92314,Entire home/apt,95.0
 23747957,Manhattan,East Harlem,40.80111,-73.94488,Entire home/apt,128.0
 24022894,Brooklyn,Williamsburg,40.71780565059869,-73.9425378679714,Entire home/apt,101.0
+24699301,Queens,Jamaica,40.70913,-73.78349,Entire home/apt,131.0
 24453838,Brooklyn,Williamsburg,40.71623,-73.94067,Entire home/apt,213.0
 24758664,Brooklyn,Bushwick,40.70106,-73.92457,Entire home/apt,175.0
 24805249,Brooklyn,Williamsburg,40.71555,-73.95347,Entire home/apt,225.0
@@ -332,10 +336,10 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 25970374,Manhattan,Upper East Side,40.769516,-73.956444,Entire home/apt,103.0
 26002246,Manhattan,Upper East Side,40.75934,-73.96075,Entire home/apt,75.0
 25765042,Brooklyn,Bushwick,40.69797762383031,-73.91188714212258,Entire home/apt,90.0
-25784618,Bronx,Mott Haven,40.81004,-73.91177,Entire home/apt,154.0
 25823670,Manhattan,Upper East Side,40.77595,-73.95559,Entire home/apt,207.0
 25909161,Manhattan,Upper East Side,40.76922,-73.95263,Entire home/apt,125.0
 26845561,Brooklyn,Bushwick,40.68831,-73.91589,Entire home/apt,180.0
+26398894,Queens,Jamaica,40.71107,-73.78388,Entire home/apt,107.0
 26475612,Brooklyn,Williamsburg,40.71821,-73.94442,Entire home/apt,135.0
 26496511,Brooklyn,Williamsburg,40.72143,-73.96344,Entire home/apt,140.0
 27054756,Brooklyn,Williamsburg,40.72045,-73.96012,Entire home/apt,120.0
@@ -349,6 +353,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 28012942,Manhattan,Upper East Side,40.77899,-73.95243,Entire home/apt,248.0
 28014842,Manhattan,East Harlem,40.79465,-73.9437,Entire home/apt,91.0
 27785672,Brooklyn,Bushwick,40.70351,-73.91852,Entire home/apt,265.0
+27923577,Queens,Jamaica,40.71094,-73.78254,Entire home/apt,245.0
 27928809,Brooklyn,Williamsburg,40.71119,-73.94634,Entire home/apt,270.0
 28561904,Brooklyn,Bushwick,40.70296439360243,-73.92670124072912,Entire home/apt,150.0
 28778214,Manhattan,East Harlem,40.80008,-73.93762,Entire home/apt,135.0
@@ -396,7 +401,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 31623508,Brooklyn,Bushwick,40.69263,-73.91654,Entire home/apt,100.0
 31668308,Brooklyn,Williamsburg,40.71282,-73.94833,Entire home/apt,85.0
 31668461,Brooklyn,Williamsburg,40.71636581420898,-73.95480346679688,Entire home/apt,150.0
-31760941,Bronx,Mott Haven,40.81132,-73.92177,Entire home/apt,125.0
 31933373,Brooklyn,Bushwick,40.69019,-73.91593,Entire home/apt,175.0
 32336400,Manhattan,East Harlem,40.78854,-73.94745,Entire home/apt,209.0
 32392636,Manhattan,East Harlem,40.80501,-73.93948,Entire home/apt,175.0
@@ -411,6 +415,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 33653706,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,250.0
 33218283,Manhattan,Upper East Side,40.77077102661133,-73.95748138427734,Entire home/apt,163.0
 33467371,Manhattan,Upper East Side,40.76727,-73.95778,Entire home/apt,2048.0
+33469797,Queens,Jamaica,40.67323,-73.77715,Entire home/apt,83.0
 33735398,Brooklyn,Bushwick,40.68862,-73.90912,Entire home/apt,170.0
 33776576,Queens,Astoria,40.75993,-73.91071,Entire home/apt,240.0
 33785477,Brooklyn,Bushwick,40.69833,-73.92922,Entire home/apt,215.0
@@ -425,7 +430,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 34384958,Manhattan,Upper East Side,40.7798,-73.9503,Entire home/apt,130.0
 34537321,Manhattan,Upper East Side,40.76048,-73.96175,Entire home/apt,100.0
 34620162,Queens,Queens Village,40.72205,-73.73571,Entire home/apt,88.0
-34667590,Bronx,Mott Haven,40.8127,-73.90988,Entire home/apt,49.0
 34746284,Brooklyn,Williamsburg,40.70671,-73.94499,Entire home/apt,225.0
 34926055,Manhattan,Upper East Side,40.78485,-73.95061,Entire home/apt,120.0
 35334728,Brooklyn,Williamsburg,40.71976,-73.96324,Entire home/apt,375.0
@@ -450,6 +454,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 36914033,Manhattan,Upper East Side,40.78319,-73.94717,Entire home/apt,94.0
 36945647,Manhattan,Upper East Side,40.78107,-73.94648,Entire home/apt,95.0
 36998345,Brooklyn,Williamsburg,40.70637,-73.92704,Entire home/apt,99.0
+37322150,Queens,Jamaica,40.68187,-73.77619,Entire home/apt,60.0
 37329889,Manhattan,Upper East Side,40.76083,-73.96002,Entire home/apt,151.0
 37332720,Manhattan,Upper East Side,40.76952,-73.95645,Entire home/apt,98.0
 37316929,Manhattan,Upper East Side,40.7813,-73.9466,Entire home/apt,99.0
@@ -464,6 +469,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 38299089,Manhattan,Upper East Side,40.77797,-73.95368,Entire home/apt,415.0
 38359468,Queens,Queens Village,40.70691,-73.73869,Entire home/apt,200.0
 38385758,Brooklyn,Williamsburg,40.71047,-73.96666,Entire home/apt,282.0
+38469091,Queens,Jamaica,40.672195,-73.77623,Entire home/apt,135.0
 38134394,Brooklyn,Bushwick,40.68678,-73.90653,Entire home/apt,200.0
 38236463,Brooklyn,Williamsburg,40.70831,-73.94093,Entire home/apt,125.0
 38575482,Manhattan,Upper East Side,40.76103,-73.9609,Entire home/apt,109.0
@@ -528,7 +534,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 41749993,Brooklyn,Williamsburg,40.71801,-73.95482,Entire home/apt,160.0
 41770339,Brooklyn,Williamsburg,40.70811,-73.94474,Entire home/apt,160.0
 41789758,Manhattan,Upper East Side,40.78311,-73.94711,Entire home/apt,82.0
-41023393,Bronx,Mott Haven,40.80991,-73.91211,Entire home/apt,160.0
 41469310,Brooklyn,Williamsburg,40.71325,-73.95488,Entire home/apt,679.0
 41496552,Brooklyn,Bushwick,40.68605,-73.91533,Entire home/apt,225.0
 41567947,Brooklyn,Bushwick,40.70541,-73.92392,Entire home/apt,100.0
@@ -695,6 +700,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 48233657,Manhattan,Upper East Side,40.78119,-73.95532,Entire home/apt,200.0
 48367351,Manhattan,Upper East Side,40.7717,-73.95816,Entire home/apt,127.0
 48369592,Manhattan,Upper East Side,40.77723,-73.96053,Entire home/apt,10.0
+48270362,Queens,Jamaica,40.6843,-73.77658,Entire home/apt,60.0
 48297854,Brooklyn,Bushwick,40.69821,-73.93217,Entire home/apt,200.0
 48300185,Manhattan,Upper East Side,40.7593,-73.9597,Entire home/apt,192.0
 48489975,Manhattan,Upper East Side,40.7597,-73.96072,Entire home/apt,120.0
@@ -727,6 +733,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 49512718,Manhattan,Upper East Side,40.76993,-73.95647,Entire home/apt,128.0
 49534641,Manhattan,Upper East Side,40.77203,-73.95703,Entire home/apt,129.0
 49612318,Manhattan,Upper East Side,40.78033,-73.954,Entire home/apt,100.0
+49813829,Queens,Jamaica,40.67763,-73.78272,Entire home/apt,94.0
 49860773,Brooklyn,Williamsburg,40.70991,-73.94466,Entire home/apt,225.0
 49659537,Manhattan,Upper East Side,40.77456,-73.94879,Entire home/apt,246.0
 49691549,Brooklyn,Flatlands,40.63278,-73.91964,Entire home/apt,1100.0
@@ -747,12 +754,12 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 50309369,Brooklyn,Williamsburg,40.70743,-73.96251,Entire home/apt,140.0
 50373477,Queens,Astoria,40.75807435122504,-73.91996740990956,Entire home/apt,220.0
 50587797,Brooklyn,Williamsburg,40.71971,-73.96033,Entire home/apt,200.0
-50596016,Bronx,Mott Haven,40.80879,-73.91413,Entire home/apt,380.0
 50181296,Manhattan,East Harlem,40.78489,-73.94689,Entire home/apt,45.0
 50197603,Manhattan,Upper East Side,40.77242660522461,-73.95455169677734,Entire home/apt,154.0
 50439191,Brooklyn,Bushwick,40.7055,-73.91841,Entire home/apt,82.0
 50444487,Manhattan,Upper East Side,40.77586,-73.96099,Entire home/apt,296.0
 50623654,Manhattan,Upper East Side,40.75898,-73.95983,Entire home/apt,151.0
+50639364,Queens,Jamaica,40.67062,-73.77775,Entire home/apt,133.0
 50697485,Brooklyn,Williamsburg,40.71666,-73.95862,Entire home/apt,240.0
 50698344,Manhattan,Upper East Side,40.77088,-73.95755,Entire home/apt,158.0
 50740601,Manhattan,Upper East Side,40.76836,-73.95273,Entire home/apt,138.0
@@ -813,6 +820,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 51927795,Brooklyn,Williamsburg,40.71066,-73.96756,Entire home/apt,399.0
 51950079,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,248.0
 51985589,Manhattan,East Harlem,40.79755,-73.93353,Entire home/apt,108.0
+52013393,Queens,Jamaica,40.67344,-73.782,Entire home/apt,109.0
 52388002,Manhattan,Upper East Side,40.78374,-73.95105,Entire home/apt,799.0
 52408941,Brooklyn,Flatlands,40.63038,-73.92098,Entire home/apt,67.0
 52411201,Manhattan,Upper East Side,40.77195,-73.95582,Entire home/apt,243.0
@@ -868,6 +876,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 53610874,Brooklyn,Williamsburg,40.71911,-73.96041,Entire home/apt,200.0
 53615384,Manhattan,Upper East Side,40.77727,-73.9524,Entire home/apt,350.0
 53623779,Manhattan,Upper East Side,40.7818029,-73.9476236,Entire home/apt,160.0
+53634502,Queens,Jamaica,40.67862,-73.79618,Entire home/apt,153.0
 53653438,Manhattan,East Harlem,40.79221,-73.94712,Entire home/apt,286.0
 53682017,Manhattan,Upper East Side,40.76824,-73.96739,Entire home/apt,290.0
 53693128,Manhattan,East Harlem,40.80051,-73.94394,Entire home/apt,400.0
@@ -886,12 +895,14 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 53786333,Manhattan,East Harlem,40.79346,-73.94558,Entire home/apt,100.0
 53940686,Brooklyn,Bay Ridge,40.6358691456318,-74.02307704123753,Entire home/apt,263.0
 53967226,Manhattan,East Harlem,40.790134,-73.94883,Entire home/apt,96.0
+54115612,Queens,Jamaica,40.70723,-73.80335,Entire home/apt,380.0
 54122624,Brooklyn,Williamsburg,40.711662,-73.963394,Entire home/apt,240.0
 54140633,Manhattan,Upper East Side,40.77619934082031,-73.95426940917969,Entire home/apt,127.0
 54146364,Brooklyn,Williamsburg,40.71089,-73.96184,Entire home/apt,90.0
+54169005,Queens,Jamaica,40.68583,-73.77821,Entire home/apt,100.0
 54183564,Manhattan,East Harlem,40.78878,-73.9416,Entire home/apt,89.0
 54193549,Brooklyn,Williamsburg,40.71889,-73.94055,Entire home/apt,100.0
-54007743,Bronx,Mott Haven,40.8076122084134,-73.92372831460365,Entire home/apt,118.0
+54045965,Queens,Jamaica,40.71091,-73.78241,Entire home/apt,80.0
 54206877,Manhattan,Upper East Side,40.76399612426758,-73.96626281738281,Entire home/apt,136.0
 54213367,Manhattan,Upper East Side,40.78385,-73.95258,Entire home/apt,120.0
 54217724,Brooklyn,Williamsburg,40.71233,-73.94299,Entire home/apt,600.0
@@ -955,7 +966,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 578592072056483887,Brooklyn,Williamsburg,40.71398162841797,-73.9614028930664,Entire home/apt,189.0
 578977880199483445,Brooklyn,Bushwick,40.70252,-73.92281,Entire home/apt,186.0
 579513654453597247,Brooklyn,Bushwick,40.70511,-73.91918,Entire home/apt,200.0
-562884903457128974,Bronx,Mott Haven,40.8149,-73.92758,Entire home/apt,160.0
 564542475835793907,Brooklyn,Bay Ridge,40.64055,-74.02957,Entire home/apt,120.0
 574586117293355737,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,272.0
 582478029279386383,Brooklyn,Bushwick,40.70587,-73.91602,Entire home/apt,379.0
@@ -996,7 +1006,9 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 608883511707431102,Brooklyn,Williamsburg,40.713886,-73.961205,Entire home/apt,120.0
 609500363267740230,Brooklyn,Williamsburg,40.712749,-73.963951,Entire home/apt,300.0
 610313074951797337,Brooklyn,Williamsburg,40.712582,-73.963127,Entire home/apt,105.0
+611470894386067928,Queens,Jamaica,40.67961,-73.78143,Entire home/apt,426.0
 611736171410366121,Brooklyn,Bushwick,40.693417,-73.926247,Entire home/apt,147.0
+616011591675728415,Queens,Jamaica,40.68930896788741,-73.77756559435358,Entire home/apt,191.0
 617871935670392856,Brooklyn,Williamsburg,40.71915,-73.94321,Entire home/apt,143.0
 618023128301471110,Manhattan,East Harlem,40.79411807890201,-73.93260976645611,Entire home/apt,557.0
 618184915139767958,Brooklyn,Bushwick,40.70178,-73.91235,Entire home/apt,245.0
@@ -1015,8 +1027,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 627028314789354917,Queens,Astoria,40.76959,-73.91861,Entire home/apt,191.0
 635383523425875590,Manhattan,Upper East Side,40.77066,-73.95549,Entire home/apt,113.0
 623812432062401934,Queens,Astoria,40.75675,-73.92231,Entire home/apt,115.0
-625101948280782536,Bronx,Mott Haven,40.81117965446412,-73.92987687226892,Entire home/apt,166.0
-630921135487536795,Bronx,Mott Haven,40.81141,-73.92722,Entire home/apt,150.0
 631149892014601626,Manhattan,Upper East Side,40.78488,-73.94926,Entire home/apt,220.0
 631719694603808069,Manhattan,East Harlem,40.8063,-73.94208,Entire home/apt,129.0
 636167593975534277,Brooklyn,Bushwick,40.69933,-73.92178,Entire home/apt,175.0
@@ -1026,6 +1036,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 633114777738202849,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,364.0
 633498135863569609,Brooklyn,Williamsburg,40.7131,-73.94388,Entire home/apt,79.0
 633956160953215663,Manhattan,East Harlem,40.78856,-73.94775,Entire home/apt,425.0
+640270260790083804,Queens,Jamaica,40.71059,-73.78221,Entire home/apt,101.0
 640508290069155758,Manhattan,Upper East Side,40.77135,-73.9559,Entire home/apt,125.0
 641128802903031792,Brooklyn,Bushwick,40.6915011,-73.9156479,Entire home/apt,115.0
 641852518442102238,Brooklyn,Williamsburg,40.71328,-73.96381,Entire home/apt,279.0
@@ -1037,7 +1048,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 653538289455674361,Manhattan,Upper East Side,40.77009,-73.95645,Entire home/apt,238.0
 653607125944399593,Brooklyn,Bushwick,40.70528,-73.92205,Entire home/apt,180.0
 649423203553367743,Manhattan,Upper East Side,40.7806,-73.94944,Entire home/apt,79.0
-649968161200990873,Bronx,Mott Haven,40.81154,-73.91819,Entire home/apt,389.0
 650138361418935954,Manhattan,Upper East Side,40.78228,-73.94941,Entire home/apt,83.0
 650712432517285683,Brooklyn,Williamsburg,40.71689503368682,-73.96337203681469,Entire home/apt,300.0
 654206843986971609,Brooklyn,Williamsburg,40.71355,-73.96318,Entire home/apt,100.0
@@ -1065,6 +1075,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 666687689202133264,Brooklyn,Bushwick,40.7007,-73.91441,Entire home/apt,149.0
 666705065274020115,Brooklyn,Bushwick,40.70071,-73.91287,Entire home/apt,88.0
 666720978502253554,Brooklyn,Bushwick,40.69902,-73.91387,Entire home/apt,101.0
+670239788354887215,Queens,Jamaica,40.70273353434613,-73.77941775183224,Entire home/apt,189.0
 670258225097904745,Brooklyn,Bushwick,40.69007,-73.91535,Entire home/apt,165.0
 670578061835591281,Brooklyn,Bushwick,40.70065,-73.91943,Entire home/apt,126.0
 671188401549574869,Queens,Astoria,40.77485692707096,-73.93460816560669,Entire home/apt,90.0
@@ -1118,13 +1129,16 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 710897185427371328,Brooklyn,Williamsburg,40.70698,-73.95028,Entire home/apt,264.0
 711477188594962909,Brooklyn,Williamsburg,40.71654,-73.94237,Entire home/apt,271.0
 712285563313632501,Manhattan,Upper East Side,40.76845,-73.95568,Entire home/apt,114.0
+712377668023114014,Queens,Jamaica,40.70418,-73.79819,Entire home/apt,135.0
 713920711978791782,Brooklyn,Bushwick,40.6900707,-73.9196438,Entire home/apt,83.0
 718031653455200639,Manhattan,Upper East Side,40.76939,-73.95498,Entire home/apt,115.0
 718045777713069841,Manhattan,Upper East Side,40.78176,-73.95405,Entire home/apt,200.0
 719054235443116316,Brooklyn,Bushwick,40.70808,-73.92212,Entire home/apt,356.0
 719127902147162360,Queens,Astoria,40.76051,-73.92059,Entire home/apt,124.0
+724108112790458125,Queens,Jamaica,40.7045,-73.80644,Entire home/apt,165.0
 719236297825192290,Manhattan,Upper East Side,40.78435,-73.94839,Entire home/apt,220.0
 720072722198622483,Brooklyn,Williamsburg,40.7131,-73.96059,Entire home/apt,700.0
+720505365691423669,Queens,Jamaica,40.68597,-73.79981,Entire home/apt,72.0
 721000569241610344,Brooklyn,Bay Ridge,40.6293,-74.02656,Entire home/apt,86.0
 721091038846734506,Manhattan,Upper East Side,40.77152,-73.95262,Entire home/apt,390.0
 722174109497563429,Manhattan,East Harlem,40.78617,-73.94998850000002,Entire home/apt,220.0
@@ -1135,7 +1149,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 729814772008750766,Manhattan,East Harlem,40.785112,-73.947301,Entire home/apt,304.0
 730620209721699066,Manhattan,Upper East Side,40.78057,-73.95188,Entire home/apt,150.0
 726205107648048166,Queens,Queens Village,40.71265,-73.73941,Entire home/apt,330.0
-728469995983065455,Bronx,Mott Haven,40.80977,-73.91932,Entire home/apt,284.0
 731940007156884626,Brooklyn,Bushwick,40.69905,-73.92809,Entire home/apt,250.0
 733357289463416967,Manhattan,Upper East Side,40.7786,-73.94787,Entire home/apt,200.0
 733643513468176349,Brooklyn,Williamsburg,40.71573,-73.93877,Entire home/apt,200.0
@@ -1157,6 +1170,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 736139385311072356,Brooklyn,Bay Ridge,40.62911321754182,-74.02875984472486,Entire home/apt,94.0
 736139658330793719,Brooklyn,Bay Ridge,40.62911,-74.02726,Entire home/apt,700.0
 736143192475629940,Manhattan,Upper East Side,40.7616771,-73.96259870000002,Entire home/apt,86.0
+736965655445471779,Queens,Jamaica,40.70762,-73.80114,Entire home/apt,420.0
 737567109090743244,Brooklyn,Williamsburg,40.71443,-73.94351,Entire home/apt,450.0
 741224200594669992,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,140.0
 741243111598984805,Manhattan,Upper East Side,40.7749268,-73.9481632,Entire home/apt,115.0
@@ -1180,10 +1194,12 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 756592509277510240,Queens,Queens Village,40.72603,-73.74894,Entire home/apt,98.0
 751604408695103064,Brooklyn,Bushwick,40.6977712,-73.9361899,Entire home/apt,64.0
 752169617765852622,Manhattan,Upper East Side,40.76272,-73.96232,Entire home/apt,192.0
+752731434443749551,Queens,Jamaica,40.69836,-73.78997,Entire home/apt,134.0
 753925994443114374,Queens,Astoria,40.7545,-73.92462,Entire home/apt,105.0
 754303014491958884,Manhattan,Upper East Side,40.77918,-73.94729,Entire home/apt,139.0
 754531862309177538,Queens,Astoria,40.75805,-73.92223,Entire home/apt,170.0
 756685458967490030,Manhattan,East Harlem,40.80261,-73.93785,Entire home/apt,219.0
+756936791389874192,Queens,Jamaica,40.70591,-73.80026,Entire home/apt,100.0
 762296955086811882,Brooklyn,Williamsburg,40.71018,-73.95568,Entire home/apt,27.0
 762777419274013912,Brooklyn,Bushwick,40.69885,-73.93304,Entire home/apt,210.0
 763044587478989128,Manhattan,Upper East Side,40.77149,-73.95628,Entire home/apt,125.0
@@ -1221,7 +1237,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 781979920797861016,Manhattan,Upper East Side,40.76087101286882,-73.96097622727308,Entire home/apt,124.0
 782404014855199852,Manhattan,East Harlem,40.78617,-73.94998850000002,Entire home/apt,201.0
 782703731135941912,Brooklyn,Williamsburg,40.715438654871946,-73.95543940365314,Entire home/apt,180.0
-782932651604019354,Bronx,Mott Haven,40.80718762240672,-73.92387783457983,Entire home/apt,320.0
 783319860023662816,Manhattan,Upper East Side,40.783,-73.95041,Entire home/apt,85.0
 778441097353195696,Manhattan,East Harlem,40.80107,-73.9378,Entire home/apt,85.0
 778471998312533603,Brooklyn,Williamsburg,40.71472,-73.955,Entire home/apt,145.0
@@ -1236,6 +1251,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 784992346056177689,Queens,Queens Village,40.71454312375768,-73.73957639169808,Entire home/apt,250.0
 785477500044951072,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,138.0
 785499763795327535,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,151.0
+791547385152000202,Queens,Jamaica,40.70481639052924,-73.79911791533232,Entire home/apt,89.0
 792084481792213383,Brooklyn,Bushwick,40.68604089999999,-73.9129553,Entire home/apt,178.0
 792775101360784896,Manhattan,Upper East Side,40.772404,-73.9544678,Entire home/apt,149.0
 792797538929761246,Manhattan,Upper East Side,40.7706801,-73.9573166,Entire home/apt,223.0
@@ -1324,7 +1340,9 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 824002783527215478,Manhattan,Upper East Side,40.76148955040532,-73.96063228923973,Entire home/apt,147.0
 824158611517383045,Manhattan,Upper East Side,40.76174,-73.96086,Entire home/apt,110.0
 824218029309043587,Manhattan,Upper East Side,40.7719985390798,-73.95338829614924,Entire home/apt,114.0
+824243317827217594,Queens,Jamaica,40.70959910000001,-73.7904856,Entire home/apt,114.0
 824322272943401454,Manhattan,Upper East Side,40.781409206697546,-73.94715522118392,Entire home/apt,129.0
+824581370085361147,Queens,Jamaica,40.67839,-73.78994,Entire home/apt,211.0
 824642500642437382,Queens,Astoria,40.76345,-73.92733,Entire home/apt,160.0
 827670335196395931,Manhattan,Upper East Side,40.764405,-73.9669253,Entire home/apt,390.0
 828797602316326682,Brooklyn,Flatlands,40.62831,-73.93634,Entire home/apt,160.0
@@ -1344,6 +1362,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 842077360551879392,Queens,Queens Village,40.710192317060574,-73.73201121499315,Entire home/apt,255.0
 842303573357572989,Queens,Queens Village,40.70434,-73.73109,Entire home/apt,124.0
 846357775746150075,Manhattan,Upper East Side,40.773817914483466,-73.95351725765231,Entire home/apt,170.0
+846635199398720517,Queens,Jamaica,40.69904469999999,-73.78209799999999,Entire home/apt,216.0
 837590494379094798,Manhattan,Upper East Side,40.78350470210151,-73.95070347294607,Entire home/apt,90.0
 837698762818158615,Brooklyn,Williamsburg,40.70501,-73.92871,Entire home/apt,135.0
 838140438684301140,Manhattan,East Harlem,40.80015360786754,-73.9397961863767,Entire home/apt,240.0
@@ -1352,6 +1371,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 842724427498164965,Brooklyn,Williamsburg,40.70872,-73.96718,Entire home/apt,265.0
 843026966136839934,Manhattan,Upper East Side,40.75983235355511,-73.96083705798239,Entire home/apt,183.0
 843468602620951565,Brooklyn,Williamsburg,40.71117322780045,-73.95660837635322,Entire home/apt,581.0
+844243178408061665,Queens,Jamaica,40.68472059125479,-73.76668207340056,Entire home/apt,314.0
 847350869830035151,Manhattan,Upper East Side,40.77231395203396,-73.95013076572398,Entire home/apt,271.0
 852308974299854597,Manhattan,Upper East Side,40.77921566429216,-73.95318227174424,Entire home/apt,140.0
 852961057914386482,Brooklyn,Williamsburg,40.7188770587938,-73.95878254805093,Entire home/apt,354.0
@@ -1448,6 +1468,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 900523198699096632,Manhattan,Upper East Side,40.780731498344025,-73.94789010496959,Entire home/apt,91.0
 900895229439907113,Brooklyn,Bushwick,40.7044383,-73.9228243,Entire home/apt,140.0
 908168226182126434,Queens,Queens Village,40.71084,-73.73205,Entire home/apt,99.0
+908911613377383627,Queens,Jamaica,40.708208103469175,-73.78746642502455,Entire home/apt,100.0
 909946357885285259,Manhattan,Upper East Side,40.77967,-73.94595,Entire home/apt,166.0
 910786394092056437,Brooklyn,Bushwick,40.69015,-73.90891,Entire home/apt,195.0
 912119017271777009,Manhattan,Upper East Side,40.77718,-73.95202,Entire home/apt,375.0
@@ -1472,6 +1493,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 927348854814354483,Manhattan,Upper East Side,40.7800854,-73.9474989,Entire home/apt,232.0
 928135852681483836,Queens,Queens Village,40.7209844079339,-73.73744682468758,Entire home/apt,65.0
 928632961796271539,Manhattan,East Harlem,40.78658,-73.94741,Entire home/apt,163.0
+929635247152298019,Queens,Jamaica,40.6965075,-73.8065589,Entire home/apt,236.0
 929747780149785100,Manhattan,Upper East Side,40.7660428,-73.95707809999999,Entire home/apt,181.0
 923207690874951698,Manhattan,Upper East Side,40.7708224,-73.9575626,Entire home/apt,97.0
 923241683452324279,Manhattan,Upper East Side,40.7658315,-73.9568257,Entire home/apt,208.0
@@ -1503,6 +1525,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 942039635983891486,Brooklyn,Williamsburg,40.71245,-73.95752,Entire home/apt,230.0
 942577089963887749,Brooklyn,Williamsburg,40.70633947156612,-73.9507157916148,Entire home/apt,189.0
 942733581675934093,Manhattan,East Harlem,40.79688163376393,-73.9365757552842,Entire home/apt,130.0
+942787222654669024,Queens,Jamaica,40.6688861,-73.7795654,Entire home/apt,100.0
 947227242982589922,Brooklyn,Flatlands,40.63036944727202,-73.93470972359569,Entire home/apt,125.0
 948641738106703685,Manhattan,Upper East Side,40.77717105077851,-73.94503776813694,Entire home/apt,135.0
 948686702143302519,Manhattan,East Harlem,40.79869418531823,-73.93581669777632,Entire home/apt,200.0
@@ -1555,7 +1578,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 980619476220059126,Manhattan,Upper East Side,40.76110822707903,-73.96087664554491,Entire home/apt,321.0
 980619551933164508,Manhattan,Upper East Side,40.76324361790317,-73.96252529115522,Entire home/apt,395.0
 980619691545526997,Manhattan,Upper East Side,40.76092607074757,-73.96177399580483,Entire home/apt,344.0
-977629654218303000,Bronx,Mott Haven,40.81653906604311,-73.92762063641452,Entire home/apt,76.0
 978191817244397875,Brooklyn,Williamsburg,40.71296,-73.94806,Entire home/apt,220.0
 978443139173660339,Manhattan,East Harlem,40.793981762452006,-73.94575416040635,Entire home/apt,99.0
 983263064441073410,Manhattan,Upper East Side,40.7659072,-73.9569948,Entire home/apt,172.0
@@ -1565,7 +1587,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 985419547082037217,Manhattan,Upper East Side,40.7660428,-73.95707809999999,Entire home/apt,176.0
 992585887716684545,Brooklyn,Williamsburg,40.7149,-73.94568,Entire home/apt,300.0
 989334284225183279,Brooklyn,Williamsburg,40.71532,-73.94194,Entire home/apt,111.0
-990528204399198792,Bronx,Mott Haven,40.807447,-73.914408,Entire home/apt,159.0
 992974980287590415,Manhattan,Upper East Side,40.76732,-73.96482,Entire home/apt,642.0
 993444139358865561,Manhattan,Upper East Side,40.77600836595364,-73.95208486906421,Entire home/apt,230.0
 993794008162433901,Brooklyn,Williamsburg,40.71666422956643,-73.95042094544434,Entire home/apt,300.0
@@ -1647,6 +1668,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1033928058346993729,Brooklyn,Williamsburg,40.71709841751627,-73.94081687817179,Entire home/apt,100.0
 1039053305366925702,Manhattan,Upper East Side,40.7707911,-73.95750079999999,Entire home/apt,163.0
 1039057147878209266,Manhattan,Upper East Side,40.78117,-73.9461,Entire home/apt,96.0
+1039243266340853872,Queens,Jamaica,40.68,-73.78194,Entire home/apt,200.0
 1036494663880720197,Brooklyn,Williamsburg,40.716,-73.94212,Entire home/apt,50.0
 1037088700497416622,Manhattan,Upper East Side,40.7658315,-73.9568257,Entire home/apt,235.0
 1043041856219811403,Brooklyn,Williamsburg,40.711686643946926,-73.96895069439945,Entire home/apt,280.0
@@ -1677,6 +1699,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1065123350709282894,Brooklyn,Bushwick,40.702212759885626,-73.92628514049039,Entire home/apt,164.0
 1065240416426347624,Brooklyn,Bushwick,40.69107,-73.90479,Entire home/apt,227.0
 1065372627170730644,Queens,Astoria,40.7747308,-73.9255226,Entire home/apt,204.0
+1061243380459743528,Queens,Jamaica,40.66904432469008,-73.76950849761963,Entire home/apt,155.0
 1061995840557392701,Brooklyn,Williamsburg,40.70817899741911,-73.94462493862305,Entire home/apt,139.0
 1063875033923981857,Brooklyn,Williamsburg,40.71389,-73.95569,Entire home/apt,200.0
 1067200330555496177,Brooklyn,Williamsburg,40.71668260000001,-73.9653829,Entire home/apt,305.0
@@ -1696,6 +1719,8 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1067326881507697240,Brooklyn,Williamsburg,40.7179304,-73.9641264,Entire home/apt,403.0
 1068219915878365503,Brooklyn,Bushwick,40.70008684837952,-73.91258297369244,Entire home/apt,93.0
 1072469407115663434,Brooklyn,Bushwick,40.68963215610562,-73.91205695634434,Entire home/apt,183.0
+1072521783407315734,Queens,Jamaica,40.6766902,-73.7810409,Entire home/apt,170.0
+1073157396308686926,Queens,Jamaica,40.67981185814616,-73.79420537705214,Entire home/apt,170.0
 1073179448074357226,Brooklyn,Williamsburg,40.70814587935,-73.96408530548699,Entire home/apt,120.0
 1073915671655296338,Brooklyn,Williamsburg,40.713195561768174,-73.95702940650163,Entire home/apt,196.0
 1072416905292439778,Manhattan,Upper East Side,40.78124854053342,-73.94730186084814,Entire home/apt,92.0
@@ -1718,6 +1743,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1083354516854663093,Brooklyn,Williamsburg,40.71028919102752,-73.96151862204145,Entire home/apt,115.0
 1083413347114647900,Manhattan,Upper East Side,40.781974780063045,-73.95276841160252,Entire home/apt,40.0
 1083457132325313315,Brooklyn,Flatlands,40.62852022908224,-73.92469947469766,Entire home/apt,371.0
+1081971812474517820,Queens,Jamaica,40.686471751360735,-73.77560761536071,Entire home/apt,110.0
 1087165768251308424,Brooklyn,Bushwick,40.683440071739895,-73.90749000110414,Entire home/apt,4950.0
 1089413171661165083,Brooklyn,Bushwick,40.69006251577457,-73.91924135094173,Entire home/apt,95.0
 1089816470431705091,Manhattan,Upper East Side,40.77101,-73.95826,Entire home/apt,223.0
@@ -1726,6 +1752,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1085501022862400875,Manhattan,Upper East Side,40.774907786797385,-73.95537808120531,Entire home/apt,244.0
 1085501920403799667,Manhattan,Upper East Side,40.7827919,-73.9540178,Entire home/apt,400.0
 1086200276891664933,Brooklyn,Bushwick,40.700130411573454,-73.91423765569925,Entire home/apt,120.0
+1086252238011627855,Queens,Jamaica,40.68178919736548,-73.76527262587305,Entire home/apt,148.0
 1091221131418995026,Manhattan,Upper East Side,40.76037172645532,-73.96290187763681,Entire home/apt,125.0
 1091245575223347519,Manhattan,Upper East Side,40.78025,-73.95169,Entire home/apt,131.0
 1091299935203308643,Brooklyn,Williamsburg,40.71261032089241,-73.95698624405394,Entire home/apt,300.0
@@ -1767,8 +1794,8 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1105728403589641263,Manhattan,Upper East Side,40.76275,-73.96261,Entire home/apt,175.0
 1109635962297154857,Manhattan,Upper East Side,40.7721902,-73.9569894,Entire home/apt,124.0
 1112317611985718983,Brooklyn,Bushwick,40.689837555969376,-73.92194462284183,Entire home/apt,130.0
+1112521342674312346,Queens,Jamaica,40.6981211,-73.8041205,Entire home/apt,130.0
 1113018441358108311,Manhattan,Upper East Side,40.76997341274069,-73.95866887195966,Entire home/apt,138.0
-1117721798584451198,Bronx,Mott Haven,40.81154982663996,-73.91715893474527,Entire home/apt,100.0
 1120419289800030647,Manhattan,East Harlem,40.7897768,-73.94890939999999,Entire home/apt,81.0
 1126075657490554047,Manhattan,Upper East Side,40.769927287688176,-73.95886266104,Entire home/apt,145.0
 1126079789337906197,Brooklyn,Bushwick,40.6996109,-73.9302507,Entire home/apt,395.0
@@ -1812,6 +1839,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1142793852382997220,Brooklyn,Bushwick,40.6982599,-73.92188279999999,Entire home/apt,160.0
 1145649837286129108,Brooklyn,Williamsburg,40.71559,-73.95344,Entire home/apt,228.0
 1146926015197516568,Brooklyn,Williamsburg,40.71533,-73.95536,Entire home/apt,280.0
+1151435308346713862,Queens,Jamaica,40.70964427911697,-73.79291089011741,Entire home/apt,120.0
 1151744908156205035,Manhattan,Upper East Side,40.78474,-73.94831,Entire home/apt,200.0
 1151766748844368063,Manhattan,Upper East Side,40.77664,-73.9512,Entire home/apt,560.0
 1152028214696276847,Manhattan,East Harlem,40.80472,-73.94098,Entire home/apt,125.0
@@ -1872,6 +1900,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1205846917993439171,Brooklyn,Bushwick,40.68654126568813,-73.91398153739324,Entire home/apt,72.0
 1205882392275820490,Brooklyn,Bushwick,40.68633,-73.91418,Entire home/apt,77.0
 1197671862542343289,Manhattan,Upper East Side,40.77731470000001,-73.96312150000001,Entire home/apt,1330.0
+1200095554682154611,Queens,Jamaica,40.68012,-73.78166,Entire home/apt,80.0
 1202074411142206871,Manhattan,Upper East Side,40.7718532,-73.9570418,Entire home/apt,324.0
 1203027322998758049,Queens,Astoria,40.76945689443472,-73.92804680856578,Entire home/apt,246.0
 1206559644182515631,Manhattan,East Harlem,40.78872446790321,-73.94895773216217,Entire home/apt,136.0
@@ -1906,6 +1935,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1226300509152734855,Brooklyn,Bay Ridge,40.63099,-74.0287,Entire home/apt,144.0
 1219100207830329728,Manhattan,East Harlem,40.79947577494665,-73.94180624925339,Entire home/apt,274.0
 1219216760016753934,Manhattan,Upper East Side,40.76037821931434,-73.96070153753394,Entire home/apt,80.0
+1220219701909794208,Queens,Jamaica,40.71032,-73.78518,Entire home/apt,149.0
 1223036077341645395,Manhattan,Upper East Side,40.7742736,-73.9646597,Entire home/apt,477.0
 1227818000807916145,Brooklyn,Williamsburg,40.71610765513123,-73.95225490888367,Entire home/apt,219.0
 1226793157066719945,Manhattan,East Harlem,40.78609,-73.94968,Entire home/apt,270.0
@@ -1946,6 +1976,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1257178258232634622,Manhattan,Upper East Side,40.77132284909372,-73.95498644251718,Entire home/apt,115.0
 1261013353272775382,Manhattan,East Harlem,40.79270800274113,-73.94171558871044,Entire home/apt,114.0
 1263758349868059423,Brooklyn,Williamsburg,40.7148389,-73.9647057,Entire home/apt,350.0
+1263929445623951904,Queens,Jamaica,40.68246,-73.7932,Entire home/apt,136.0
 1268936442619701149,Queens,Astoria,40.774304162508216,-73.92801784236325,Entire home/apt,184.0
 1257828763203524581,Manhattan,Upper East Side,40.7742554,-73.96467369999999,Entire home/apt,253.0
 1258294347905673882,Queens,Astoria,40.76308721987365,-73.9237146278025,Entire home/apt,120.0
@@ -1970,7 +2001,6 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1273999441913457977,Manhattan,Upper East Side,40.77275849999999,-73.95111039999999,Entire home/apt,95.0
 1274907523602524508,Manhattan,Upper East Side,40.7610789884252,-73.95773162764701,Entire home/apt,180.0
 1275404590621392936,Brooklyn,Williamsburg,40.71393383446862,-73.94421703516402,Entire home/apt,215.0
-1276211315180548863,Bronx,Mott Haven,40.8120543122782,-73.91757272478507,Entire home/apt,75.0
 1276222246131959855,Brooklyn,Bushwick,40.6815449351605,-73.90412639826536,Entire home/apt,280.0
 1276256657123457100,Brooklyn,Williamsburg,40.71222099950792,-73.9606279736193,Entire home/apt,90.0
 1276408151527662630,Brooklyn,Williamsburg,40.71795716638214,-73.94361725675483,Entire home/apt,210.0
@@ -1993,16 +2023,20 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1292494777551939065,Manhattan,Upper East Side,40.78322,-73.94877,Entire home/apt,188.0
 1292797757047068752,Brooklyn,Williamsburg,40.7183956735201,-73.95870718138286,Entire home/apt,100.0
 1292804860193464360,Manhattan,Upper East Side,40.77768,-73.95843,Entire home/apt,199.0
+1293119775453249994,Queens,Jamaica,40.68134,-73.77204,Entire home/apt,64.0
 1293465649301168871,Manhattan,Upper East Side,40.7779127,-73.95733349999999,Entire home/apt,154.0
 1294357209917236393,Manhattan,East Harlem,40.7909,-73.94909,Entire home/apt,120.0
 1297492109755858320,Queens,Astoria,40.76414038706773,-73.92782061562846,Entire home/apt,100.0
 1297762041714646973,Queens,Queens Village,40.7038385,-73.7483603,Entire home/apt,100.0
 1305216263895459156,Manhattan,East Harlem,40.7927,-73.94075,Entire home/apt,150.0
 1306627441732691566,Manhattan,Upper East Side,40.78009309999999,-73.9505166,Entire home/apt,242.0
+1306964850219973675,Queens,Jamaica,40.7065,-73.80332,Entire home/apt,104.0
 1307952985686504228,Brooklyn,Williamsburg,40.7161094,-73.9517153,Entire home/apt,250.0
+1297927955893940549,Queens,Jamaica,40.700306057485705,-73.7850435282857,Entire home/apt,80.0
 1298078346992867733,Manhattan,Upper East Side,40.78087958162297,-73.9532018094658,Entire home/apt,111.0
 1298105753258236200,Brooklyn,Williamsburg,40.7114556,-73.9621753,Entire home/apt,104.0
 1299405124262455022,Brooklyn,Bushwick,40.6867944,-73.912078,Entire home/apt,109.0
+1299518184950343395,Queens,Jamaica,40.683315,-73.774555,Entire home/apt,88.0
 1299524131259285835,Queens,Astoria,40.76206756695782,-73.91764398233896,Entire home/apt,135.0
 1300030023222277963,Manhattan,Upper East Side,40.76447360785432,-73.96937351187516,Entire home/apt,141.0
 1302440974253841487,Brooklyn,Bushwick,40.69937,-73.93622,Entire home/apt,160.0
@@ -2026,6 +2060,7 @@ id,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price
 1309475690879705407,Manhattan,East Harlem,40.78950938768983,-73.94979591396397,Entire home/apt,80.0
 1309481208952816987,Manhattan,East Harlem,40.78876,-73.94797,Entire home/apt,80.0
 1309593707806609196,Manhattan,Upper East Side,40.76275,-73.95959,Entire home/apt,93.0
+1309760275985262427,Queens,Jamaica,40.68092,-73.76855,Entire home/apt,105.0
 1311286982949807879,Manhattan,Upper East Side,40.77531719214937,-73.95103722810745,Entire home/apt,111.0
 1318094578446230017,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,369.0
 1318094924005883432,Manhattan,Upper East Side,40.7751289,-73.96470569999997,Entire home/apt,268.0

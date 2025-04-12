@@ -1,11 +1,11 @@
 region_id,region_name,region_type,year,pop_race_asian_pct,pop_race_white_pct,pop_race_black_pct,pop_race_hisp_pct
-106,Upper East Side,Sub-Borough Area,2021,9.4%,73.4,3.2,9.7%
-109,East Harlem,Sub-Borough Area,2021,9.7%,13.9,29.5,43.0%
-210,Williamsbridge/Baychester,Sub-Borough Area,2021,1.9%,6.4,55.9,31.8%
-301,Williamsburg/Greenpoint,Sub-Borough Area,2021,7.6%,59.4,3.8,22.2%
-304,Bushwick,Sub-Borough Area,2021,8.2%,24.0,15.7,47.6%
-310,Bay Ridge,Sub-Borough Area,2021,21.5%,50.9,1.8,22.7%
-318,Flatlands/Canarsie,Sub-Borough Area,2021,6.3%,20.4,55.7,9.2%
-401,Astoria,Sub-Borough Area,2021,15.0%,47.6,4.7,27.9%
-413,Queens Village,Sub-Borough Area,2021,18.2%,9.4,51.2,14.1%
-503,South Shore,Sub-Borough Area,2021,6.5%,76.5,0.3,13.0%
+106,Upper East Side,Sub-Borough Area,2021,9.4%,73.4%,3.2%,9.7%
+109,East Harlem,Sub-Borough Area,2021,9.7%,13.9%,29.5%,43.0%
+210,Williamsbridge/Baychester,Sub-Borough Area,2021,1.9%,6.4%,55.9%,31.8%
+301,Williamsburg/Greenpoint,Sub-Borough Area,2021,7.6%,59.4%,3.8%,22.2%
+304,Bushwick,Sub-Borough Area,2021,8.2%,24.0%,15.7%,47.6%
+310,Bay Ridge,Sub-Borough Area,2021,21.5%,50.9%,1.8%,22.7%
+318,Flatlands/Canarsie,Sub-Borough Area,2021,6.3%,20.4%,55.7%,9.2%
+401,Astoria,Sub-Borough Area,2021,15.0%,47.6%,4.7%,27.9%
+412,Jamaica,Sub-Borough Area,2021,16.2%,1.4%,55.2%,15.9%
+413,Queens Village,Sub-Borough Area,2021,18.2%,9.4%,51.2%,14.1%
